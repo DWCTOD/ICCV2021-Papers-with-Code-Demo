@@ -38,6 +38,8 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Visual Transformer](#VisualTransformer)
 - [实例分割/Instance Segmentation](#InstanceSegmentation)
 - [Human Actions](#HumanActions)
+- [视频插帧/Video Frame Interpolation](#VideoFrameInterpolation)
+- [人机交互/Hand-object Interaction](#Hand-object-Interaction)
 
 <a name="Backbone"></a>
 
@@ -71,7 +73,13 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 <a name="VisualTransformer"></a>
 
-## VisualTransformer
+## Visual Transformer
+
+:heavy_check_mark:**Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet**
+
+论文/paper：https://arxiv.org/abs/2101.11986
+
+代码/code： https://github.com/yitu-opensource/T2T-ViT
 
 :heavy_check_mark:**Visual Transformer with Statistical Test for COVID-19 Classification**
 
@@ -85,13 +93,13 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## 实例分割/Instance Segmentation
 
-**Crossover Learning for Fast Online Video Instance Segmentation**
+:heavy_check_mark:**Crossover Learning for Fast Online Video Instance Segmentation**
 
 论文/paper：https://arxiv.org/abs/2104.05970
 
 代码/code： https://github.com/hustvl/CrossVIS
 
-**Instances as Queries**
+:heavy_check_mark:**Instances as Queries**
 
 论文/paper：https://arxiv.org/abs/2105.01928
 
@@ -117,3 +125,26 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="VideoFrameInterpolation"></a>
+
+## 视频插帧/Video Frame Interpolation
+
+:heavy_check_mark:**XVFI: eXtreme Video Frame Interpolation**(Oral)
+
+论文/paper：https://arxiv.org/abs/2103.16206
+
+代码/code： https://github.com/JihyongOh/XVFI
+
+[返回目录/back](#Contents)
+
+<a name="Hand-object-Interaction"></a>
+
+## 人机交互/Hand-object Interaction
+
+:heavy_check_mark:**CPF: Learning a Contact Potential Field to Model the Hand-object Interaction**
+
+论文/paper：https://arxiv.org/abs/2012.00924
+
+代码/code：https://github.com/lixiny/CPF
+
+ [返回目录/back](#Contents)
