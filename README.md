@@ -32,19 +32,20 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 ## :hammer: **目录 |Table of Contents（点击直接跳转）**
 
 - [Backbone](#Backbone)
-
 - [Dataset](#dataset)
-
 - [Visual Transformer](#VisualTransformer)
+- [Image Semantic Segmentation](#ImageSemanticSegmentation)
 - [实例分割/Instance Segmentation](#InstanceSegmentation)
 - [Human Actions](#HumanActions)
+- [Face-Anti-spoofing](#Face-Anti-spoofing)
 - [视频插帧/Video Frame Interpolation](#VideoFrameInterpolation)
 - [超分辨/Super-Resolution](#Super-Resolution)
 - [人机交互/Hand-object Interaction](#Hand-object-Interaction)
 - [点云/point cloud](#pointcloud)
 - [字体生成/Font Generation](#FontGeneration)
 - [Autonomous-Driving](#Autonomous-Driving)
-- [其他/Others](Others)
+- [Visdrone_detection](#Visdrone_detection)
+- [其他/Others](#Others)
 
 <a name="Backbone"></a>
 
@@ -55,6 +56,12 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 论文/paper：https://arxiv.org/abs/2105.03889
 
 代码/code：https://github.com/pengzhiliang/Conformer
+
+**Reg-IBP: Efficient and Scalable Neural Network Robustness Training via Interval Bound Propagation**
+
+论文/paper：None
+
+代码/code：https://github.com/harrywuhust2022/Reg_IBP_ICCV2021
 
 [返回目录/back](#Contents)
 
@@ -94,9 +101,25 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="ImageSemanticSegmentation"></a>
+
+## Image Semantic Segmentation
+
+**Personalized Image Semantic Segmentation**
+
+论文/paper：None
+
+代码/code： https://github.com/zhangyuygss/PIS
+
 <a name="InstanceSegmentation"></a>
 
 ## 实例分割/Instance Segmentation
+
+**CDNet: Centripetal Direction Network for Nuclear Instance Segmentation**
+
+论文/paper：None
+
+代码/code： https://github.com/2021-ICCV/CDNet
 
 :heavy_check_mark:**Crossover Learning for Fast Online Video Instance Segmentation**
 
@@ -127,6 +150,18 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 论文/paper：https://arxiv.org/abs/2105.07404 | [主页/Homepage](https://deeperaction.github.io/multisports/)
 
 代码/code：https://github.com/MCG-NJU/MultiSports/
+
+[返回目录/back](#Contents)
+
+<a name="Face-Anti-spoofing"></a>
+
+## Face-Anti-spoofing
+
+**CL-Face-Anti-spoofing**
+
+论文/paper：None
+
+代码/code：https://github.com/xxheyu/CL-Face-Anti-spoofing
 
 [返回目录/back](#Contents)
 
@@ -168,7 +203,13 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 <a name="pointcloud"></a>
 
-## 点云/point cloud
+## 点云/Point Cloud
+
+***MVP Benchmark:* Multi-View Partial Point Clouds for Completion and Registration**
+
+论文/paper：None |[主页/Homepage](https://mvp-dataset.github.io/)
+
+代码/code：https://github.com/paul007pl/MVP_Benchmark
 
 **Walk in the Cloud: Learning Curves for Point Clouds Shape Analysis**
 
@@ -190,6 +231,8 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
  [返回目录/back](#Contents)
 
+<a name="Autonomous-Driving"></a>
+
 ## Autonomous-Driving
 
 **Road-Challenge-Event-Detection-for-Situation-Awareness-in-Autonomous-Driving**
@@ -200,9 +243,27 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
  [返回目录/back](#Contents)
 
+<a name="Visdrone_detection"></a>
+
+## Visdrone_detection
+
+**ICCV2021_Visdrone_detection**
+
+论文/paper：None
+
+代码/code：https://github.com/Gumpest/ICCV2021_Visdrone_detection
+
+ [返回目录/back](#Contents)
+
 <a name="Others"></a>
 
 ## 其他/Others
+
+**Cross-Camera Convolutional Color Constancy**
+
+论文/paper：https://arxiv.org/abs/2011.11164
+
+代码/code：https://github.com/mahmoudnafifi/C5
 
 **Learnable Boundary Guided Adversarial Training**
 
@@ -210,8 +271,13 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：https://github.com/FPNAS/LBGAT
 
+**Prior-Enhanced network with Meta-Prototypes (PEMP)**
+
+论文/paper：None
+
+代码/code：https://github.com/PaperSubmitAAAA/ICCV2021-2337
+
  [返回目录/back](#Contents)
 
 
 
-# 
