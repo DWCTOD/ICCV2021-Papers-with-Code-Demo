@@ -39,7 +39,12 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [实例分割/Instance Segmentation](#InstanceSegmentation)
 - [Human Actions](#HumanActions)
 - [视频插帧/Video Frame Interpolation](#VideoFrameInterpolation)
+- [超分辨/Super-Resolution](#Super-Resolution)
 - [人机交互/Hand-object Interaction](#Hand-object-Interaction)
+- [点云/point cloud](#pointcloud)
+- [字体生成/Font Generation](#FontGeneration)
+- [Autonomous-Driving](#Autonomous-Driving)
+- [其他/Others](Others)
 
 <a name="Backbone"></a>
 
@@ -137,6 +142,18 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="Super-Resolution"></a>
+
+## 超分辨/Super-Resolution
+
+**Overfitting the Data: Compact Neural Video Delivery via Content-aware Feature Modulation**
+
+论文/paper：None
+
+代码/code： https://github.com/Anonymous-iccv2021-paper3163/CaFM-Pytorch
+
+[返回目录/back](#Contents)
+
 <a name="Hand-object-Interaction"></a>
 
 ## 人机交互/Hand-object Interaction
@@ -148,3 +165,53 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 代码/code：https://github.com/lixiny/CPF
 
  [返回目录/back](#Contents)
+
+<a name="pointcloud"></a>
+
+## 点云/point cloud
+
+**Walk in the Cloud: Learning Curves for Point Clouds Shape Analysis**
+
+论文/paper：https://arxiv.org/abs/2105.01288v1| [主页/Homepage](https://curvenet.github.io/)
+
+代码/code：https://github.com/tiangexiang/CurveNet
+
+ [返回目录/back](#Contents)
+
+<a name="FontGeneration"></a>
+
+## 字体生成/Font Generation
+
+:heavy_check_mark:**Multiple Heads are Better than One: Few-shot Font Generation with Multiple Localized Experts**
+
+论文/paper：https://arxiv.org/abs/2104.00887
+
+代码/code：https://github.com/clovaai/mxfont
+
+ [返回目录/back](#Contents)
+
+## Autonomous-Driving
+
+**Road-Challenge-Event-Detection-for-Situation-Awareness-in-Autonomous-Driving**
+
+论文/paper：None
+
+代码/code：https://github.com/Trevorchenmsu/Road-Challenge-Event-Detection-for-Situation-Awareness-in-Autonomous-Driving
+
+ [返回目录/back](#Contents)
+
+<a name="Others"></a>
+
+## 其他/Others
+
+**Learnable Boundary Guided Adversarial Training**
+
+论文/paper：https://arxiv.org/abs/2011.11164
+
+代码/code：https://github.com/FPNAS/LBGAT
+
+ [返回目录/back](#Contents)
+
+
+
+# 
