@@ -41,6 +41,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [行人重识别/Re-Identification](#Re-Identification)
 - [Face-Anti-spoofing](#Face-Anti-spoofing)
 - [视频插帧/Video Frame Interpolation](#VideoFrameInterpolation)
+- [NeRF](#NeRF)
 - [超分辨/Super-Resolution](#Super-Resolution)
 - [人机交互/Hand-object Interaction](#Hand-object-Interaction)
 - [点云/point cloud](#pointcloud)
@@ -135,6 +136,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2104.12763 | [主页/Homepage](https://ashkamath.github.io/mdetr_page/)
 - 代码/code： https://github.com/ashkamath/mdetr
 
+**Rank & Sort Loss for Object Detection and Instance Segmentation** (Oral)
+
+- 论文/paper：https://arxiv.org/abs/2107.11669
+- 代码/code：https://github.com/kemaloksuz/RankSortLoss
+
 [返回目录/back](#Contents)
 
 <a name="ImageSemanticSegmentation"></a>
@@ -166,8 +172,12 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 :heavy_check_mark:**Instances as Queries**
 
 - 论文/paper：https://arxiv.org/abs/2105.01928
-
 - 代码/code： https://github.com/hustvl/QueryInst
+
+**Rank & Sort Loss for Object Detection and Instance Segmentation** (Oral)
+
+- 论文/paper：https://arxiv.org/abs/2107.11669
+- 代码/code：https://github.com/kemaloksuz/RankSortLoss
 
 [返回目录/back](#Contents)
 
@@ -223,9 +233,47 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="NeRF"></a>
+
+## NeRF
+
+**GNeRF: GAN-based Neural Radiance Field without Posed Camera**
+
+- 论文/paper：https://arxiv.org/abs/2103.15606 | [主页/Homepage](https://nvlabs.github.io/GANcraft/)
+- 代码/code：https://github.com/MQ66/gnerf
+
+**In-Place Scene Labelling and Understanding with Implicit Scene Representation** (Oral)
+
+- 论文/paper：https://arxiv.org/abs/2103.15875 | [主页/Homepage](https://shuaifengzhi.com/Semantic-NeRF/)
+- 代码/code：None
+
+**KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs**
+
+- 论文/paper：https://arxiv.org/abs/2103.13744| [主页/Homepage](https://pengsongyou.github.io/)
+- 代码/code：https://github.com/creiser/kilonerf
+
+**Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis**
+
+- 论文/paper：https://arxiv.org/abs/2104.00677 | [主页/Homepage](https://ajayj.com/dietnerf)
+- 代码/code：None
+
+**UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction** (Oral)
+
+- 论文/paper：https://arxiv.org/abs/2104.10078 | [主页/Homepage](https://pengsongyou.github.io/)
+
+- 代码/code：None
+
+[返回目录/back](#Contents)
+
 <a name="Super-Resolution"></a>
 
 ## 超分辨/Super-Resolution
+
+**Learning for Scale-Arbitrary Super-Resolution from Scale-Specific Networks**
+
+- 论文/paper：https://arxiv.org/abs/2004.03791
+
+- 代码/code：https://github.com/LongguangWang/ArbSR
 
 **Overfitting the Data: Compact Neural Video Delivery via Content-aware Feature Modulation**
 
@@ -251,7 +299,13 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## 点云/Point Cloud
 
-***MVP Benchmark:* Multi-View Partial Point Clouds for Completion and Registration**
+**InstanceRefer: Cooperative Holistic Understanding for Visual Grounding on Point Clouds through Instance Multi-level Contextual Referring**
+
+- 论文/paper：https://arxiv.org/pdf/2103.01128.pdf
+
+- 代码/code：https://github.com/CurryYuan/InstanceRefer
+
+**MVP Benchmark: Multi-View Partial Point Clouds for Completion and Registration**
 
 - 论文/paper：None |[主页/Homepage](https://mvp-dataset.github.io/)
 
@@ -320,8 +374,12 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Prior-Enhanced network with Meta-Prototypes (PEMP)**
 
 - 论文/paper：None
-
 - 代码/code：https://github.com/PaperSubmitAAAA/ICCV2021-2337
+
+**MDETR -- Modulated Detection for End-to-End Multi-Modal Understanding**
+
+- 论文/paper：https://arxiv.org/abs/2104.12763 | [主页/Homepage](https://ashkamath.github.io/mdetr_page/)
+- 代码/code：https://github.com/ashkamath/mdetr
 
  [返回目录/back](#Contents)
 
