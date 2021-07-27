@@ -34,9 +34,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Backbone](#Backbone)
 - [Dataset](#dataset)
 - [Visual Transformer](#VisualTransformer)
+- [目标检测/Object Detection](#ObjectDetection)
 - [Image Semantic Segmentation](#ImageSemanticSegmentation)
 - [实例分割/Instance Segmentation](#InstanceSegmentation)
 - [Human Actions](#HumanActions)
+- [行人重识别/Re-Identification](#Re-Identification)
 - [Face-Anti-spoofing](#Face-Anti-spoofing)
 - [视频插帧/Video Frame Interpolation](#VideoFrameInterpolation)
 - [超分辨/Super-Resolution](#Super-Resolution)
@@ -53,15 +55,15 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 :heavy_check_mark:**Conformer: Local Features Coupling Global Representations for Visual Recognition**
 
-论文/paper：https://arxiv.org/abs/2105.03889
+- 论文/paper：https://arxiv.org/abs/2105.03889
 
-代码/code：https://github.com/pengzhiliang/Conformer
+- 代码/code：https://github.com/pengzhiliang/Conformer
 
 **Reg-IBP: Efficient and Scalable Neural Network Robustness Training via Interval Bound Propagation**
 
-论文/paper：None
+- 论文/paper：None
 
-代码/code：https://github.com/harrywuhust2022/Reg_IBP_ICCV2021
+- 代码/code：https://github.com/harrywuhust2022/Reg_IBP_ICCV2021
 
 [返回目录/back](#Contents)
 
@@ -71,15 +73,15 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 :heavy_check_mark:**FineAction: A Fined Video Dataset for Temporal Action Localization**
 
-论文/paper：https://arxiv.org/abs/2105.11107 | [主页/Homepage](https://deeperaction.github.io/fineaction/)
+- 论文/paper：https://arxiv.org/abs/2105.11107 | [主页/Homepage](https://deeperaction.github.io/fineaction/)
 
-代码/code： None
+- 代码/code： None
 
 :heavy_check_mark:**MultiSports: A Multi-Person Video Dataset of Spatio-Temporally Localized Sports Actions**
 
-论文/paper：https://arxiv.org/abs/2105.07404 | [主页/Homepage](https://deeperaction.github.io/multisports/)
+- 论文/paper：https://arxiv.org/abs/2105.07404 | [主页/Homepage](https://deeperaction.github.io/multisports/)
 
-代码/code：https://github.com/MCG-NJU/MultiSports/
+- 代码/code：https://github.com/MCG-NJU/MultiSports/
 
 [返回目录/back](#Contents)
 
@@ -89,15 +91,49 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 :heavy_check_mark:**Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet**
 
-论文/paper：https://arxiv.org/abs/2101.11986
+- 论文/paper：https://arxiv.org/abs/2101.11986
 
-代码/code： https://github.com/yitu-opensource/T2T-ViT
+- 代码/code： https://github.com/yitu-opensource/T2T-ViT
 
 :heavy_check_mark:**Visual Transformer with Statistical Test for COVID-19 Classification**
 
-论文/paper：https://arxiv.org/abs/2107.05334
+- 论文/paper：https://arxiv.org/abs/2107.05334
 
-代码/code： None
+- 代码/code： None
+
+[返回目录/back](#Contents)
+
+<a name="ObjectDetection"></a>
+
+## 目标检测/Object Detection
+
+**Active Learning for Deep Object Detection via Probabilistic Modeling**
+
+- 论文/paper：https://arxiv.org/abs/2103.16130
+
+- 代码/code：None
+
+**Conditional Variational Capsule Network for Open Set Recognition**
+
+- 论文/paper： https://arxiv.org/abs/2104.09159
+
+- 代码/code：https://github.com/guglielmocamporese/cvaecaposr
+
+**DetCo: Unsupervised Contrastive Learning for Object Detection**
+
+- 论文/paper：https://arxiv.org/abs/2102.04803
+
+- 代码/code： https://github.com/xieenze/DetCo
+
+**Detecting Invisible People**
+
+- 论文/paper：https://arxiv.org/abs/2012.08419 | [主页/Homepage](http://www.cs.cmu.edu/~tkhurana/invisible.htm)
+- 代码/code：None
+
+**MDETR : Modulated Detection for End-to-End Multi-Modal Understanding**
+
+- 论文/paper：https://arxiv.org/abs/2104.12763 | [主页/Homepage](https://ashkamath.github.io/mdetr_page/)
+- 代码/code： https://github.com/ashkamath/mdetr
 
 [返回目录/back](#Contents)
 
@@ -107,9 +143,9 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 **Personalized Image Semantic Segmentation**
 
-论文/paper：None
+- 论文/paper：None
 
-代码/code： https://github.com/zhangyuygss/PIS
+- 代码/code： https://github.com/zhangyuygss/PIS
 
 <a name="InstanceSegmentation"></a>
 
@@ -117,21 +153,21 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 **CDNet: Centripetal Direction Network for Nuclear Instance Segmentation**
 
-论文/paper：None
+- 论文/paper：None
 
-代码/code： https://github.com/2021-ICCV/CDNet
+- 代码/code： https://github.com/2021-ICCV/CDNet
 
 :heavy_check_mark:**Crossover Learning for Fast Online Video Instance Segmentation**
 
-论文/paper：https://arxiv.org/abs/2104.05970
+- 论文/paper：https://arxiv.org/abs/2104.05970
 
-代码/code： https://github.com/hustvl/CrossVIS
+- 代码/code： https://github.com/hustvl/CrossVIS
 
 :heavy_check_mark:**Instances as Queries**
 
-论文/paper：https://arxiv.org/abs/2105.01928
+- 论文/paper：https://arxiv.org/abs/2105.01928
 
-代码/code： https://github.com/hustvl/QueryInst
+- 代码/code： https://github.com/hustvl/QueryInst
 
 [返回目录/back](#Contents)
 
@@ -141,17 +177,27 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 :heavy_check_mark:**FineAction: A Fined Video Dataset for Temporal Action Localization**
 
-论文/paper：https://arxiv.org/abs/2105.11107 | [主页/Homepage](https://deeperaction.github.io/fineaction/)
+- c论文/paper：https://arxiv.org/abs/2105.11107 | [主页/Homepage](https://deeperaction.github.io/fineaction/)
 
-代码/code： None
+- 代码/code： None
 
 :heavy_check_mark:**MultiSports: A Multi-Person Video Dataset of Spatio-Temporally Localized Sports Actions**
 
-论文/paper：https://arxiv.org/abs/2105.07404 | [主页/Homepage](https://deeperaction.github.io/multisports/)
+- 论文/paper：https://arxiv.org/abs/2105.07404 | [主页/Homepage](https://deeperaction.github.io/multisports/)
 
-代码/code：https://github.com/MCG-NJU/MultiSports/
+- 代码/code：https://github.com/MCG-NJU/MultiSports/
 
 [返回目录/back](#Contents)
+
+<a name="Re-Identification"></a>
+
+## 行人重识别/Re-Identification
+
+**TransReID: Transformer-based Object Re-Identification**
+
+- 论文/paper：https://arxiv.org/abs/2102.04378
+
+- 代码/code：https://github.com/heshuting555/TransReID
 
 <a name="Face-Anti-spoofing"></a>
 
@@ -159,9 +205,9 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 **CL-Face-Anti-spoofing**
 
-论文/paper：None
+- 论文/paper：None
 
-代码/code：https://github.com/xxheyu/CL-Face-Anti-spoofing
+- 代码/code：https://github.com/xxheyu/CL-Face-Anti-spoofing
 
 [返回目录/back](#Contents)
 
@@ -171,9 +217,9 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 :heavy_check_mark:**XVFI: eXtreme Video Frame Interpolation**(Oral)
 
-论文/paper：https://arxiv.org/abs/2103.16206
+- 论文/paper：https://arxiv.org/abs/2103.16206
 
-代码/code： https://github.com/JihyongOh/XVFI
+- 代码/code： https://github.com/JihyongOh/XVFI
 
 [返回目录/back](#Contents)
 
@@ -183,9 +229,9 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 **Overfitting the Data: Compact Neural Video Delivery via Content-aware Feature Modulation**
 
-论文/paper：None
+- 论文/paper：None
 
-代码/code： https://github.com/Anonymous-iccv2021-paper3163/CaFM-Pytorch
+- 代码/code： https://github.com/Anonymous-iccv2021-paper3163/CaFM-Pytorch
 
 [返回目录/back](#Contents)
 
@@ -195,9 +241,9 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 :heavy_check_mark:**CPF: Learning a Contact Potential Field to Model the Hand-object Interaction**
 
-论文/paper：https://arxiv.org/abs/2012.00924
+- 论文/paper：https://arxiv.org/abs/2012.00924
 
-代码/code：https://github.com/lixiny/CPF
+- 代码/code：https://github.com/lixiny/CPF
 
  [返回目录/back](#Contents)
 
@@ -207,15 +253,15 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ***MVP Benchmark:* Multi-View Partial Point Clouds for Completion and Registration**
 
-论文/paper：None |[主页/Homepage](https://mvp-dataset.github.io/)
+- 论文/paper：None |[主页/Homepage](https://mvp-dataset.github.io/)
 
-代码/code：https://github.com/paul007pl/MVP_Benchmark
+- 代码/code：https://github.com/paul007pl/MVP_Benchmark
 
 **Walk in the Cloud: Learning Curves for Point Clouds Shape Analysis**
 
-论文/paper：https://arxiv.org/abs/2105.01288v1| [主页/Homepage](https://curvenet.github.io/)
+- 论文/paper：https://arxiv.org/abs/2105.01288v1| [主页/Homepage](https://curvenet.github.io/)
 
-代码/code：https://github.com/tiangexiang/CurveNet
+- 代码/code：https://github.com/tiangexiang/CurveNet
 
  [返回目录/back](#Contents)
 
@@ -225,9 +271,9 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 :heavy_check_mark:**Multiple Heads are Better than One: Few-shot Font Generation with Multiple Localized Experts**
 
-论文/paper：https://arxiv.org/abs/2104.00887
+- 论文/paper：https://arxiv.org/abs/2104.00887
 
-代码/code：https://github.com/clovaai/mxfont
+- 代码/code：https://github.com/clovaai/mxfont
 
  [返回目录/back](#Contents)
 
@@ -237,9 +283,9 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 **Road-Challenge-Event-Detection-for-Situation-Awareness-in-Autonomous-Driving**
 
-论文/paper：None
+- 论文/paper：None
 
-代码/code：https://github.com/Trevorchenmsu/Road-Challenge-Event-Detection-for-Situation-Awareness-in-Autonomous-Driving
+- 代码/code：https://github.com/Trevorchenmsu/Road-Challenge-Event-Detection-for-Situation-Awareness-in-Autonomous-Driving
 
  [返回目录/back](#Contents)
 
@@ -249,9 +295,9 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 **ICCV2021_Visdrone_detection**
 
-论文/paper：None
+- 论文/paper：None
 
-代码/code：https://github.com/Gumpest/ICCV2021_Visdrone_detection
+- 代码/code：https://github.com/Gumpest/ICCV2021_Visdrone_detection
 
  [返回目录/back](#Contents)
 
@@ -261,21 +307,21 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 **Cross-Camera Convolutional Color Constancy**
 
-论文/paper：https://arxiv.org/abs/2011.11164
+- 论文/paper：https://arxiv.org/abs/2011.11164
 
-代码/code：https://github.com/mahmoudnafifi/C5
+- 代码/code：https://github.com/mahmoudnafifi/C5
 
 **Learnable Boundary Guided Adversarial Training**
 
-论文/paper：https://arxiv.org/abs/2011.11164
+- 论文/paper：https://arxiv.org/abs/2011.11164
 
-代码/code：https://github.com/FPNAS/LBGAT
+- 代码/code：https://github.com/FPNAS/LBGAT
 
 **Prior-Enhanced network with Meta-Prototypes (PEMP)**
 
-论文/paper：None
+- 论文/paper：None
 
-代码/code：https://github.com/PaperSubmitAAAA/ICCV2021-2337
+- 代码/code：https://github.com/PaperSubmitAAAA/ICCV2021-2337
 
  [返回目录/back](#Contents)
 
