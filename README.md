@@ -37,7 +37,10 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [目标检测/Object Detection](#ObjectDetection)
 - [Image Semantic Segmentation](#ImageSemanticSegmentation)
 - [实例分割/Instance Segmentation](#InstanceSegmentation)
+- [GAN](#GAN)
+- [Geometric deep learning](#GeometricDeepLearning)
 - [Human Actions](#HumanActions)
+- [Face Reconstruction](#FaceReconstruction)
 - [行人重识别/Re-Identification](#Re-Identification)
 - [Face-Anti-spoofing](#Face-Anti-spoofing)
 - [视频插帧/Video Frame Interpolation](#VideoFrameInterpolation)
@@ -147,11 +150,18 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## Image Semantic Segmentation
 
+**Enhanced Boundary Learning for Glass-like Object Segmentation**
+
+- 论文/paper：https://arxiv.org/abs/2103.15734
+
+- 代码/code：https://github.com/hehao13/EBLNet
+
 **Personalized Image Semantic Segmentation**
 
 - 论文/paper：None
-
 - 代码/code： https://github.com/zhangyuygss/PIS
+
+[返回目录/back](#Contents)
 
 <a name="InstanceSegmentation"></a>
 
@@ -181,13 +191,41 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="GAN"></a>
+
+## GAN
+
+**Manifold Matching via Deep Metric Learning for Generative Modeling**
+
+- 论文/paper：https://arxiv.org/abs/2106.10777
+- 代码/code：https://github.com/dzld00/pytorch-manifold-matching
+
+[返回目录/back](#Contents)
+
+<a name="GeometricDeepLearning"></a>
+
+## Geometric deep learning
+
+**Manifold Matching via Deep Metric Learning for Generative Modeling**
+
+- 论文/paper：https://arxiv.org/abs/2106.10777
+- 代码/code：https://github.com/dzld00/pytorch-manifold-matching
+
+[返回目录/back](#Contents)
+
 <a name="HumanActions"></a>
 
 ## **Human Actions**
 
+**Channel-wise Topology Refinement Graph Convolution for Skeleton-Based Action Recognition**
+
+- 论文/paper：https://arxiv.org/abs/2107.12213
+
+- 代码/code：https://github.com/Uason-Chen/CTR-GCN
+
 :heavy_check_mark:**FineAction: A Fined Video Dataset for Temporal Action Localization**
 
-- c论文/paper：https://arxiv.org/abs/2105.11107 | [主页/Homepage](https://deeperaction.github.io/fineaction/)
+- 论文/paper：https://arxiv.org/abs/2105.11107 | [主页/Homepage](https://deeperaction.github.io/fineaction/)
 
 - 代码/code： None
 
@@ -196,6 +234,18 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2105.07404 | [主页/Homepage](https://deeperaction.github.io/multisports/)
 
 - 代码/code：https://github.com/MCG-NJU/MultiSports/
+
+[返回目录/back](#Contents)
+
+<a name="FaceReconstruction"></a>
+
+# Face Reconstruction
+
+**Towards High Fidelity Monocular Face Reconstruction with Rich Reflectance using Self-supervised Learning and Ray Tracing**
+
+- 论文/paper：https://arxiv.org/abs/2103.15432
+
+- 代码/code：None
 
 [返回目录/back](#Contents)
 
@@ -380,6 +430,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2104.12763 | [主页/Homepage](https://ashkamath.github.io/mdetr_page/)
 - 代码/code：https://github.com/ashkamath/mdetr
+
+**Generalized-Shuffled-Linear-Regression**
+
+- 论文/paper：https://drive.google.com/file/d/1Qu21VK5qhCW8WVjiRnnBjehrYVmQrDNh/view
+- 代码/code：https://github.com/SILI1994/Generalized-Shuffled-Linear-Regression
 
  [返回目录/back](#Contents)
 
