@@ -423,6 +423,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 代码/code：https://github.com/Trevorchenmsu/Road-Challenge-Event-Detection-for-Situation-Awareness-in-Autonomous-Driving
 
+**Social NCE: Contrastive Learning of Socially-aware Motion Representations**
+
+- 论文/paper：https://arxiv.org/abs/2012.11717
+- 代码/code：https://github.com/vita-epfl/social-nce-crowdnav
+
  [返回目录/back](#Contents)
 
 <a name="Visdrone_detection"></a>
