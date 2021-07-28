@@ -66,8 +66,12 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Reg-IBP: Efficient and Scalable Neural Network Robustness Training via Interval Bound Propagation**
 
 - 论文/paper：None
-
 - 代码/code：https://github.com/harrywuhust2022/Reg_IBP_ICCV2021
+
+**Why Approximate Matrix Square Root Outperforms Accurate SVD in Global Covariance Pooling?**
+
+- 论文/paper：https://arxiv.org/abs/2105.02498
+- 代码/code：https://github.com/KingJamesSong/DifferentiableSVD
 
 [返回目录/back](#Contents)
 
@@ -358,8 +362,12 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **MVP Benchmark: Multi-View Partial Point Clouds for Completion and Registration**
 
 - 论文/paper：None |[主页/Homepage](https://mvp-dataset.github.io/)
-
 - 代码/code：https://github.com/paul007pl/MVP_Benchmark
+
+**OcCo: Pre-Training by Completing Point Clouds**
+
+- 论文/paper：https://arxiv.org/abs/2010.01089 |[主页/Homepage](https://hansen7.github.io/OcCo/)
+- 代码/code：https://github.com/hansen7/OcCo
 
 **Walk in the Cloud: Learning Curves for Point Clouds Shape Analysis**
 
@@ -431,10 +439,15 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2104.12763 | [主页/Homepage](https://ashkamath.github.io/mdetr_page/)
 - 代码/code：https://github.com/ashkamath/mdetr
 
-**Generalized-Shuffled-Linear-Regression**
+**Generalized-Shuffled-Linear-Regression** （Oral）
 
 - 论文/paper：https://drive.google.com/file/d/1Qu21VK5qhCW8WVjiRnnBjehrYVmQrDNh/view
 - 代码/code：https://github.com/SILI1994/Generalized-Shuffled-Linear-Regression
+
+**VLGrammar: Grounded Grammar Induction of Vision and Language**
+
+- 论文/paper：https://arxiv.org/abs/2103.12975
+- 代码/code：https://github.com/evelinehong/VLGrammar
 
  [返回目录/back](#Contents)
 
