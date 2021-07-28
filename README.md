@@ -47,7 +47,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [视频插帧/Video Frame Interpolation](#VideoFrameInterpolation)
 - [NeRF](#NeRF)
 - [超分辨/Super-Resolution](#Super-Resolution)
-- [Image Reconstruction](#Image Reconstruction)
+- [Image Reconstruction](#ImageReconstruction)
 - [人机交互/Hand-object Interaction](#Hand-object-Interaction)
 - [点云/point cloud](#pointcloud)
 - [字体生成/Font Generation](#FontGeneration)
