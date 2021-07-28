@@ -40,12 +40,14 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [GAN](#GAN)
 - [Geometric deep learning](#GeometricDeepLearning)
 - [Human Actions](#HumanActions)
+- [Pose Estimation](#PoseEstimation)
 - [Face Reconstruction](#FaceReconstruction)
 - [行人重识别/Re-Identification](#Re-Identification)
 - [Face-Anti-spoofing](#Face-Anti-spoofing)
 - [视频插帧/Video Frame Interpolation](#VideoFrameInterpolation)
 - [NeRF](#NeRF)
 - [超分辨/Super-Resolution](#Super-Resolution)
+- [Image Reconstruction](#Image Reconstruction)
 - [人机交互/Hand-object Interaction](#Hand-object-Interaction)
 - [点云/point cloud](#pointcloud)
 - [字体生成/Font Generation](#FontGeneration)
@@ -241,6 +243,16 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="PoseEstimation"></a>
+
+## Pose Estimation
+
+- 论文/paper：https://arxiv.org/pdf/2104.03304.pdf | [主页/Homepage](https://hwjiang1510.github.io/GraspTTA/)
+
+- 代码/code： None
+
+[返回目录/back](#Contents)
+
 <a name="FaceReconstruction"></a>
 
 # Face Reconstruction
@@ -337,6 +349,18 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="ImageReconstruction"></a>
+
+## Image Reconstruction
+
+**Equivariant Imaging: Learning Beyond the Range Space** (Oral)
+
+- 论文/paper：https://arxiv.org/abs/2103.14756
+
+- 代码/code：https://github.com/edongdongchen/EI
+
+[返回目录/back](#Contents)
+
 <a name="Hand-object-Interaction"></a>
 
 ## 人机交互/Hand-object Interaction
@@ -364,7 +388,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：None |[主页/Homepage](https://mvp-dataset.github.io/)
 - 代码/code：https://github.com/paul007pl/MVP_Benchmark
 
-**OcCo: Pre-Training by Completing Point Clouds**
+**Unsupervised Point Cloud Pre-Training via View-Point Occlusion, Completion**
 
 - 论文/paper：https://arxiv.org/abs/2010.01089 |[主页/Homepage](https://hansen7.github.io/OcCo/)
 - 代码/code：https://github.com/hansen7/OcCo
