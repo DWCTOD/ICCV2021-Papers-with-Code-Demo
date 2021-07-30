@@ -156,6 +156,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## Image Semantic Segmentation
 
+**Exploring Cross-Image Pixel Contrast for Semantic Segmentation** （Oral）
+
+- 论文/paper：https://arxiv.org/abs/2101.11939
+- 代码/code：https://github.com/tfzhou/ContrastiveSeg
+
 **Enhanced Boundary Learning for Glass-like Object Segmentation**
 
 - 论文/paper：https://arxiv.org/abs/2103.15734
