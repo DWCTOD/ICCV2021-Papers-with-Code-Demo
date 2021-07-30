@@ -34,7 +34,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Backbone](#Backbone)
 - [Dataset](#dataset)
 - [Loss](#loss)
-- [Visual Transformer](#VisualTransformer)
+- [Vision Transformer](#VisualTransformer)
 - [目标检测/Object Detection](#ObjectDetection)
 - [Image Semantic Segmentation](#ImageSemanticSegmentation)
 - [实例分割/Instance Segmentation](#InstanceSegmentation)
@@ -51,6 +51,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Image Reconstruction](#ImageReconstruction)
 - [人机交互/Hand-object Interaction](#Hand-object-Interaction)
 - [Contrastive-Learning](#Contrastive-Learning)
+- [模型压缩/Compress](#Compress)
 - [点云/point cloud](#pointcloud)
 - [字体生成/Font Generation](#FontGeneration)
 - [Text Detection](#TextDetection)
@@ -121,7 +122,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 <a name="VisualTransformer"></a>
 
-## Visual Transformer
+## Vision Transformer
 
 **High-Fidelity Pluralistic Image Completion with Transformers**
 
@@ -132,6 +133,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2107.13108
 - 代码/code： https://github.com/IceTTTb/PlaneTR3D
+
+**Rethinking and Improving Relative Position Encoding for Vision Transformer**
+
+- 论文/paper：https://houwenpeng.com/publications/iRPE.pdf
+- 代码/code：https://github.com/wkcn/iRPE-model-zoo
 
 :heavy_check_mark:**Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet**
 
@@ -433,6 +439,18 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
  [返回目录/back](#Contents)
 
+<a name="Compress"></a>
+
+## 模型压缩/Compress
+
+**Sub-bit Neural Networks: Learning to Compress and Accelerate Binary Neural Networks**
+
+- 论文/paper：None
+
+- 代码/code：https://github.com/yikaiw/SNN
+
+ [返回目录/back](#Contents)
+
 <a name="pointcloud"></a>
 
 ## 点云/Point Cloud
@@ -542,6 +560,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2103.12975
 - 代码/code：https://github.com/evelinehong/VLGrammar
+
+**A New Journey from SDRTV to HDRTV**
+
+- 论文/paper：None
+- 代码/code：https://github.com/chxy95/HDRTVNet
 
  [返回目录/back](#Contents)
 
