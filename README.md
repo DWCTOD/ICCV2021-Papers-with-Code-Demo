@@ -33,6 +33,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - [Backbone](#Backbone)
 - [Dataset](#dataset)
+- [Loss](#loss)
 - [Visual Transformer](#VisualTransformer)
 - [目标检测/Object Detection](#ObjectDetection)
 - [Image Semantic Segmentation](#ImageSemanticSegmentation)
@@ -49,8 +50,10 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [超分辨/Super-Resolution](#Super-Resolution)
 - [Image Reconstruction](#ImageReconstruction)
 - [人机交互/Hand-object Interaction](#Hand-object-Interaction)
+- [Contrastive-Learning](#Contrastive-Learning)
 - [点云/point cloud](#pointcloud)
 - [字体生成/Font Generation](#FontGeneration)
+- [Text Detection](#TextDetection)
 - [Autonomous-Driving](#Autonomous-Driving)
 - [Visdrone_detection](#Visdrone_detection)
 - [其他/Others](#Others)
@@ -90,14 +93,45 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 :heavy_check_mark:**MultiSports: A Multi-Person Video Dataset of Spatio-Temporally Localized Sports Actions**
 
 - 论文/paper：https://arxiv.org/abs/2105.07404 | [主页/Homepage](https://deeperaction.github.io/multisports/)
-
 - 代码/code：https://github.com/MCG-NJU/MultiSports/
+
+**Overfitting the Data: Compact Neural Video Delivery via Content-aware Feature Modulation**
+
+- 论文/paper：None
+
+- 代码/code： https://github.com/Anonymous-iccv2021-paper3163/CaFM-Pytorch
+
+[返回目录/back](#Contents)
+
+<a name="loss"></a>
+
+## Loss
+
+**Focal Frequency Loss for Image Reconstruction and Synthesis**
+
+- 论文/paper：https://arxiv.org/abs/2012.12821
+- 代码/code：https://github.com/EndlessSora/focal-frequency-loss
+
+**Rank & Sort Loss for Object Detection and Instance Segmentation** (Oral)
+
+- 论文/paper：https://arxiv.org/abs/2107.11669
+- 代码/code：https://github.com/kemaloksuz/RankSortLoss
 
 [返回目录/back](#Contents)
 
 <a name="VisualTransformer"></a>
 
 ## Visual Transformer
+
+**High-Fidelity Pluralistic Image Completion with Transformers**
+
+- 论文/paper：https://arxiv.org/pdf/2103.14031.pdf | [主页/Homepage](http://raywzy.com/ICT/)
+- 代码/code： https://github.com/raywzy/ICT
+
+**PlaneTR: Structure-Guided Transformers for 3D Plane Recovery**
+
+- 论文/paper：https://arxiv.org/abs/2107.13108
+- 代码/code： https://github.com/IceTTTb/PlaneTR3D
 
 :heavy_check_mark:**Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet**
 
@@ -108,8 +142,12 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 :heavy_check_mark:**Visual Transformer with Statistical Test for COVID-19 Classification**
 
 - 论文/paper：https://arxiv.org/abs/2107.05334
-
 - 代码/code： None
+
+**Visual Saliency Transformer**
+
+- 论文/paper：https://arxiv.org/abs/2104.12099
+- 代码/code： https://github.com/nnizhang/VST
 
 [返回目录/back](#Contents)
 
@@ -221,6 +259,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2106.10777
 - 代码/code：https://github.com/dzld00/pytorch-manifold-matching
+
+**Orthogonal Jacobian Regularization for Unsupervised Disentanglement in Image Generation**
+
+- 论文/paper：None
+- 代码/code：https://github.com/csyxwei/OroJaR
 
 [返回目录/back](#Contents)
 
@@ -378,6 +421,18 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
  [返回目录/back](#Contents)
 
+<a name="Contrastive-Learning"></a>
+
+## Contrastive-Learning
+
+**Parametric Contrastive Learning**
+
+- 论文/paper：https://arxiv.org/abs/2107.12028
+
+- 代码/code：https://github.com/jiequancui/Parametric-Contrastive-Learning
+
+ [返回目录/back](#Contents)
+
 <a name="pointcloud"></a>
 
 ## 点云/Point Cloud
@@ -417,6 +472,16 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 代码/code：https://github.com/clovaai/mxfont
 
  [返回目录/back](#Contents)
+
+<a name="TextDetection"></a>
+
+# Text Detection
+
+**Adaptive Boundary Proposal Network for Arbitrary Shape Text Detection**
+
+- 论文/paper：https://arxiv.org/abs/2107.12664
+
+- 代码/code：https://github.com/GXYM/TextBPN
 
 <a name="Autonomous-Driving"></a>
 
