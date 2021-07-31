@@ -39,12 +39,15 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Image Semantic Segmentation](#ImageSemanticSegmentation)
 - [实例分割/Instance Segmentation](#InstanceSegmentation)
 - [GAN](#GAN)
+- [细粒度分类/Fine-Grained Visual Categorization](#Fine-Grained-Visual-Categorization)
 - [Geometric deep learning](#GeometricDeepLearning)
 - [Human Actions](#HumanActions)
 - [Pose Estimation](#PoseEstimation)
+- [6D Object Pose Estimation](#6D-Object-Pose-Estimation)
 - [Face Reconstruction](#FaceReconstruction)
 - [行人重识别/Re-Identification](#Re-Identification)
 - [Face-Anti-spoofing](#Face-Anti-spoofing)
+- [深度估计 / Depth Estimation](#DepthEstimation)
 - [视频插帧/Video Frame Interpolation](#VideoFrameInterpolation)
 - [NeRF](#NeRF)
 - [超分辨/Super-Resolution](#Super-Resolution)
@@ -257,6 +260,17 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="Fine-Grained-Visual-Categorization"></a>
+
+## 细粒度分类/Fine-Grained Visual Categorization
+
+**Benchmark Platform for Ultra-Fine-Grained Visual Categorization BeyondHuman Performance**
+
+- 论文/paper：None
+- 代码/code：https://github.com/XiaohanYu-GU/Ultra-FGVC
+
+[返回目录/back](#Contents)
+
 <a name="GeometricDeepLearning"></a>
 
 ## Geometric deep learning
@@ -301,9 +315,22 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## Pose Estimation
 
+**Hand-Object Contact Consistency Reasoning for Human Grasps Generation**
+
 - 论文/paper：https://arxiv.org/pdf/2104.03304.pdf | [主页/Homepage](https://hwjiang1510.github.io/GraspTTA/)
 
 - 代码/code： None
+
+[返回目录/back](#Contents)
+
+<a name="6D-Object-Pose-Estimation"></a>
+
+## 6D Object Pose Estimation
+
+**RePOSE: Real-Time Iterative Rendering and Refinement for 6D Object Pose Estimation**
+
+- 论文/paper：https://arxiv.org/abs/2104.00633
+- 代码/code：https://github.com/sh8/RePOSE
 
 [返回目录/back](#Contents)
 
@@ -338,6 +365,18 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：None
 
 - 代码/code：https://github.com/xxheyu/CL-Face-Anti-spoofing
+
+[返回目录/back](#Contents)
+
+<a name="DepthEstimation"></a>
+
+## 深度估计 / Depth Estimation
+
+**AA-RMVSNet: Adaptive Aggregation Recurrent Multi-view Stereo Network**
+
+- 论文/paper：None
+
+- 代码/code：https://github.com/QT-Zhu/AA-RMVSNet
 
 [返回目录/back](#Contents)
 
@@ -565,6 +604,16 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：None
 - 代码/code：https://github.com/chxy95/HDRTVNet
+
+**IICNet: A Generic Framework for Reversible Image Conversion**
+
+- 论文/paper：None
+- 代码/code：https://github.com/felixcheng97/IICNet
+
+**Structure-Preserving Deraining with Residue Channel Prior Guidance**
+
+- 论文/paper：None
+- 代码/code：https://github.com/Joyies/SPDNet
 
  [返回目录/back](#Contents)
 
