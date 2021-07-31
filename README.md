@@ -37,6 +37,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Vision Transformer](#VisualTransformer)
 - [目标检测/Object Detection](#ObjectDetection)
 - [Image Semantic Segmentation](#ImageSemanticSegmentation)
+- [3D Semantic Segmentation](#3D-Semantic-Segmentation)
 - [实例分割/Instance Segmentation](#InstanceSegmentation)
 - [GAN](#GAN)
 - [细粒度分类/Fine-Grained Visual Categorization](#Fine-Grained-Visual-Categorization)
@@ -52,12 +53,16 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [NeRF](#NeRF)
 - [超分辨/Super-Resolution](#Super-Resolution)
 - [Image Reconstruction](#ImageReconstruction)
+- [Image Desnowing](#ImageDesnowing)
+- [Image Enhancement](#ImageEnhancement)
 - [人机交互/Hand-object Interaction](#Hand-object-Interaction)
 - [Contrastive-Learning](#Contrastive-Learning)
+- [Graph Convolution Networks](#Graph-Convolution-Networks)
 - [模型压缩/Compress](#Compress)
 - [点云/point cloud](#pointcloud)
 - [字体生成/Font Generation](#FontGeneration)
 - [Text Detection](#TextDetection)
+- [Scene Text Recognizer](#SceneTextRecognizer)
 - [Autonomous-Driving](#Autonomous-Driving)
 - [Visdrone_detection](#Visdrone_detection)
 - [其他/Others](#Others)
@@ -187,6 +192,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2012.08419 | [主页/Homepage](http://www.cs.cmu.edu/~tkhurana/invisible.htm)
 - 代码/code：None
 
+**FMODetect: Robust Detection and Trajectory Estimation of Fast Moving Objects**
+
+- 论文/paper：None
+- 代码/code：https://github.com/rozumden/FMODetect
+
 **MDETR : Modulated Detection for End-to-End Multi-Modal Understanding**
 
 - 论文/paper：https://arxiv.org/abs/2104.12763 | [主页/Homepage](https://ashkamath.github.io/mdetr_page/)
@@ -218,6 +228,17 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：None
 - 代码/code： https://github.com/zhangyuygss/PIS
+
+[返回目录/back](#Contents)
+
+<a name="3D-Semantic-Segmentation"></a>
+
+## 3D Semantic Segmentation
+
+**VMNet: Voxel-Mesh Network for Geodesic-aware 3D Semantic Segmentation**
+
+- 论文/paper：None
+- 代码/code：https://github.com/hzykent/VMNet
 
 [返回目录/back](#Contents)
 
@@ -350,6 +371,12 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## 行人重识别/Re-Identification
 
+**Learning Compatible Embeddings**
+
+- 论文/paper：None
+
+- 代码/code：https://github.com/IrvingMeng/LCE
+
 **TransReID: Transformer-based Object Re-Identification**
 
 - 论文/paper：https://arxiv.org/abs/2102.04378
@@ -375,8 +402,12 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **AA-RMVSNet: Adaptive Aggregation Recurrent Multi-view Stereo Network**
 
 - 论文/paper：None
-
 - 代码/code：https://github.com/QT-Zhu/AA-RMVSNet
+
+**Motion Basis Learning for Unsupervised Deep Homography Estimationwith Subspace Projection**
+
+- 论文/paper：None
+- 代码/code：https://github.com/NianjinYe/Motion-Basis-Homography
 
 [返回目录/back](#Contents)
 
@@ -454,6 +485,28 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="ImageDesnowing"></a>
+
+## Image Desnowing
+
+**ALL Snow Removed: Single Image Desnowing Algorithm Using Hierarchical Dual-tree Complex Wavelet Representation and Contradict Channel Loss**
+
+- 论文/paper：None
+- 代码/code：https://github.com/weitingchen83/ICCV2021-Single-Image-Desnowing-HDCWNet
+
+[返回目录/back](#Contents)
+
+<a name="ImageEnhancement"></a>
+
+## Image Enhancement
+
+**Gap-closing Matters: Perceptual Quality Assessment and Optimization of Low-Light Image Enhancement**
+
+- 论文/paper：None
+- 代码/code：https://github.com/Baoliang93/Gap-closing-Matters
+
+[返回目录/back](#Contents)
+
 <a name="Hand-object-Interaction"></a>
 
 ## 人机交互/Hand-object Interaction
@@ -475,6 +528,17 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2107.12028
 
 - 代码/code：https://github.com/jiequancui/Parametric-Contrastive-Learning
+
+ [返回目录/back](#Contents)
+
+<a name="Graph-Convolution-Networks"></a>
+
+## Graph Convolution Networks
+
+ **MSR-GCN: Multi-Scale Residual Graph Convolution Networks for Human Motion Prediction**
+
+- 论文/paper：None
+- 代码/code：https://github.com/Droliven/MSRGCN
 
  [返回目录/back](#Contents)
 
@@ -510,6 +574,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2010.01089 |[主页/Homepage](https://hansen7.github.io/OcCo/)
 - 代码/code：https://github.com/hansen7/OcCo
 
+**Vis2Mesh: Efficient Mesh Reconstruction from Unstructured Point Clouds of Large Scenes with Learned Virtual View Visibility**
+
+- 论文/paper：None
+- 代码/code：https://github.com/GDAOSU/vis2mesh
+
 **Walk in the Cloud: Learning Curves for Point Clouds Shape Analysis**
 
 - 论文/paper：https://arxiv.org/abs/2105.01288v1| [主页/Homepage](https://curvenet.github.io/)
@@ -532,13 +601,26 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 <a name="TextDetection"></a>
 
-# Text Detection
+## Text Detection
 
 **Adaptive Boundary Proposal Network for Arbitrary Shape Text Detection**
 
 - 论文/paper：https://arxiv.org/abs/2107.12664
-
 - 代码/code：https://github.com/GXYM/TextBPN
+
+ [返回目录/back](#Contents)
+
+<a name="SceneTextRecognizer"></a>
+
+## Scene Text Recognizer
+
+**From Two to One: A New Scene Text Recognizer with Visual Language Modeling Network**
+
+- 论文/paper：None
+
+- 代码/code：https://github.com/wangyuxin87/VisionLAN
+
+ [返回目录/back](#Contents)
 
 <a name="Autonomous-Driving"></a>
 
@@ -614,6 +696,21 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：None
 - 代码/code：https://github.com/Joyies/SPDNet
+
+**Learning with Noisy Labels via Sparse Regularization**
+
+- 论文/paper：None
+- 代码/code：https://github.com/hitcszx/lnl_sr
+
+**Neural Strokes: Stylized Line Drawing of 3D Shapes**
+
+- 论文/paper：None
+- 代码/code：https://github.com/DifanLiu/NeuralStrokes
+
+**COOKIE: Contrastive Cross-Modal Knowledge Sharing Pre-training for Vision-Language Representation**
+
+- 论文/paper：None
+- 代码/code：https://github.com/kywen1119/COOKIE
 
  [返回目录/back](#Contents)
 
