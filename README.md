@@ -130,6 +130,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2012.12821
 - 代码/code：https://github.com/EndlessSora/focal-frequency-loss
 
+**Orthogonal Projection Loss**
+
+- 论文/paper：https://arxiv.org/abs/2103.14021
+- 代码/code：https://github.com/kahnchana/opl
+
 **Rank & Sort Loss for Object Detection and Instance Segmentation** (Oral)
 
 - 论文/paper：https://arxiv.org/abs/2107.11669
@@ -141,20 +146,42 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## Vision Transformer
 
+**AutoFormer: Searching Transformers for Visual Recognition**
+
+- 论文/paper：https://arxiv.org/abs/2107.00651
+- 代码/code：https://github.com/microsoft/AutoML
+
 **High-Fidelity Pluralistic Image Completion with Transformers**
 
 - 论文/paper：https://arxiv.org/pdf/2103.14031.pdf | [主页/Homepage](http://raywzy.com/ICT/)
 - 代码/code： https://github.com/raywzy/ICT
+
+**Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers**  (Oral)
+
+- 论文/paper：https://arxiv.org/pdf/2103.15679.pdf
+- 代码/code：https://github.com/hila-chefer/Transformer-MM-Explainability
 
 **PlaneTR: Structure-Guided Transformers for 3D Plane Recovery**
 
 - 论文/paper：https://arxiv.org/abs/2107.13108
 - 代码/code： https://github.com/IceTTTb/PlaneTR3D
 
+**Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions**
+
+- 解读：https://zhuanlan.zhihu.com/p/353222035
+
+- 论文/paper：https://arxiv.org/abs/2102.12122
+- 代码/code：https://github.com/whai362/PVT
+
 **Rethinking and Improving Relative Position Encoding for Vision Transformer**
 
 - 论文/paper：https://houwenpeng.com/publications/iRPE.pdf
 - 代码/code：https://github.com/wkcn/iRPE-model-zoo
+
+**Rethinking Spatial Dimensions of Vision Transformers**
+
+- 论文/paper：https://arxiv.org/abs/2103.16302
+- 代码/code：https://github.com/naver-ai/pit
 
 **Spatial-Temporal Transformer for Dynamic Scene Graph Generation**
 
