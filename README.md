@@ -36,9 +36,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Loss](#loss)
 - [Vision Transformer](#VisualTransformer)
 - [目标检测/Object Detection](#ObjectDetection)
+- [3D目标检测 / 3D Object Detection](#3D-Object-Detection)
 - [Image Semantic Segmentation](#ImageSemanticSegmentation)
 - [3D Semantic Segmentation](#3D-Semantic-Segmentation)
 - [实例分割/Instance Segmentation](#InstanceSegmentation)
+- [视频分割 / video semantic segmentation](#video-semantic-segmentation)
 - [GAN](#GAN)
 - [细粒度分类/Fine-Grained Visual Categorization](#Fine-Grained-Visual-Categorization)
 - [Geometric deep learning](#GeometricDeepLearning)
@@ -118,6 +120,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## Loss
 
+**Bias Loss for Mobile Neural Networks**
+
+- 论文/paper：https://arxiv.org/abs/2107.11170
+- 代码/code：None
+
 **Focal Frequency Loss for Image Reconstruction and Synthesis**
 
 - 论文/paper：https://arxiv.org/abs/2012.12821
@@ -148,6 +155,13 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://houwenpeng.com/publications/iRPE.pdf
 - 代码/code：https://github.com/wkcn/iRPE-model-zoo
+
+**Spatial-Temporal Transformer for Dynamic Scene Graph Generation**
+
+- 解读：[用于视频场景图生成的Spatial-Temporal Transformer](https://zhuanlan.zhihu.com/p/393637591)
+
+- 论文/paper：https://arxiv.org/abs/2107.12309
+- 代码/code：None
 
 :heavy_check_mark:**Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet**
 
@@ -211,9 +225,25 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="3D-Object-Detection"></a>
+
+### 3D目标检测 / 3D Object Detection
+
+**Unsupervised Domain Adaptive 3D Detection with Multi-Level Consistency**
+
+- 论文/paper：https://arxiv.org/pdf/2107.11355.pdf
+- 代码/code：None
+
+[返回目录/back](#Contents)
+
 <a name="ImageSemanticSegmentation"></a>
 
 ## Image Semantic Segmentation
+
+**Calibrated Adversarial Refinement for Stochastic Semantic Segmentation**
+
+- 论文/paper：https://arxiv.org/abs/2006.13144
+- 代码/code：https://github.com/EliasKassapis/CARSSS
 
 **Exploring Cross-Image Pixel Contrast for Semantic Segmentation** （Oral）
 
@@ -223,13 +253,39 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Enhanced Boundary Learning for Glass-like Object Segmentation**
 
 - 论文/paper：https://arxiv.org/abs/2103.15734
-
 - 代码/code：https://github.com/hehao13/EBLNet
+
+**Labels4Free: Unsupervised Segmentation using StyleGAN**
+
+- 论文/paper：https://arxiv.org/abs/2103.14968 | [主页/Homepage](https://rameenabdal.github.io/Labels4Free)
+- 代码/code：None
+
+**Leveraging Auxiliary Tasks with Affinity Learning for Weakly Supervised Semantic Segmentation**
+
+- 论文/paper：https://arxiv.org/abs/2107.11787
+- 代码/code：https://github.com/xulianuwa/AuxSegNet
+
+**Mining Latent Classes for Few-shot Segmentation**(Oral)
+
+- 论文/paper：https://arxiv.org/abs/2103.15402
+- 代码/code：https://github.com/LiheYoung/MiningFSS
 
 **Personalized Image Semantic Segmentation**
 
 - 论文/paper：None
 - 代码/code： https://github.com/zhangyuygss/PIS
+
+**Re-distributing Biased Pseudo Labels for Semi-supervised Semantic Segmentation: A Baseline Investigation**(Oral)
+
+- 论文/paper：https://arxiv.org/abs/2107.11279
+- 代码/code：https://github.com/CVMI-Lab/DARS
+
+**Standardized Max Logits: A Simple yet Effective Approach for Identifying Unexpected Road Obstacles in Urban-Scene Segmentation**
+
+- 论文/paper：https://arxiv.org/abs/2107.11264v1
+- 代码/code：None
+
+
 
 [返回目录/back](#Contents)
 
@@ -271,6 +327,13 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 代码/code：https://github.com/kemaloksuz/RankSortLoss
 
 [返回目录/back](#Contents)
+
+<a name="video-semantic-segmentation"></a>
+
+## 视频分割 / video semantic segmentation
+
+- 论文/paper：https://arxiv.org/abs/2107.11004
+- 代码/code：https://github.com/Dayan-Guan/DA-VSN
 
 <a name="GAN"></a>
 
@@ -595,6 +658,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Out-of-Core Surface Reconstruction via Global *TGV* Minimization**
 
 - 论文/paper：https://arxiv.org/abs/2107.14790
+- 代码/code：None
+
+**ReDAL: Region-based and Diversity-aware Active Learning for Point Cloud Semantic Segmentation**
+
+- 论文/paper：https://arxiv.org/abs/2107.11769
 - 代码/code：None
 
 **Unsupervised Point Cloud Pre-Training via View-Point Occlusion, Completion**
