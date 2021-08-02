@@ -48,6 +48,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Face Reconstruction](#FaceReconstruction)
 - [行人重识别/Re-Identification](#Re-Identification)
 - [Face-Anti-spoofing](#Face-Anti-spoofing)
+- [deepfake](#deepfake)
 - [深度估计 / Depth Estimation](#DepthEstimation)
 - [视频插帧/Video Frame Interpolation](#VideoFrameInterpolation)
 - [NeRF](#NeRF)
@@ -56,6 +57,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Image Desnowing](#ImageDesnowing)
 - [Image Enhancement](#ImageEnhancement)
 - [人机交互/Hand-object Interaction](#Hand-object-Interaction)
+- [视线估计 / Gaze Estimation](#GazeEstimation)
 - [Contrastive-Learning](#Contrastive-Learning)
 - [Graph Convolution Networks](#Graph-Convolution-Networks)
 - [模型压缩/Compress](#Compress)
@@ -395,6 +397,15 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="deepfake"></a>
+
+## deepfake
+
+- 论文/paper：https://arxiv.org/abs/2107.14480 | [Dataset](https://sites.google.com/view/ltnghia/research/openforensics)
+- 代码/code：None
+
+[返回目录/back](#Contents)
+
 <a name="DepthEstimation"></a>
 
 ## 深度估计 / Depth Estimation
@@ -519,6 +530,18 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
  [返回目录/back](#Contents)
 
+<a name="GazeEstimation"></a>
+
+## 视线估计/Gaze Estimation
+
+**Generalizing Gaze Estimation with Outlier-guided Collaborative Adaptation**
+
+- 论文/paper：https://arxiv.org/abs/2107.13780 | [主页/Homepage](https://liuyunfei.net/publication/iccv2021_pnp-ga/)
+
+- 代码/code：https://github.com/DreamtaleCore/PnP-GA
+
+ [返回目录/back](#Contents)
+
 <a name="Contrastive-Learning"></a>
 
 ## Contrastive-Learning
@@ -568,6 +591,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：None |[主页/Homepage](https://mvp-dataset.github.io/)
 - 代码/code：https://github.com/paul007pl/MVP_Benchmark
+
+**Out-of-Core Surface Reconstruction via Global *TGV* Minimization**
+
+- 论文/paper：https://arxiv.org/abs/2107.14790
+- 代码/code：None
 
 **Unsupervised Point Cloud Pre-Training via View-Point Occlusion, Completion**
 
