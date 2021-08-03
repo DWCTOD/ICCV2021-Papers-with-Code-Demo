@@ -49,8 +49,10 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [6D Object Pose Estimation](#6D-Object-Pose-Estimation)
 - [Face Reconstruction](#FaceReconstruction)
 - [行人重识别/Re-Identification](#Re-Identification)
+- [人群计数 / Crowd Counting](#Crowd-Counting)
 - [Face-Anti-spoofing](#Face-Anti-spoofing)
 - [deepfake](#deepfake)
+- [跨模态检索/Cross-Modal Retrieval](#Cross-Modal-Retrieval)
 - [深度估计 / Depth Estimation](#DepthEstimation)
 - [视频插帧/Video Frame Interpolation](#VideoFrameInterpolation)
 - [NeRF](#NeRF)
@@ -472,8 +474,26 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **TransReID: Transformer-based Object Re-Identification**
 
 - 论文/paper：https://arxiv.org/abs/2102.04378
-
 - 代码/code：https://github.com/heshuting555/TransReID
+
+[返回目录/back](#Contents)
+
+<a name="Crowd-Counting"></a>
+
+## 人群计数 /Crowd Counting
+
+**Rethinking Counting and Localization in Crowds:A Purely Point-Based Framework** (Oral)
+
+- 论文/paper：https://arxiv.org/abs/2107.12746
+- 代码/code：https://github.com/TencentYoutuResearch/CrowdCounting-P2PNet
+
+**Uniformity in Heterogeneity:Diving Deep into Count Interval Partition for Crowd Counting**
+
+- 论文/paper：https://arxiv.org/abs/2107.12619
+
+- 代码/code：https://github.com/TencentYoutuResearch/CrowdCounting-UEPNet
+
+[返回目录/back](#Contents)
 
 <a name="Face-Anti-spoofing"></a>
 
@@ -492,6 +512,17 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 ## deepfake
 
 - 论文/paper：https://arxiv.org/abs/2107.14480 | [Dataset](https://sites.google.com/view/ltnghia/research/openforensics)
+- 代码/code：None
+
+[返回目录/back](#Contents)
+
+<a name="Cross-Modal-Retrieval"></a>
+
+## 跨模态检索/Cross-Modal Retrieval
+
+**Wasserstein Coupled Graph Learning for Cross-Modal Retrieval**
+
+- 论文/paper：None
 - 代码/code：None
 
 [返回目录/back](#Contents)
