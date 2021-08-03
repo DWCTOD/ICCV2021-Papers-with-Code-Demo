@@ -37,10 +37,12 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Vision Transformer](#VisualTransformer)
 - [目标检测/Object Detection](#ObjectDetection)
 - [3D目标检测 / 3D Object Detection](#3D-Object-Detection)
+- [目标跟踪 / Object Tracking](#ObjectTracking)
 - [Image Semantic Segmentation](#ImageSemanticSegmentation)
 - [3D Semantic Segmentation](#3D-Semantic-Segmentation)
 - [实例分割/Instance Segmentation](#InstanceSegmentation)
 - [视频分割 / video semantic segmentation](#video-semantic-segmentation)
+- [医学图像分割/ Medical Image Segmentation](#MedicalImageSegmentation)
 - [GAN](#GAN)
 - [细粒度分类/Fine-Grained Visual Categorization](#Fine-Grained-Visual-Categorization)
 - [Geometric deep learning](#GeometricDeepLearning)
@@ -53,6 +55,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [人群计数 / Crowd Counting](#Crowd-Counting)
 - [Face-Anti-spoofing](#Face-Anti-spoofing)
 - [deepfake](#deepfake)
+- [对抗攻击/ Adversarial Attacks](#AdversarialAttacks)
 - [跨模态检索/Cross-Modal Retrieval](#Cross-Modal-Retrieval)
 - [深度估计 / Depth Estimation](#DepthEstimation)
 - [视频插帧/Video Frame Interpolation](#VideoFrameInterpolation)
@@ -61,6 +64,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Image Reconstruction](#ImageReconstruction)
 - [Image Desnowing](#ImageDesnowing)
 - [Image Enhancement](#ImageEnhancement)
+- [Matching](#Matching)
 - [人机交互/Hand-object Interaction](#Hand-object-Interaction)
 - [视线估计 / Gaze Estimation](#GazeEstimation)
 - [Contrastive-Learning](#Contrastive-Learning)
@@ -154,6 +158,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2107.00651
 - 代码/code：https://github.com/microsoft/AutoML
 
+**HiFT: Hierarchical Feature Transformer for Aerial Tracking**
+
+- 论文/paper：https://arxiv.org/abs/2108.00202
+- 代码/code：https://github.com/vision4robotics/HiFT
+
 **High-Fidelity Pluralistic Image Completion with Transformers**
 
 - 论文/paper：https://arxiv.org/pdf/2103.14031.pdf | [主页/Homepage](http://raywzy.com/ICT/)
@@ -243,6 +252,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：None
 - 代码/code：https://github.com/rozumden/FMODetect
 
+**GraphFPN: Graph Feature Pyramid Network for Object Detection**
+
+- 论文/paper：https://arxiv.org/abs/2108.00580
+- 代码/code：None
+
 **MDETR : Modulated Detection for End-to-End Multi-Modal Understanding**
 
 - 论文/paper：https://arxiv.org/abs/2104.12763 | [主页/Homepage](https://ashkamath.github.io/mdetr_page/)
@@ -263,6 +277,15 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/pdf/2107.11355.pdf
 - 代码/code：None
+
+[返回目录/back](#Contents)
+
+## 目标跟踪 / Object Tracking
+
+**Learn to Match: Automatic Matching Network Design for Visual Tracking**
+
+- 论文/paper：https://arxiv.org/abs/2108.00803
+- 代码/code：https://github.com/JudasDie/SOTS
 
 [返回目录/back](#Contents)
 
@@ -364,6 +387,19 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2107.11004
 - 代码/code：https://github.com/Dayan-Guan/DA-VSN
+
+[返回目录/back](#Contents)
+
+<a name="MedicalImageSegmentation"></a>
+
+# Medical Image Segmentation
+
+**Recurrent Mask Refinement for Few-Shot Medical Image Segmentation**
+
+- 论文/paper：https://arxiv.org/abs/2108.00622
+- 代码/code：None
+
+[返回目录/back](#Contents)
 
 <a name="GAN"></a>
 
@@ -481,6 +517,12 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## 行人重识别/Re-Identification
 
+**Learning Instance-level Spatial-Temporal Patterns for Person Re-identification**
+
+- 论文/paper：https://arxiv.org/abs/2108.00171
+
+- 代码/code：https://github.com/RenMin1991/cleaned-DukeMTMC-reID/
+
 **Learning Compatible Embeddings**
 
 - 论文/paper：None
@@ -531,6 +573,15 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 代码/code：None
 
 [返回目录/back](#Contents)
+
+<a name="AdversarialAttacks"></a>
+
+## 对抗攻击/ Adversarial Attacks
+
+**T*k*ML-AP: Adversarial Attacks to Top-*k* Multi-Label Learning**
+
+- 论文/paper：https://arxiv.org/abs/2108.00146
+- 代码/code：None
 
 <a name="Cross-Modal-Retrieval"></a>
 
@@ -652,6 +703,17 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：None
 - 代码/code：https://github.com/Baoliang93/Gap-closing-Matters
+
+[返回目录/back](#Contents)
+
+<a name="Matching"></a>
+
+## Matching
+
+**Multi-scale Matching Networks for Semantic Correspondence**
+
+- 论文/paper：https://arxiv.org/abs/2108.00211
+- 代码/code：None
 
 [返回目录/back](#Contents)
 
@@ -875,7 +937,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 **Learning with Noisy Labels via Sparse Regularization**
 
-- 论文/paper：None
+- 论文/paper：https://arxiv.org/abs/2108.00192
 - 代码/code：https://github.com/hitcszx/lnl_sr
 
 **Neural Strokes: Stylized Line Drawing of 3D Shapes**
@@ -887,6 +949,21 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：None
 - 代码/code：https://github.com/kywen1119/COOKIE
+
+**RINDNet: Edge Detection for Discontinuity in Reflectance, Illumination, Normal and Depth**
+
+- 论文/paper：https://arxiv.org/abs/2108.00616
+- 代码/code：None
+
+**ELLIPSDF: Joint Object Pose and Shape Optimization with a Bi-level Ellipsoid and Signed Distance Function Description**
+
+- 论文/paper：https://arxiv.org/abs/2108.00355
+- 代码/code：None
+
+**Unlimited Neighborhood Interaction for Heterogeneous Trajectory Prediction**
+
+- 论文/paper：https://arxiv.org/abs/2108.00238
+- 代码/code：None
 
  [返回目录/back](#Contents)
 
