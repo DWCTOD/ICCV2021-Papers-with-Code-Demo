@@ -45,6 +45,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [细粒度分类/Fine-Grained Visual Categorization](#Fine-Grained-Visual-Categorization)
 - [Geometric deep learning](#GeometricDeepLearning)
 - [Human Actions](#HumanActions)
+- [手语识别/Sign Language Recognition](#SignLanguageRecognition)
 - [Pose Estimation](#PoseEstimation)
 - [6D Object Pose Estimation](#6D-Object-Pose-Estimation)
 - [Face Reconstruction](#FaceReconstruction)
@@ -426,6 +427,17 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="SignLanguageRecognition"></a>
+
+## 手语识别/Sign Language Recognition
+
+**Visual Alignment Constraint for Continuous Sign Language Recognition**
+
+- 论文/paper：https://arxiv.org/abs/2104.02330
+- 代码/code： https://github.com/Blueprintf/VAC_CSLR
+
+[返回目录/back](#Contents)
+
 <a name="PoseEstimation"></a>
 
 ## Pose Estimation
@@ -433,8 +445,12 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Hand-Object Contact Consistency Reasoning for Human Grasps Generation**
 
 - 论文/paper：https://arxiv.org/pdf/2104.03304.pdf | [主页/Homepage](https://hwjiang1510.github.io/GraspTTA/)
-
 - 代码/code： None
+
+**PyMAF: 3D Human Pose and Shape Regression with Pyramidal Mesh Alignment Feedback Loop**
+
+- 论文/paper：https://arxiv.org/abs/2103.16507 | [主页/Homepage](https://hongwenzhang.github.io/pymaf/)
+- 代码/code： https://github.com/HongwenZhang/PyMAF
 
 [返回目录/back](#Contents)
 
@@ -666,6 +682,12 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="Contrastive-Learning"></a>
 
 ## Contrastive-Learning
+
+**Social NCE: Contrastive Learning of Socially-aware Motion Representations**
+
+- 论文/paper：https://arxiv.org/abs/2012.11717
+
+- 代码/code：https://github.com/vita-epfl/social-nce-crowdnav
 
 **Parametric Contrastive Learning**
 
