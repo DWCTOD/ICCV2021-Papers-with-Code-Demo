@@ -507,12 +507,26 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 <a name="PoseEstimation"></a>
 
-## Pose Estimation
+# Pose Estimation
+
+## 2D Pose Estimation
 
 **Hand-Object Contact Consistency Reasoning for Human Grasps Generation**
 
 - 论文/paper：https://arxiv.org/pdf/2104.03304.pdf | [主页/Homepage](https://hwjiang1510.github.io/GraspTTA/)
 - 代码/code： None
+
+**Human Pose Regression with Residual Log-likelihood Estimation** Oral
+
+- 论文/paper：https://arxiv.org/abs/2107.11291| [主页/Homepage](https://jeffli.site/res-loglikelihood-regression/)
+- 代码/code：https://github.com/Jeff-sjtu/res-loglikelihood-regression
+
+## 3D Pose Estimation
+
+**Probabilistic-Monocular-3D-Human-Pose-Estimation-with-Normalizing-Flows**
+
+- 论文/paper：https://arxiv.org/abs/2107.13788
+- 代码/code： https://github.com/twehrbein/Probabilistic-Monocular-3D-Human-Pose-Estimation-with-Normalizing-Flows
 
 **PyMAF: 3D Human Pose and Shape Regression with Pyramidal Mesh Alignment Feedback Loop**
 
