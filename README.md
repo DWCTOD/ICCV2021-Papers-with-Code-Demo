@@ -34,6 +34,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Backbone](#Backbone)
 - [Dataset](#dataset)
 - [Loss](#loss)
+- [NAS](#NAS)
 - [Vision Transformer](#VisualTransformer)
 - [目标检测/Object Detection](#ObjectDetection)
 - [3D目标检测 / 3D Object Detection](#3D-Object-Detection)
@@ -78,6 +79,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Scene Text Recognizer](#SceneTextRecognizer)
 - [Autonomous-Driving](#Autonomous-Driving)
 - [Visdrone_detection](#Visdrone_detection)
+- [异常检测 / Anomaly Detection](#AnomalyDetection)
 - [其他/Others](#Others)
 
 <a name="Backbone"></a>
@@ -120,14 +122,23 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Overfitting the Data: Compact Neural Video Delivery via Content-aware Feature Modulation**
 
 - 论文/paper：None
-
 - 代码/code： https://github.com/Anonymous-iccv2021-paper3163/CaFM-Pytorch
+
+**The Many Faces of Robustness: A Critical Analysis of Out-of-Distribution Generalization**
+
+- 论文/paper：https://arxiv.org/abs/2006.16241
+- 代码/code：https://github.com/hendrycks/imagenet-r
 
 [返回目录/back](#Contents)
 
 <a name="loss"></a>
 
 ## Loss
+
+**Asymmetric Loss For Multi-Label Classification**
+
+- 论文/paper：https://arxiv.org/abs/2009.14119
+- 代码/code：https://github.com/Alibaba-MIIL/ASL
 
 **Bias Loss for Mobile Neural Networks**
 
@@ -151,6 +162,17 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="NAS"></a>
+
+## NAS
+
+**BossNAS: Exploring Hybrid CNN-transformers with Block-wisely Self-supervised Neural Architecture Search**
+
+- 论文/paper：https://arxiv.org/pdf/2103.12424.pdf
+- 代码/code：https://github.com/changlin31/BossNAS
+
+[返回目录/back](#Contents)
+
 <a name="VisualTransformer"></a>
 
 ## Vision Transformer
@@ -159,6 +181,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2107.00651
 - 代码/code：https://github.com/microsoft/AutoML
+
+**BossNAS: Exploring Hybrid CNN-transformers with Block-wisely Self-supervised Neural Architecture Search**
+
+- 论文/paper：https://arxiv.org/pdf/2103.12424.pdf
+- 代码/code：https://github.com/changlin31/BossNAS
 
 **HiFT: Hierarchical Feature Transformer for Aerial Tracking**
 
@@ -207,6 +234,16 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2103.14030
 - 代码/code：https://github.com/microsoft/Swin-Transformer
+
+**Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers**
+
+- 论文/paper：https://arxiv.org/abs/2011.02910
+- 代码/code：https://github.com/mli0603/stereo-transformer
+
+**TransPose: Keypoint Localization via Transformer**
+
+- 论文/paper：https://arxiv.org/abs/2012.14214
+- 代码/code：https://github.com/yangsenius/TransPose
 
 :heavy_check_mark:**Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet**
 
@@ -348,7 +385,10 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2107.11264v1
 - 代码/code：None
 
+**Unsupervised Semantic Segmentation by Contrasting Object Mask Proposals**
 
+- 论文/paper：https://arxiv.org/pdf/2102.06191.pdf
+- 代码/code：https://github.com/wvangansbeke/Unsupervised-Semantic-Segmentation
 
 [返回目录/back](#Contents)
 
@@ -414,6 +454,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="GAN"></a>
 
 ## GAN
+
+**EigenGAN: Layer-Wise Eigen-Learning for GANs** 
+
+- 论文/paper：https://arxiv.org/pdf/2104.12476.pdf
+- 代码/code：https://github.com/LynnHo/EigenGAN-Tensorflow
 
 **Manifold Matching via Deep Metric Learning for Generative Modeling**
 
@@ -520,6 +565,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2107.11291| [主页/Homepage](https://jeffli.site/res-loglikelihood-regression/)
 - 代码/code：https://github.com/Jeff-sjtu/res-loglikelihood-regression
+
+**TransPose: Keypoint Localization via Transformer**
+
+- 论文/paper：https://arxiv.org/abs/2012.14214
+- 代码/code：https://github.com/yangsenius/TransPose
 
 ## 3D Pose Estimation
 
@@ -664,6 +714,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：None
 - 代码/code：https://github.com/NianjinYe/Motion-Basis-Homography
 
+**Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers**
+
+- 论文/paper：https://arxiv.org/abs/2011.02910
+- 代码/code：https://github.com/mli0603/stereo-transformer
+
 [返回目录/back](#Contents)
 
 <a name="VideoFrameInterpolation"></a>
@@ -713,6 +768,12 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="Super-Resolution"></a>
 
 ## 超分辨/Super-Resolution
+
+**Designing a Practical Degradation Model for Deep Blind Image Super-Resolution**
+
+- 论文/paper：https://arxiv.org/pdf/2103.14006.pdf
+
+- 代码/code：https://github.com/cszn/BSRGAN
 
 **Learning for Scale-Arbitrary Super-Resolution from Scale-Specific Networks**
 
@@ -920,6 +981,12 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## Autonomous-Driving
 
+**Learning to drive from a world on rails**
+
+- 论文/paper：https://arxiv.org/abs/2105.00636
+
+- 代码/code：https://arxiv.org/abs/2105.00636
+
 **Road-Challenge-Event-Detection-for-Situation-Awareness-in-Autonomous-Driving**
 
 - 论文/paper：None
@@ -939,6 +1006,14 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 代码/code：https://github.com/Gumpest/ICCV2021_Visdrone_detection
 
  [返回目录/back](#Contents)
+
+##  Anomaly Detection
+
+**Weakly-supervised Video Anomaly Detection with Robust Temporal Feature Magnitude Learning**
+
+- 论文/paper：https://arxiv.org/pdf/2101.10030.pdf
+
+- 代码/code：https://github.com/tianyu0207/RTFM
 
 <a name="Others"></a>
 
@@ -1025,6 +1100,16 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.01249
 - 代码/code：None
+
+**Refining activation downsampling with SoftPool**
+
+- 论文/paper：https://arxiv.org/abs/2101.00440
+- 代码/code：https://github.com/alexandrosstergiou/SoftPool
+
+**Aligning Latent and Image Spaces to Connect the Unconnectable**
+
+- 论文/paper：https://arxiv.org/abs/2104.06954 | [主页/Homepage](https://universome.github.io/alis)
+- 代码/code：https://github.com/universome/alis
 
  [返回目录/back](#Contents)
 
