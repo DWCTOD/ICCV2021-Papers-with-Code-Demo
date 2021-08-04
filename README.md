@@ -46,6 +46,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [GAN](#GAN)
 - [细粒度分类/Fine-Grained Visual Categorization](#Fine-Grained-Visual-Categorization)
 - [Geometric deep learning](#GeometricDeepLearning)
+- [Zero/Few Shot](#ZeroFewShot)
 - [Human Actions](#HumanActions)
 - [手语识别/Sign Language Recognition](#SignLanguageRecognition)
 - [Pose Estimation](#PoseEstimation)
@@ -53,6 +54,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Face Reconstruction](#FaceReconstruction)
 - [行人重识别/Re-Identification](#Re-Identification)
 - [人群计数 / Crowd Counting](#Crowd-Counting)
+- [Motion Forecasting](#MotionForecasting)
 - [Face-Anti-spoofing](#Face-Anti-spoofing)
 - [deepfake](#deepfake)
 - [对抗攻击/ Adversarial Attacks](#AdversarialAttacks)
@@ -198,9 +200,13 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Spatial-Temporal Transformer for Dynamic Scene Graph Generation**
 
 - 解读：[用于视频场景图生成的Spatial-Temporal Transformer](https://zhuanlan.zhihu.com/p/393637591)
-
 - 论文/paper：https://arxiv.org/abs/2107.12309
 - 代码/code：None
+
+**Swin Transformer: Hierarchical Vision Transformer using Shifted Windows**
+
+- 论文/paper：https://arxiv.org/abs/2103.14030
+- 代码/code：https://github.com/microsoft/Swin-Transformer
 
 :heavy_check_mark:**Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet**
 
@@ -227,8 +233,12 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Active Learning for Deep Object Detection via Probabilistic Modeling**
 
 - 论文/paper：https://arxiv.org/abs/2103.16130
-
 - 代码/code：None
+
+**Boosting Weakly Supervised Object Detection via Learning Bounding Box Adjusters**
+
+- 论文/paper：https://arxiv.org/abs/2108.01499
+- 代码/code：https://github.com/DongSky/lbba_boosted_wsod
 
 **Conditional Variational Capsule Network for Open Set Recognition**
 
@@ -410,6 +420,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2106.10777
 - 代码/code：https://github.com/dzld00/pytorch-manifold-matching
 
+**Toward Spatially Unbiased Generative Models**
+
+- 论文/paper：https://arxiv.org/abs/2108.01285
+- 代码/code：None
+
 [返回目录/back](#Contents)
 
 <a name="Fine-Grained-Visual-Categorization"></a>
@@ -436,6 +451,22 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：None
 - 代码/code：https://github.com/csyxwei/OroJaR
+
+[返回目录/back](#Contents)
+
+<a name="ZeroFewShot"></a>
+
+## Zero/Few Shot
+
+**Domain Generalization via Gradient Surgery**
+
+- 论文/paper：https://arxiv.org/abs/2108.01621
+- 代码/code：None
+
+**Generalized Source-free Domain Adaptation**
+
+- 论文/paper：https://arxiv.org/abs/2108.01614
+- 代码/code：https://github.com/Albert0147/G-SFDA
 
 [返回目录/back](#Contents)
 
@@ -550,6 +581,17 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2107.12619
 
 - 代码/code：https://github.com/TencentYoutuResearch/CrowdCounting-UEPNet
+
+[返回目录/back](#Contents)
+
+<a name="MotionForecasting"></a>
+
+## Motion Forecasting
+
+**RAIN: Reinforced Hybrid Attention Inference Network for Motion Forecasting**
+
+- 论文/paper：https://arxiv.org/abs/2108.01316 | [主页/Homepage](https://jiachenli94.github.io/publications/RAIN/)
+- 代码/code：None
 
 [返回目录/back](#Contents)
 
@@ -963,6 +1005,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Unlimited Neighborhood Interaction for Heterogeneous Trajectory Prediction**
 
 - 论文/paper：https://arxiv.org/abs/2108.00238
+- 代码/code：None
+
+**CanvasVAE: Learning to Generate Vector Graphic Documents**
+
+- 论文/paper：https://arxiv.org/abs/2108.01249
 - 代码/code：None
 
  [返回目录/back](#Contents)
