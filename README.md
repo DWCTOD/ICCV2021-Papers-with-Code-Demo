@@ -14,6 +14,12 @@
 
 :car: ICCV 2021 收录列表：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRfaTmsNweuaA0Gjyu58H_Cx56pGwFhcTYII0u1pg0U7MbhlgY0R6Y-BbK3xFhAiwGZ26u3TAtN5MnS/pubhtml
 
+ICCV 2021 报告和demo视频汇总：
+
+https://space.bilibili.com/288489574
+
+<img src="bili.png">
+
 :car: 官网链接：http://iccv2021.thecvf.com/home
 
 > :timer_clock: 时间
