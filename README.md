@@ -187,6 +187,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/pdf/2103.12424.pdf
 - 代码/code：https://github.com/changlin31/BossNAS
 
+**Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers**  (Oral)
+
+- 论文/paper：https://arxiv.org/pdf/2103.15679.pdf
+- 代码/code：https://github.com/hila-chefer/Transformer-MM-Explainability
+
 **HiFT: Hierarchical Feature Transformer for Aerial Tracking**
 
 - 论文/paper：https://arxiv.org/abs/2108.00202
@@ -197,10 +202,10 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/pdf/2103.14031.pdf | [主页/Homepage](http://raywzy.com/ICT/)
 - 代码/code： https://github.com/raywzy/ICT
 
-**Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers**  (Oral)
+**Learning Spatio-Temporal Transformer for Visual Tracking**
 
-- 论文/paper：https://arxiv.org/pdf/2103.15679.pdf
-- 代码/code：https://github.com/hila-chefer/Transformer-MM-Explainability
+- 论文/paper：https://arxiv.org/abs/2103.17154
+- 代码/code：https://github.com/researchmm/Stark
 
 **PlaneTR: Structure-Guided Transformers for 3D Plane Recovery**
 
@@ -255,6 +260,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2107.05334
 - 代码/code： None
+
+**Vision Transformer with Progressive Sampling**
+
+- 论文/paper：https://arxiv.org/abs/2108.01684
+- 代码/code：https://github.com/yuexy/PS-ViT
 
 **Visual Saliency Transformer**
 
