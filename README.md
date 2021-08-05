@@ -48,6 +48,8 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [细粒度分类/Fine-Grained Visual Categorization](#Fine-Grained-Visual-Categorization)
 - [Geometric deep learning](#GeometricDeepLearning)
 - [Zero/Few Shot](#ZeroFewShot)
+- [Unsupervised](#Unsupervised)
+- [Self-supervised](#Self-supervised)
 - [Human Actions](#HumanActions)
 - [手语识别/Sign Language Recognition](#SignLanguageRecognition)
 - [Pose Estimation](#PoseEstimation)
@@ -67,6 +69,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Image Reconstruction](#ImageReconstruction)
 - [Image Desnowing](#ImageDesnowing)
 - [Image Enhancement](#ImageEnhancement)
+- [Video Inpainting](#VideoInpainting)
 - [Matching](#Matching)
 - [人机交互/Hand-object Interaction](#Hand-object-Interaction)
 - [视线估计 / Gaze Estimation](#GazeEstimation)
@@ -525,6 +528,28 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="Unsupervised"></a>
+
+## Unsupervised
+
+**Skeleton Cloud Colorization for Unsupervised 3D Action Representation Learning**
+
+- 论文/paper：https://arxiv.org/abs/2108.01959
+- 代码/code：None
+
+[返回目录/back](#Contents)
+
+<a name="Self-supervised"></a>
+
+## Self-supervised
+
+**Enhancing Self-supervised Video Representation Learning via Multi-level Feature Optimization**
+
+- 论文/paper：https://arxiv.org/abs/2108.02183
+- 代码/code：None
+
+[返回目录/back](#Contents)
+
 <a name="HumanActions"></a>
 
 ## **Human Actions**
@@ -575,6 +600,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2107.11291| [主页/Homepage](https://jeffli.site/res-loglikelihood-regression/)
 - 代码/code：https://github.com/Jeff-sjtu/res-loglikelihood-regression
+
+**Online Knowledge Distillation for Efficient Pose Estimation**
+
+- 论文/paper：https://arxiv.org/abs/2108.02092
+- 代码/code： None
 
 **TransPose: Keypoint Localization via Transformer**
 
@@ -830,6 +860,17 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：None
 - 代码/code：https://github.com/Baoliang93/Gap-closing-Matters
+
+[返回目录/back](#Contents)
+
+<a name="VideoInpainting"></a>
+
+## Video Inpainting
+
+**Internal Video Inpainting by Implicit Long-range Propagation**
+
+- 论文/paper：https://arxiv.org/abs/2108.01912
+- 代码/code：None
 
 [返回目录/back](#Contents)
 
