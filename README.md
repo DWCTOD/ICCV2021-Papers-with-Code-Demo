@@ -45,16 +45,20 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [目标跟踪 / Object Tracking](#ObjectTracking)
 - [Image Semantic Segmentation](#ImageSemanticSegmentation)
 - [3D Semantic Segmentation](#3D-Semantic-Segmentation)
+- [3D Instance Segmentation](#3D-Instance-Segmentation)
 - [实例分割/Instance Segmentation](#InstanceSegmentation)
 - [视频分割 / video semantic segmentation](#video-semantic-segmentation)
 - [医学图像分割/ Medical Image Segmentation](#MedicalImageSegmentation)
 - [GAN](#GAN)
 - [细粒度分类/Fine-Grained Visual Categorization](#Fine-Grained-Visual-Categorization)
+- [Multi-Label Recognition](#Multi-Label-Recognition)
+- [Long-Tailed Recognition](#Long-Tailed-Recognition)
 - [Geometric deep learning](#GeometricDeepLearning)
 - [Zero/Few Shot](#ZeroFewShot)
 - [Unsupervised](#Unsupervised)
 - [Self-supervised](#Self-supervised)
 - [Human Actions](#HumanActions)
+- [时序行为检测 / Temporal Action Localization](#TemporalActionLocalization)
 - [手语识别/Sign Language Recognition](#SignLanguageRecognition)
 - [Pose Estimation](#PoseEstimation)
 - [6D Object Pose Estimation](#6D-Object-Pose-Estimation)
@@ -80,9 +84,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Contrastive-Learning](#Contrastive-Learning)
 - [Graph Convolution Networks](#Graph-Convolution-Networks)
 - [模型压缩/Compress](#Compress)
+- [Quantization](#Quantization)
 - [点云/point cloud](#pointcloud)
 - [字体生成/Font Generation](#FontGeneration)
-- [Text Detection](#TextDetection)
+- [文本检测 / Text Detection](#TextDetection)
+- [文本识别 / Text Recognition](#Text Recognition)
 - [Scene Text Recognizer](#SceneTextRecognizer)
 - [Autonomous-Driving](#Autonomous-Driving)
 - [Visdrone_detection](#Visdrone_detection)
@@ -135,6 +141,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2006.16241
 - 代码/code：https://github.com/hendrycks/imagenet-r
+
+**Webly Supervised Fine-Grained Recognition: Benchmark Datasets and An Approach**
+
+- 论文/paper：https://arxiv.org/abs/2108.02399
+- 代码/code：https://github.com/NUST-Machine-Intelligence-Laboratory/weblyFG-dataset
 
 [返回目录/back](#Contents)
 
@@ -193,6 +204,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/pdf/2103.12424.pdf
 - 代码/code：https://github.com/changlin31/BossNAS
+
+**Fast Convergence of DETR with Spatially Modulated Co-Attention**
+
+- 论文/paper：https://arxiv.org/abs/2108.02404
+- 代码/code：https://github.com/gaopengcuhk/SMCA-DETR
 
 **Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers**  (Oral)
 
@@ -420,6 +436,17 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="3D-Instance-Segmentation"></a>
+
+## 3D Instance Segmentation
+
+**Hierarchical Aggregation for 3D Instance Segmentation**
+
+- 论文/paper：https://arxiv.org/abs/2108.02350
+- 代码/code：https://github.com/hustvl/HAIS
+
+[返回目录/back](#Contents)
+
 <a name="InstanceSegmentation"></a>
 
 ## 实例分割/Instance Segmentation
@@ -482,6 +509,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2106.10777
 - 代码/code：https://github.com/dzld00/pytorch-manifold-matching
 
+**Sketch Your Own GAN**
+
+- 论文/paper：https://arxiv.org/abs/2108.02774
+- 代码/code：https://github.com/PeterWang512/GANSketching
+
 **Toward Spatially Unbiased Generative Models**
 
 - 论文/paper：https://arxiv.org/abs/2108.01285
@@ -497,6 +529,33 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：None
 - 代码/code：https://github.com/XiaohanYu-GU/Ultra-FGVC
+
+**Webly Supervised Fine-Grained Recognition: Benchmark Datasets and An Approach**
+
+- 论文/paper：https://arxiv.org/abs/2108.02399
+- 代码/code：https://github.com/NUST-Machine-Intelligence-Laboratory/weblyFG-dataset
+
+[返回目录/back](#Contents)
+
+<a name="Multi-Label-Recognition"></a>
+
+## Multi-Label Recognition
+
+**Residual Attention: A Simple but Effective Method for Multi-Label Recognition**
+
+- 论文/paper：https://arxiv.org/abs/2108.02456
+- 代码/code：None
+
+[返回目录/back](#Contents)
+
+<a name="Long-Tailed-Recognition"></a>
+
+## Long-Tailed Recognition
+
+**ACE: Ally Complementary Experts for Solving Long-Tailed Recognition in One-Shot** Oral
+
+- 论文/paper：https://arxiv.org/abs/2108.02385
+- 代码/code：https://github.com/jrcai/ACE
 
 [返回目录/back](#Contents)
 
@@ -530,11 +589,21 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.01614
 - 代码/code：https://github.com/Albert0147/G-SFDA
 
+**Visual Domain Adaptation for Monocular Depth Estimation on Resource-Constrained Hardware**
+
+- 论文/paper：https://arxiv.org/abs/2108.02671
+- 代码/code：None
+
 [返回目录/back](#Contents)
 
 <a name="Unsupervised"></a>
 
 ## Unsupervised
+
+**Instance Similarity Learning for Unsupervised Feature Representation**
+
+- 论文/paper：https://arxiv.org/abs/2108.02721
+- 代码/code：https://github.com/ZiweiWangTHU/ISL
 
 **Skeleton Cloud Colorization for Unsupervised 3D Action Representation Learning**
 
@@ -575,6 +644,22 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2105.07404 | [主页/Homepage](https://deeperaction.github.io/multisports/)
 
 - 代码/code：https://github.com/MCG-NJU/MultiSports/
+
+[返回目录/back](#Contents)
+
+<a name=" TemporalActionLocalization"></a>
+
+## 时序行为检测 / Temporal Action Localization
+
+**Enriching Local and Global Contexts for Temporal Action Localization**
+
+- 论文/paper：https://arxiv.org/abs/2104.02330
+- 代码/code：None
+
+**Boundary-sensitive Pre-training for Temporal Localization in Videos**
+
+- 论文/paper：https://arxiv.org/abs/2011.10830
+- 代码/code：None
 
 [返回目录/back](#Contents)
 
@@ -655,6 +740,12 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="Re-Identification"></a>
 
 ## 行人重识别/Re-Identification
+
+**IDM: An Intermediate Domain Module for Domain Adaptive Person Re-ID** Oral
+
+- 论文/paper：https://arxiv.org/abs/2108.02413
+
+- 代码/code：https://github.com/SikaStar/IDM
 
 **Learning Instance-level Spatial-Temporal Patterns for Person Re-identification**
 
@@ -954,6 +1045,16 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
  [返回目录/back](#Contents)
 
+<a name="Quantization"></a>
+
+## Quantization
+
+**Generalizable Mixed-Precision Quantization via Attribution Rank Preservation**
+
+- 论文/paper：https://arxiv.org/abs/2108.02720
+
+- 代码/code：https://github.com/ZiweiWangTHU/GMPQ
+
 <a name="pointcloud"></a>
 
 ## 点云/Point Cloud
@@ -1011,12 +1112,23 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 <a name="TextDetection"></a>
 
-## Text Detection
+## 文本检测 / Text Detection
 
 **Adaptive Boundary Proposal Network for Arbitrary Shape Text Detection**
 
 - 论文/paper：https://arxiv.org/abs/2107.12664
 - 代码/code：https://github.com/GXYM/TextBPN
+
+ [返回目录/back](#Contents)
+
+<a name="TextRecognition"></a>
+
+## 文本识别 / Text Recognition
+
+**Joint Visual Semantic Reasoning: Multi-Stage Decoder for Text Recognition**
+
+- 论文/paper：https://arxiv.org/abs/2107.12090
+- 代码/code：None
 
  [返回目录/back](#Contents)
 
@@ -1165,6 +1277,16 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2104.06954 | [主页/Homepage](https://universome.github.io/alis)
 - 代码/code：https://github.com/universome/alis
+
+**Unifying Nonlocal Blocks for Neural Networks**
+
+- 论文/paper：https://arxiv.org/abs/2108.02451
+- 代码/code：None
+
+**SLAMP: Stochastic Latent Appearance and Motion Prediction**
+
+- 论文/paper：https://arxiv.org/abs/2108.02760
+- 代码/code：None
 
  [返回目录/back](#Contents)
 
