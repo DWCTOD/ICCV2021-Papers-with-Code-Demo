@@ -14,9 +14,7 @@
 
 :car: ICCV 2021 收录[列表](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRfaTmsNweuaA0Gjyu58H_Cx56pGwFhcTYII0u1pg0U7MbhlgY0R6Y-BbK3xFhAiwGZ26u3TAtN5MnS/pubhtml)
 
-:steam_locomotive:**ICCV 2021 报告和demo视频汇总：**https://space.bilibili.com/288489574
-
-<img src="bili.png" width=400>
+:steam_locomotive:**ICCV 2021 报告和demo视频汇总**  https://space.bilibili.com/288489574
 
 :car: 官网链接：http://iccv2021.thecvf.com/home
 
@@ -73,6 +71,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [深度估计 / Depth Estimation](#DepthEstimation)
 - [视频插帧/Video Frame Interpolation](#VideoFrameInterpolation)
 - [NeRF](#NeRF)
+- [Image Retrieval](#ImageRetrieval)
 - [超分辨/Super-Resolution](#Super-Resolution)
 - [Image Reconstruction](#ImageReconstruction)
 - [Image Desnowing](#ImageDesnowing)
@@ -387,6 +386,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2103.15734
 - 代码/code：https://github.com/hehao13/EBLNet
+
+**From Contexts to Locality: Ultra-high Resolution Image Segmentation via Locality-aware Contextual Correlation**
+
+- 论文/paper：None
+- 代码/code：https://github.com/liqiokkk/FCtL
 
 **Labels4Free: Unsupervised Segmentation using StyleGAN**
 
@@ -900,6 +904,17 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="ImageRetrieval"></a>
+
+## Image Retrieval
+
+**Image Retrieval on Real-life Images with Pre-trained Vision-and-Language Models**
+
+- 论文/paper：None
+- 代码/code：https://github.com/Cuberick-Orion/CIRR
+
+
+
 <a name="Super-Resolution"></a>
 
 ## 超分辨/Super-Resolution
@@ -987,8 +1002,12 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 :heavy_check_mark:**CPF: Learning a Contact Potential Field to Model the Hand-object Interaction**
 
 - 论文/paper：https://arxiv.org/abs/2012.00924
-
 - 代码/code：https://github.com/lixiny/CPF
+
+**Spatially Conditioned Graphs for Detecting Human–Object Interactions**
+
+- 论文/paper：https://arxiv.org/pdf/2012.06060.pdf
+- 代码/code：https://github.com/fredzzhang/spatially-conditioned-graphs
 
  [返回目录/back](#Contents)
 
