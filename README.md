@@ -55,7 +55,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Zero/Few Shot](#ZeroFewShot)
 - [Unsupervised](#Unsupervised)
 - [Self-supervised](#Self-supervised)
-- [Human Actions](#HumanActions)
+- [ Action Recognition](#HumanActions)
 - [时序行为检测 / Temporal Action Localization](#TemporalActionLocalization)
 - [手语识别/Sign Language Recognition](#SignLanguageRecognition)
 - [Pose Estimation](#PoseEstimation)
@@ -74,6 +74,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Image Retrieval](#ImageRetrieval)
 - [超分辨/Super-Resolution](#Super-Resolution)
 - [Image Reconstruction](#ImageReconstruction)
+- [Image Denoising](#Image Denoising)
 - [Image Desnowing](#ImageDesnowing)
 - [Image Enhancement](#ImageEnhancement)
 - [Video Inpainting](#VideoInpainting)
@@ -251,6 +252,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2103.16302
 - 代码/code：https://github.com/naver-ai/pit
 
+**Simpler is Better: Few-shot Semantic Segmentation with Classifier Weight Transformer**
+
+- 论文/paper：https://arxiv.org/abs/2108.03032
+- 代码/code：https://github.com/zhiheLu/CWTfor-FSS
+
 **Spatial-Temporal Transformer for Dynamic Scene Graph Generation**
 
 - 解读：[用于视频场景图生成的Spatial-Temporal Transformer](https://zhuanlan.zhihu.com/p/393637591)
@@ -387,7 +393,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2103.15734
 - 代码/code：https://github.com/hehao13/EBLNet
 
-**From Contexts to Locality: Ultra-high Resolution Image Segmentation via Locality-aware Contextual Correlation**
+**From Contexts to Locality: Ultra-high Resolution Ie Segmentation via Locality-aware Contextual Correlation**
 
 - 论文/paper：None
 - 代码/code：https://github.com/liqiokkk/FCtL
@@ -395,6 +401,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Labels4Free: Unsupervised Segmentation using StyleGAN**
 
 - 论文/paper：https://arxiv.org/abs/2103.14968 | [主页/Homepage](https://rameenabdal.github.io/Labels4Free)
+- 代码/code：None
+
+**Learning Meta-class Memory for Few-Shot Semantic Segmentation**
+
+- 论文/paper：https://arxiv.org/abs/2108.02958
 - 代码/code：None
 
 **Leveraging Auxiliary Tasks with Affinity Learning for Weakly Supervised Semantic Segmentation**
@@ -416,6 +427,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2107.11279
 - 代码/code：https://github.com/CVMI-Lab/DARS
+
+**Simpler is Better: Few-shot Semantic Segmentation with Classifier Weight Transformer**
+
+- 论文/paper：https://arxiv.org/abs/2108.03032
+- 代码/code：https://github.com/zhiheLu/CWTfor-FSS
 
 **Standardized Max Logits: A Simple yet Effective Approach for Identifying Unexpected Road Obstacles in Urban-Scene Segmentation**
 
@@ -483,8 +499,15 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## 视频分割 / video semantic segmentation
 
+**Domain Adaptive Video Segmentation via Temporal Consistency Regularization**
+
 - 论文/paper：https://arxiv.org/abs/2107.11004
 - 代码/code：https://github.com/Dayan-Guan/DA-VSN
+
+**Full-Duplex Strategy for Video Object Segmentation**
+
+- 论文/paper：https://arxiv.org/abs/2108.03151 | [主页/homepage](http://dpfan.net/FSNet/)
+- 代码/code：https://github.com/GewelsJI/FSNet
 
 [返回目录/back](#Contents)
 
@@ -502,6 +525,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="GAN"></a>
 
 ## GAN
+
+**Disentangled Lifespan Face Synthesis**
+
+- 论文/paper：https://arxiv.org/abs/2108.02874 | [主页/Homepage](https://senhe.github.io/projects/iccv_2021_lifespan_face/)
+- 代码/code：https://github.com/SenHe/DLFS
 
 **EigenGAN: Layer-Wise Eigen-Learning for GANs** 
 
@@ -629,13 +657,18 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 <a name="HumanActions"></a>
 
-## **Human Actions**
+## Action Recognition
 
 **Channel-wise Topology Refinement Graph Convolution for Skeleton-Based Action Recognition**
 
 - 论文/paper：https://arxiv.org/abs/2107.12213
-
 - 代码/code：https://github.com/Uason-Chen/CTR-GCN
+
+**Elaborative Rehearsal for Zero-shot Action Recognition**
+
+- 论文/paper：https://arxiv.org/abs/2108.02833
+
+- 代码/code： https://github.com/DeLightCMU/ElaborativeRehearsal
 
 :heavy_check_mark:**FineAction: A Fined Video Dataset for Temporal Action Localization**
 
@@ -908,12 +941,17 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## Image Retrieval
 
+**DOLG: Single-Stage Image Retrieval with Deep Orthogonal Fusion of Local and Global Features**
+
+- 论文/paper：https://arxiv.org/abs/2108.02927
+- 代码/code：None
+
 **Image Retrieval on Real-life Images with Pre-trained Vision-and-Language Models**
 
 - 论文/paper：None
 - 代码/code：https://github.com/Cuberick-Orion/CIRR
 
-
+[返回目录/back](#Contents)
 
 <a name="Super-Resolution"></a>
 
@@ -950,6 +988,15 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 代码/code：https://github.com/edongdongchen/EI
 
 [返回目录/back](#Contents)
+
+<a name="ImageDenoising"></a>
+
+## Image Denoising
+
+**ILVR: Conditioning Method for Denoising Diffusion Probabilistic Models **Oral
+
+- 论文/paper：https://arxiv.org/abs/2108.02938
+- 代码/code：None
 
 <a name="ImageDesnowing"></a>
 
@@ -1026,6 +1073,12 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="Contrastive-Learning"></a>
 
 ## Contrastive-Learning
+
+**Improving Contrastive Learning by Visualizing Feature Transformation**
+
+- 论文/paper：https://arxiv.org/abs/2108.02982
+
+- 代码/code：https://github.com/DTennant/CL-Visualizing-Feature-Transformation
 
 **Social NCE: Contrastive Learning of Socially-aware Motion Representations**
 
