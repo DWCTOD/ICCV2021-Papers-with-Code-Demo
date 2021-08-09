@@ -87,7 +87,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [点云/point cloud](#pointcloud)
 - [字体生成/Font Generation](#FontGeneration)
 - [文本检测 / Text Detection](#TextDetection)
-- [文本识别 / Text Recognition](#Text Recognition)
+- [文本识别 / Text Recognition](#TextRecognition)
 - [Scene Text Recognizer](#SceneTextRecognizer)
 - [Autonomous-Driving](#Autonomous-Driving)
 - [Visdrone_detection](#Visdrone_detection)
