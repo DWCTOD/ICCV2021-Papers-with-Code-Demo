@@ -39,6 +39,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [NAS](#NAS)
 - [Vision Transformer](#VisualTransformer)
 - [目标检测/Object Detection](#ObjectDetection)
+- [Salient Object Detection](Salient-Object-Detection)
 - [3D目标检测 / 3D Object Detection](#3D-Object-Detection)
 - [目标跟踪 / Object Tracking](#ObjectTracking)
 - [Image Semantic Segmentation](#ImageSemanticSegmentation)
@@ -60,6 +61,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [手语识别/Sign Language Recognition](#SignLanguageRecognition)
 - [Pose Estimation](#PoseEstimation)
 - [6D Object Pose Estimation](#6D-Object-Pose-Estimation)
+- [Face Recognition](#Face-Recognition)
 - [Face Reconstruction](#FaceReconstruction)
 - [行人重识别/Re-Identification](#Re-Identification)
 - [人群计数 / Crowd Counting](#Crowd-Counting)
@@ -364,6 +366,17 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="Salient-Object-Detection"></a>
+
+## Salient Object Detection
+
+**Disentangled High Quality Salient Object Detection**
+
+- 论文/paper：https://arxiv.org/abs/2108.03551
+- 代码/code：None
+
+[返回目录/back](#Contents)
+
 <a name="3D-Object-Detection"></a>
 
 ### 3D目标检测 / 3D Object Detection
@@ -631,6 +644,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.01614
 - 代码/code：https://github.com/Albert0147/G-SFDA
 
+**Transductive Few-Shot Classification on the Oblique Manifold**
+
+- 论文/paper：https://arxiv.org/abs/2108.04009
+- 代码/code：None
+
 **Visual Domain Adaptation for Monocular Depth Estimation on Resource-Constrained Hardware**
 
 - 论文/paper：https://arxiv.org/abs/2108.02671
@@ -772,6 +790,15 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="Face-Recognition"></a>
+
+# Face Recognition
+
+- 论文/paper：https://arxiv.org/abs/2108.03764
+- 代码/code：None
+
+[返回目录/back](#Contents)
+
 <a name="FaceReconstruction"></a>
 
 # Face Reconstruction
@@ -803,8 +830,12 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Learning Compatible Embeddings**
 
 - 论文/paper：None
-
 - 代码/code：https://github.com/IrvingMeng/LCE
+
+**Towards Discriminative Representation Learning for Unsupervised Person Re-identification**
+
+- 论文/paper：https://arxiv.org/abs/2108.03439
+- 代码/code：None
 
 **TransReID: Transformer-based Object Re-Identification**
 
