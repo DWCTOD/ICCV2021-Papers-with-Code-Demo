@@ -230,6 +230,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2103.17154
 - 代码/code：https://github.com/researchmm/Stark
 
+**Paint Transformer: Feed Forward Neural Painting with Stroke Prediction** (Oral)
+
+- 论文/paper：https://arxiv.org/abs/2108.03798
+- 代码/code：https://github.com/Huage001/PaintTransformer
+
 **PlaneTR: Structure-Guided Transformers for 3D Plane Recovery**
 
 - 论文/paper：https://arxiv.org/abs/2107.13108
@@ -272,6 +277,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2011.02910
 - 代码/code：https://github.com/mli0603/stereo-transformer
+
+**The Right to Talk: An Audio-Visual Transformer Approach**
+
+- 论文/paper：https://arxiv.org/abs/2108.03256
+- 代码/code：None
 
 **TransPose: Keypoint Localization via Transformer**
 
