@@ -43,6 +43,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [3D目标检测 / 3D Object Detection](#3D-Object-Detection)
 - [目标跟踪 / Object Tracking](#ObjectTracking)
 - [Image Semantic Segmentation](#ImageSemanticSegmentation)
+- [Semantic Scene Segmentation](#Semantic-Scene-Segmentation)
 - [3D Semantic Segmentation](#3D-Semantic-Segmentation)
 - [3D Instance Segmentation](#3D-Instance-Segmentation)
 - [实例分割/Instance Segmentation](#InstanceSegmentation)
@@ -76,7 +77,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Image Retrieval](#ImageRetrieval)
 - [超分辨/Super-Resolution](#Super-Resolution)
 - [Image Reconstruction](#ImageReconstruction)
-- [Image Denoising](#Image Denoising)
+- [Image Denoising](#ImageDenoising)
 - [Image Desnowing](#ImageDesnowing)
 - [Image Enhancement](#ImageEnhancement)
 - [Video Inpainting](#VideoInpainting)
@@ -87,7 +88,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Graph Convolution Networks](#Graph-Convolution-Networks)
 - [模型压缩/Compress](#Compress)
 - [Quantization](#Quantization)
-- [点云/point cloud](#pointcloud)
+- [点云/Point Cloud](#pointcloud)
 - [字体生成/Font Generation](#FontGeneration)
 - [文本检测 / Text Detection](#TextDetection)
 - [文本识别 / Text Recognition](#TextRecognition)
@@ -388,6 +389,8 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="ObjectTracking"></a>
+
 ## 目标跟踪 / Object Tracking
 
 **Learn to Match: Automatic Matching Network Design for Visual Tracking**
@@ -395,11 +398,26 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.00803
 - 代码/code：https://github.com/JudasDie/SOTS
 
+**Saliency-Associated Object Tracking**
+
+- 论文/paper：https://arxiv.org/abs/2108.03637
+- 代码/code：None
+
+**Video Annotation for Visual Tracking via Selection and Refinement**
+
+- 论文/paper：https://arxiv.org/abs/2108.03821
+- 代码/code：https://github.com/Daikenan/VASR
+
 [返回目录/back](#Contents)
 
 <a name="ImageSemanticSegmentation"></a>
 
 ## Image Semantic Segmentation
+
+**Complementary Patch for Weakly Supervised Semantic Segmentation**
+
+- 论文/paper：https://arxiv.org/abs/2108.03852
+- 代码/code：None
 
 **Calibrated Adversarial Refinement for Stochastic Semantic Segmentation**
 
@@ -446,6 +464,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：None
 - 代码/code： https://github.com/zhangyuygss/PIS
 
+**RECALL: Replay-based Continual Learning in Semantic Segmentation**
+
+- 论文/paper：https://arxiv.org/abs/2108.03673
+- 代码/code：None
+
 **Re-distributing Biased Pseudo Labels for Semi-supervised Semantic Segmentation: A Baseline Investigation**(Oral)
 
 - 论文/paper：https://arxiv.org/abs/2107.11279
@@ -465,6 +488,17 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/pdf/2102.06191.pdf
 - 代码/code：https://github.com/wvangansbeke/Unsupervised-Semantic-Segmentation
+
+[返回目录/back](#Contents)
+
+<a name="Semantic-Scene-Segmentation"></a>
+
+## Semantic Scene Segmentation
+
+**BiMaL: Bijective Maximum Likelihood Approach to Domain Adaptation in Semantic Scene Segmentation**
+
+- 论文/paper：https://arxiv.org/abs/2108.03267
+- 代码/code：None
 
 [返回目录/back](#Contents)
 
@@ -532,6 +566,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.03151 | [主页/homepage](http://dpfan.net/FSNet/)
 - 代码/code：https://github.com/GewelsJI/FSNet
 
+**Joint Inductive and Transductive Learning for Video Object Segmentation**
+
+- 论文/paper：https://arxiv.org/abs/2108.03679
+- 代码/code：https://github.com/maoyunyao/JOINT
+
 [返回目录/back](#Contents)
 
 <a name="MedicalImageSegmentation"></a>
@@ -549,6 +588,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## GAN
 
+**AdaAttN: Revisit Attention Mechanism in Arbitrary Neural Style Transfer**
+
+- 论文/paper：https://arxiv.org/abs/2108.03647
+- 代码/code：https://github.com/Huage001/AdaAttN
+
 **Disentangled Lifespan Face Synthesis**
 
 - 论文/paper：https://arxiv.org/abs/2108.02874 | [主页/Homepage](https://senhe.github.io/projects/iccv_2021_lifespan_face/)
@@ -563,6 +607,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2106.10777
 - 代码/code：https://github.com/dzld00/pytorch-manifold-matching
+
+**Meta Gradient Adversarial Attack**
+
+- 论文/paper：https://arxiv.org/abs/2108.04204
+- 代码/code：None
 
 **Sketch Your Own GAN**
 
@@ -927,6 +976,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：None
 - 代码/code：https://github.com/NianjinYe/Motion-Basis-Homography
 
+**Regularizing Nighttime Weirdness: Efficient Self-supervised Monocular Depth Estimation in the Dark**
+
+- 论文/paper：https://arxiv.org/abs/2108.03830
+- 代码/code：None
+
 **Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers**
 
 - 论文/paper：https://arxiv.org/abs/2011.02910
@@ -989,7 +1043,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 **Image Retrieval on Real-life Images with Pre-trained Vision-and-Language Models**
 
-- 论文/paper：None
+- 论文/paper：https://arxiv.org/abs/2108.04024
 - 代码/code：https://github.com/Cuberick-Orion/CIRR
 
 [返回目录/back](#Contents)
@@ -1172,6 +1226,24 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## 点云/Point Cloud
 
+**(Just) A Spoonful of Refinements Helps the Registration Error Go Down** Oral
+
+- 论文/paper：https://arxiv.org/abs/2108.03257
+
+- 代码/code：None
+
+**ABD-Net: Attention Based Decomposition Network for 3D Point Cloud Decomposition**
+
+- 论文/paper：https://arxiv.org/abs/2108.04221
+
+- 代码/code：None
+
+**DRINet: A Dual-Representation Iterative Learning Network for Point Cloud Segmentation**
+
+- 论文/paper：https://arxiv.org/abs/2108.04023
+
+- 代码/code：None
+
 **InstanceRefer: Cooperative Holistic Understanding for Visual Grounding on Point Clouds through Instance Multi-level Contextual Referring**
 
 - 论文/paper：https://arxiv.org/pdf/2103.01128.pdf
@@ -1192,6 +1264,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2107.11769
 - 代码/code：None
+
+**Unsupervised Learning of Fine Structure Generation for 3D Point Clouds by 2D Projection Matching**
+
+- 论文/paper：https://arxiv.org/abs/2108.03746
+- 代码/code：https://github.com/chenchao15/2D
 
 **Unsupervised Point Cloud Pre-Training via View-Point Occlusion, Completion**
 
@@ -1399,6 +1476,26 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **SLAMP: Stochastic Latent Appearance and Motion Prediction**
 
 - 论文/paper：https://arxiv.org/abs/2108.02760
+- 代码/code：None
+
+**TransForensics: Image Forgery Localization with Dense Self-Attention**
+
+- 论文/paper：https://arxiv.org/abs/2108.03871
+- 代码/code：None
+
+**Learning Facial Representations from the Cycle-consistency of Face**
+
+- 论文/paper：https://arxiv.org/abs/2108.03427
+- 代码/code：https://github.com/JiaRenChang/FaceCycle
+
+**NASOA: Towards Faster Task-oriented Online Fine-tuning with a Zoo of Models**
+
+- 论文/paper：https://arxiv.org/abs/2108.03434
+- 代码/code：None
+
+**Impact of Aliasing on Generalization in Deep Convolutional Networks**
+
+- 论文/paper：https://arxiv.org/abs/2108.03489
 - 代码/code：None
 
  [返回目录/back](#Contents)
