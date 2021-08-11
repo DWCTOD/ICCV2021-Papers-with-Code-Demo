@@ -50,6 +50,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [视频分割 / video semantic segmentation](#video-semantic-segmentation)
 - [医学图像分割/ Medical Image Segmentation](#MedicalImageSegmentation)
 - [GAN](#GAN)
+- [Style Transfer](#Style-Transfer)
 - [细粒度分类/Fine-Grained Visual Categorization](#Fine-Grained-Visual-Categorization)
 - [Multi-Label Recognition](#Multi-Label-Recognition)
 - [Long-Tailed Recognition](#Long-Tailed-Recognition)
@@ -265,6 +266,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.03032
 - 代码/code：https://github.com/zhiheLu/CWTfor-FSS
 
+**SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution with Skip-Transformer**
+
+- 论文/paper：https://arxiv.org/abs/2108.04444
+- 代码/code：https://github.com/AllenXiangX/SnowflakeNet
+
 **Spatial-Temporal Transformer for Dynamic Scene Graph Generation**
 
 - 解读：[用于视频场景图生成的Spatial-Temporal Transformer](https://zhuanlan.zhihu.com/p/393637591)
@@ -423,6 +429,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2006.13144
 - 代码/code：https://github.com/EliasKassapis/CARSSS
+
+**Deep Metric Learning for Open World Semantic Segmentation**
+
+- 论文/paper：https://arxiv.org/abs/2108.04562
+- 代码/code：None
 
 **Exploring Cross-Image Pixel Contrast for Semantic Segmentation** （Oral）
 
@@ -621,6 +632,17 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Toward Spatially Unbiased Generative Models**
 
 - 论文/paper：https://arxiv.org/abs/2108.01285
+- 代码/code：None
+
+[返回目录/back](#Contents)
+
+<a name="Style-Transfer"></a>
+
+## Style Transfer
+
+**Domain-Aware Universal Style Transfer**
+
+- 论文/paper：https://arxiv.org/abs/2108.04441
 - 代码/code：None
 
 [返回目录/back](#Contents)
@@ -863,6 +885,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="Re-Identification"></a>
 
 ## 行人重识别/Re-Identification
+
+**ASMR: Learning Attribute-Based Person Search with Adaptive Semantic Margin Regularizer**
+
+- 论文/paper：https://arxiv.org/abs/2108.04533
+- 代码/code：None
 
 **IDM: An Intermediate Domain Module for Domain Adaptive Person Re-ID** Oral
 
@@ -1235,7 +1262,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **ABD-Net: Attention Based Decomposition Network for 3D Point Cloud Decomposition**
 
 - 论文/paper：https://arxiv.org/abs/2108.04221
+- 代码/code：None
 
+**Box-Aware Feature Enhancement for Single Object Tracking on Point Clouds**
+
+- 论文/paper：https://arxiv.org/abs/2108.04728
 - 代码/code：None
 
 **DRINet: A Dual-Representation Iterative Learning Network for Point Cloud Segmentation**
@@ -1264,6 +1295,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2107.11769
 - 代码/code：None
+
+**SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution with Skip-Transformer**
+
+- 论文/paper：https://arxiv.org/abs/2108.04444
+- 代码/code：https://github.com/AllenXiangX/SnowflakeNet
 
 **Unsupervised Learning of Fine Structure Generation for 3D Point Clouds by 2D Projection Matching**
 
@@ -1497,6 +1533,26 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.03489
 - 代码/code：None
+
+**Learning Canonical 3D Object Representation for Fine-Grained Recognition**
+
+- 论文/paper：https://arxiv.org/abs/2108.04628
+- 代码/code：None
+
+**UniNet: A Unified Scene Understanding Network and Exploring Multi-Task Relationships through the Lens of Adversarial Attacks**
+
+- 论文/paper：https://arxiv.org/abs/2108.04584
+- 代码/code：None
+
+**SUNet: Symmetric Undistortion Network for Rolling Shutter Correction**
+
+- 论文/paper：https://arxiv.org/abs/2108.04775
+- 代码/code：None
+
+**Learning to Cut by Watching Movies**
+
+- 论文/paper：https://arxiv.org/abs/2108.04294
+- 代码/code：https://github.com/PardoAlejo/LearningToCut
 
  [返回目录/back](#Contents)
 
