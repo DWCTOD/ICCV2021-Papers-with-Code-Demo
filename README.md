@@ -58,9 +58,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Zero/Few Shot](#ZeroFewShot)
 - [Unsupervised](#Unsupervised)
 - [Self-supervised](#Self-supervised)
+- [Semi Supervised](#Semi-Supervised)
 - [ Action Recognition](#HumanActions)
 - [时序行为检测 / Temporal Action Localization](#TemporalActionLocalization)
 - [手语识别/Sign Language Recognition](#SignLanguageRecognition)
+- [Hand Pose Estimation](#Hand-Pose-Estimation)
 - [Pose Estimation](#PoseEstimation)
 - [6D Object Pose Estimation](#6D-Object-Pose-Estimation)
 - [Face Recognition](#Face-Recognition)
@@ -89,6 +91,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Graph Convolution Networks](#Graph-Convolution-Networks)
 - [模型压缩/Compress](#Compress)
 - [Quantization](#Quantization)
+- [Knowledge Distillation](#Knowledge-Distillation)
 - [点云/Point Cloud](#pointcloud)
 - [字体生成/Font Generation](#FontGeneration)
 - [文本检测 / Text Detection](#TextDetection)
@@ -318,6 +321,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2104.12099
 - 代码/code： https://github.com/nnizhang/VST
 
+**Vision-Language Transformer and Query Generation for Referring Segmentation**
+
+- 论文/paper：https://arxiv.org/abs/2108.05565
+- 代码/code：https://github.com/henghuiding/Vision-Language-Transformer
+
 [返回目录/back](#Contents)
 
 <a name="ObjectDetection"></a>
@@ -366,6 +374,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2104.12763 | [主页/Homepage](https://ashkamath.github.io/mdetr_page/)
 - 代码/code： https://github.com/ashkamath/mdetr
 
+**Oriented R-CNN for Object Detection**
+
+- 论文/paper：https://arxiv.org/abs/2108.05699
+- 代码/code：https://github.com/jbwang1997/OBBDetection
+
 **Rank & Sort Loss for Object Detection and Instance Segmentation** (Oral)
 
 - 论文/paper：https://arxiv.org/abs/2107.11669
@@ -386,7 +399,12 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 <a name="3D-Object-Detection"></a>
 
-### 3D目标检测 / 3D Object Detection
+# 3D目标检测 / 3D Object Detection
+
+**Fog Simulation on Real LiDAR Point Clouds for 3D Object Detection in Adverse Weather**
+
+- 论文/paper：https://arxiv.org/abs/2108.05249
+- 代码/code：https://github.com/MartinHahner/LiDAR_fog_sim
 
 **Unsupervised Domain Adaptive 3D Detection with Multi-Level Consistency**
 
@@ -455,6 +473,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2103.14968 | [主页/Homepage](https://rameenabdal.github.io/Labels4Free)
 - 代码/code：None
 
+**LabOR: Labeling Only if Required for Domain Adaptive Semantic Segmentation**
+
+- 论文/paper：https://arxiv.org/abs/2108.05570
+- 代码/code：None
+
 **Learning Meta-class Memory for Few-Shot Semantic Segmentation**
 
 - 论文/paper：https://arxiv.org/abs/2108.02958
@@ -484,6 +507,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2107.11279
 - 代码/code：https://github.com/CVMI-Lab/DARS
+
+**Semantic Concentration for Domain Adaptation**
+
+- 论文/paper：https://arxiv.org/abs/2108.05720
+- 代码/code：None
 
 **Simpler is Better: Few-shot Semantic Segmentation with Classifier Weight Transformer**
 
@@ -624,6 +652,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.04204
 - 代码/code：None
 
+**PixelSynth: Generating a 3D-Consistent Experience from a Single Image**
+
+- 论文/paper：https://arxiv.org/abs/2108.05892 | [主页/Homepage](https://crockwell.github.io/pixelsynth/)
+- 代码/code：https://github.com/crockwell/pixelsynth/
+
 **Sketch Your Own GAN**
 
 - 论文/paper：https://arxiv.org/abs/2108.02774
@@ -632,6 +665,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Toward Spatially Unbiased Generative Models**
 
 - 论文/paper：https://arxiv.org/abs/2108.01285
+- 代码/code：None
+
+**Unconditional Scene Graph Generation**
+
+- 论文/paper：https://arxiv.org/abs/2108.05884
 - 代码/code：None
 
 [返回目录/back](#Contents)
@@ -705,6 +743,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## Zero/Few Shot
 
+**Boosting the Generalization Capability in Cross-Domain Few-shot Learning via Noise-enhanced Supervised Autoencoder**
+
+- 论文/paper：https://arxiv.org/abs/2108.05028
+- 代码/code：None
+
 **Domain Generalization via Gradient Surgery**
 
 - 论文/paper：https://arxiv.org/abs/2108.01621
@@ -750,6 +793,17 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Enhancing Self-supervised Video Representation Learning via Multi-level Feature Optimization**
 
 - 论文/paper：https://arxiv.org/abs/2108.02183
+- 代码/code：None
+
+[返回目录/back](#Contents)
+
+<a name="Semi-Supervised"></a>
+
+## Semi Supervised
+
+**Trash to Treasure: Harvesting OOD Data with Cross-Modal Matching for Open-Set Semi-Supervised Learning**
+
+- 论文/paper：https://arxiv.org/abs/2108.05617
 - 代码/code：None
 
 [返回目录/back](#Contents)
@@ -807,6 +861,17 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2104.02330
 - 代码/code： https://github.com/Blueprintf/VAC_CSLR
+
+[返回目录/back](#Contents)
+
+<a name="Hand-Pose-Estimation"></a>
+
+## Hand Pose Estimation
+
+**HandFoldingNet: A 3D Hand Pose Estimation Network Using Multiscale-Feature Guided Folding of a 2D Hand Skeleton**
+
+- 论文/paper：https://arxiv.org/abs/2108.05545
+- 代码/code：https://github.com/cwc1260/HandFold
 
 [返回目录/back](#Contents)
 
@@ -1246,8 +1311,19 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Generalizable Mixed-Precision Quantization via Attribution Rank Preservation**
 
 - 论文/paper：https://arxiv.org/abs/2108.02720
-
 - 代码/code：https://github.com/ZiweiWangTHU/GMPQ
+
+ [返回目录/back](#Contents)
+
+## Knowledge Distillation
+
+**Distilling Holistic Knowledge with Graph Neural Networks**
+
+- 论文/paper：https://arxiv.org/abs/2108.05507
+
+- 代码/code：https://github.com/wyc-ruiker/HKD
+
+ [返回目录/back](#Contents)
 
 <a name="pointcloud"></a>
 
@@ -1262,6 +1338,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **ABD-Net: Attention Based Decomposition Network for 3D Point Cloud Decomposition**
 
 - 论文/paper：https://arxiv.org/abs/2108.04221
+- 代码/code：None
+
+**AdaFit: Rethinking Learning-based Normal Estimation on Point Clouds**
+
+- 论文/paper：https://arxiv.org/abs/2108.05836
 - 代码/code：None
 
 **Box-Aware Feature Enhancement for Single Object Tracking on Point Clouds**
@@ -1553,6 +1634,46 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.04294
 - 代码/code：https://github.com/PardoAlejo/LearningToCut
+
+**Continual Neural Mapping: Learning An Implicit Scene Representation from Sequential Observations**
+
+- 论文/paper：https://arxiv.org/abs/2108.05851
+- 代码/code：None
+
+**Towers of Babel: Combining Images, Language, and 3D Geometry for Learning Multimodal Vision**
+
+- 论文/paper：https://arxiv.org/abs/2108.05863 |[主页/Homepage](https://www.cs.cornell.edu/projects/babel/)
+- 代码/code：https://github.com/tgxs002/wikiscenes
+
+**Towards Interpretable Deep Metric Learning with Structural Matching**
+
+- 论文/paper：https://arxiv.org/abs/2108.05889
+- 代码/code：https://github.com/wl-zhao/DIML
+
+**m-RevNet: Deep Reversible Neural Networks with Momentum**
+
+- 论文/paper：https://arxiv.org/abs/2108.05862
+- 代码/code：None
+
+**DiagViB-6: A Diagnostic Benchmark Suite for Vision Models in the Presence of Shortcut and Generalization Opportunities**
+
+- 论文/paper：https://arxiv.org/abs/2108.05779
+- 代码/code：None
+
+**perf4sight: A toolflow to model CNN training performance on Edge GPUs**
+
+- 论文/paper：https://arxiv.org/abs/2108.05580
+- 代码/code：None
+
+**MT-ORL: Multi-Task Occlusion Relationship Learning**
+
+- 论文/paper：https://arxiv.org/abs/2108.05722
+- 代码/code：https://github.com/fengpanhe/MT-ORL
+
+**ProAI: An Efficient Embedded AI Hardware for Automotive Applications - a Benchmark Study**
+
+- 论文/paper：https://arxiv.org/abs/2108.05170
+- 代码/code：None
 
  [返回目录/back](#Contents)
 
