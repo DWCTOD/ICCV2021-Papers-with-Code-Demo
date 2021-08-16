@@ -83,6 +83,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Image Denoising](#ImageDenoising)
 - [Image Desnowing](#ImageDesnowing)
 - [Image Enhancement](#ImageEnhancement)
+- [Image Quality](#Image-Quality )
 - [Video Inpainting](#VideoInpainting)
 - [Matching](#Matching)
 - [人机交互/Hand-object Interaction](#Hand-object-Interaction)
@@ -212,10 +213,15 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/pdf/2103.12424.pdf
 - 代码/code：https://github.com/changlin31/BossNAS
 
+**Conditional DETR for Fast Training Convergence**
+
+- 论文/paper：https://arxiv.org/abs/2108.06152
+- 代码/code：https://git.io/ConditionalDETR
+
 **Fast Convergence of DETR with Spatially Modulated Co-Attention**
 
 - 论文/paper：https://arxiv.org/abs/2108.02404
-- 代码/code：https://github.com/gaopengcuhk/SMCA-DETR
+- 代码/codehttps://github.com/gaopengcuhk/SMCA-DETR
 
 **Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers**  (Oral)
 
@@ -236,6 +242,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2103.17154
 - 代码/code：https://github.com/researchmm/Stark
+
+**MUSIQ: Multi-scale Image Quality Transformer**
+
+- 论文/paper：https://arxiv.org/abs/2108.05997
+- 代码/code：None
 
 **Paint Transformer: Feed Forward Neural Painting with Stroke Prediction** (Oral)
 
@@ -452,6 +463,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.04562
 - 代码/code：None
+
+**Dual Path Learning for Domain Adaptation of Semantic Segmentation**
+
+- 论文/paper：https://arxiv.org/abs/2108.06337
+- 代码/code：https://github.com/royee182/DPL
 
 **Exploring Cross-Image Pixel Contrast for Semantic Segmentation** （Oral）
 
@@ -1038,10 +1054,22 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## 对抗攻击/ Adversarial Attacks
 
+**AGKD-BML: Defense Against Adversarial Attack by Attention Guided Knowledge Distillation and Bi-directional Metric Learning**
+
+- 论文/paper：https://arxiv.org/abs/2108.06017
+- 代码/code：https://github.com/hongw579/AGKD-BML
+
+**Optical Adversarial Attack**
+
+- 论文/paper：https://arxiv.org/abs/2108.06247
+- 代码/code：None
+
 **T*k*ML-AP: Adversarial Attacks to Top-*k* Multi-Label Learning**
 
 - 论文/paper：https://arxiv.org/abs/2108.00146
 - 代码/code：None
+
+[返回目录/back](#Contents)
 
 <a name="Cross-Modal-Retrieval"></a>
 
@@ -1204,6 +1232,17 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：None
 - 代码/code：https://github.com/Baoliang93/Gap-closing-Matters
+
+[返回目录/back](#Contents)
+
+<a name="Image-Quality"></a>
+
+## Image Quality 
+
+**MUSIQ: Multi-scale Image Quality Transformer**
+
+- 论文/paper：https://arxiv.org/abs/2108.05997
+- 代码/code：None
 
 [返回目录/back](#Contents)
 
@@ -1381,6 +1420,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.04444
 - 代码/code：https://github.com/AllenXiangX/SnowflakeNet
+
+**Towards Efficient Point Cloud Graph Neural Networks Through Architectural Simplification**
+
+- 论文/paper：https://arxiv.org/abs/2108.06317
+- 代码/code：None
 
 **Unsupervised Learning of Fine Structure Generation for 3D Point Clouds by 2D Projection Matching**
 
@@ -1673,6 +1717,16 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **ProAI: An Efficient Embedded AI Hardware for Automotive Applications - a Benchmark Study**
 
 - 论文/paper：https://arxiv.org/abs/2108.05170
+- 代码/code：None
+
+**SPACE: A Simulator for Physical Interactions and Causal Learning in 3D Environments**
+
+- 论文/paper：https://arxiv.org/abs/2108.06180
+- 代码/code：https://github.com/jiafei1224/SPACE
+
+**CODEs: Chamfer Out-of-Distribution Examples against Overconfidence Issue**
+
+- 论文/paper：https://arxiv.org/abs/2108.06024
 - 代码/code：None
 
  [返回目录/back](#Contents)
