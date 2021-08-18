@@ -75,8 +75,6 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [deepfake](#deepfake)
 - [对抗攻击/ Adversarial Attacks](#AdversarialAttacks)
 - [跨模态检索/Cross-Modal Retrieval](#Cross-Modal-Retrieval)
-- [深度估计 / Depth Estimation](#DepthEstimation)
-- [视频插帧/Video Frame Interpolation](#VideoFrameInterpolation)
 - [NeRF](#NeRF)
 - [Image Retrieval](#ImageRetrieval)
 - [超分辨/Super-Resolution](#Super-Resolution)
@@ -86,9 +84,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Image Enhancement](#ImageEnhancement)
 - [Image Quality](#Image-Quality )
 - [Video Inpainting](#VideoInpainting)
+- [视频插帧/Video Frame Interpolation](#VideoFrameInterpolation)
 - [Matching](#Matching)
 - [人机交互/Hand-object Interaction](#Hand-object-Interaction)
 - [视线估计 / Gaze Estimation](#GazeEstimation)
+- [深度估计 / Depth Estimation](#DepthEstimation)
 - [Contrastive-Learning](#Contrastive-Learning)
 - [Graph Convolution Networks](#Graph-Convolution-Networks)
 - [模型压缩/Compress](#Compress)
@@ -111,8 +111,12 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 :heavy_check_mark:**Conformer: Local Features Coupling Global Representations for Visual Recognition**
 
 - 论文/paper：https://arxiv.org/abs/2105.03889
-
 - 代码/code：https://github.com/pengzhiliang/Conformer
+
+**Contextual Convolutional Neural Networks**
+
+- 论文/paper：https://arxiv.org/abs/2108.07387
+- 代码/code：https://github.com/iduta/coconv
 
 **Reg-IBP: Efficient and Scalable Neural Network Robustness Training via Interval Bound Propagation**
 
@@ -197,6 +201,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="NAS"></a>
 
 ## NAS
+
+**BN-NAS: Neural Architecture Search with Batch Normalization**
+
+- 论文/paper：https://arxiv.org/abs/2108.07375
+- 代码/code：None
 
 **BossNAS: Exploring Hybrid CNN-transformers with Block-wisely Self-supervised Neural Architecture Search**
 
@@ -301,6 +310,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 解读：[用于视频场景图生成的Spatial-Temporal Transformer](https://zhuanlan.zhihu.com/p/393637591)
 - 论文/paper：https://arxiv.org/abs/2107.12309
 - 代码/code：None
+
+**SOTR: Segmenting Objects with Transformers**
+
+- 论文/paper：https://arxiv.org/abs/2108.06747
+- 代码/code：https://github.com/easton-cau/SOTR
 
 **Swin Transformer: Hierarchical Vision Transformer using Shifted Windows**
 
@@ -443,6 +457,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.06417
 - 代码/code：None
 
+**RandomRooms: Unsupervised Pre-training from Synthetic Shapes and Randomized Layouts for 3D Object Detection**
+
+- 论文/paper：https://arxiv.org/abs/2108.07794
+- 代码/code：None
+
 **Unsupervised Domain Adaptive 3D Detection with Multi-Level Consistency**
 
 - 论文/paper：https://arxiv.org/pdf/2107.11355.pdf
@@ -570,6 +589,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.03032
 - 代码/code：https://github.com/zhiheLu/CWTfor-FSS
 
+**SOTR: Segmenting Objects with Transformers**
+
+- 论文/paper：https://arxiv.org/abs/2108.06747
+- 代码/code：https://github.com/easton-cau/SOTR
+
 **Standardized Max Logits: A Simple yet Effective Approach for Identifying Unexpected Road Obstacles in Urban-Scene Segmentation**
 
 - 论文/paper：https://arxiv.org/abs/2107.11264v1
@@ -622,6 +646,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.02350
 - 代码/code：https://github.com/hustvl/HAIS
+
+**Instance Segmentation in 3D Scenes using Semantic Superpoint Tree Networks**
+
+- 论文/paper：https://arxiv.org/abs/2108.07478
+- 代码/code：https://github.com/Gorilla-Lab-SCUT/SSTNet
 
 [返回目录/back](#Contents)
 
@@ -719,6 +748,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.06908
 - 代码/code：https://github.com/bytedance/OMGD
 
+**Orthogonal Jacobian Regularization for Unsupervised Disentanglement in Image Generation**
+
+- 论文/paper：https://arxiv.org/abs/2108.07668
+- 代码/code：https://github.com/csyxwei/OroJaR
+
 **PixelSynth: Generating a 3D-Consistent Experience from a Single Image**
 
 - 论文/paper：https://arxiv.org/abs/2108.05892 | [主页/Homepage](https://crockwell.github.io/pixelsynth/)
@@ -738,6 +772,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.05884
 - 代码/code：None
+
+**Unsupervised Geodesic-preserved Generative Adversarial Networks for Unconstrained 3D Pose Transfer**
+
+- 论文/paper：https://arxiv.org/abs/2108.07520
+- 代码/code：https://github.com/mikecheninoulu/Unsupervised_IEPGAN
 
 [返回目录/back](#Contents)
 
@@ -1087,8 +1126,12 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **IDM: An Intermediate Domain Module for Domain Adaptive Person Re-ID** Oral
 
 - 论文/paper：https://arxiv.org/abs/2108.02413
-
 - 代码/code：https://github.com/SikaStar/IDM
+
+**Learning by Aligning: Visible-Infrared Person Re-identification using Cross-Modal Correspondences**
+
+- 论文/paper：https://arxiv.org/abs/2108.07422
+- 代码/code：None
 
 **Learning Instance-level Spatial-Temporal Patterns for Person Re-identification**
 
@@ -1231,6 +1274,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2011.02910
 - 代码/code：https://github.com/mli0603/stereo-transformer
+
+**Self-supervised Monocular Depth Estimation for All Day Images using Domain Separation**
+
+- 论文/paper：https://arxiv.org/abs/2108.07628
+- 代码/code：None
 
 [返回目录/back](#Contents)
 
@@ -1501,8 +1549,13 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Distilling Holistic Knowledge with Graph Neural Networks**
 
 - 论文/paper：https://arxiv.org/abs/2108.05507
-
 - 代码/code：https://github.com/wyc-ruiker/HKD
+
+**G-DetKD: Towards General Distillation Framework for Object Detectors via Contrastive and Semantic-guided Feature Imitation**
+
+- 论文/paper：https://arxiv.org/abs/2108.07482
+
+- 代码/code：None
 
  [返回目录/back](#Contents)
 
@@ -1678,7 +1731,15 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
  [返回目录/back](#Contents)
 
+<a name="AnomalyDetection"></a>
+
 ##  Anomaly Detection
+
+**DRÆM -- A discriminatively trained reconstruction embedding for surface anomaly detection**
+
+- 论文/paper：https://arxiv.org/abs/2108.07610
+
+- 代码/code：None
 
 **Weakly-supervised Video Anomaly Detection with Robust Temporal Feature Magnitude Learning**
 
@@ -1920,6 +1981,36 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Finding Representative Interpretations on Convolutional Neural Networks**
 
 - 论文/paper：https://arxiv.org/abs/2108.06384
+- 代码/code：None
+
+**Investigating transformers in the decomposition of polygonal shapes as point collections**
+
+- 论文/paper：https://arxiv.org/abs/2108.07533
+- 代码/code：None
+
+**Self-Supervised Pretraining and Controlled Augmentation Improve Rare Wildlife Recognition in UAV Images**
+
+- 论文/paper：https://arxiv.org/abs/2108.07582
+- 代码/code：None
+
+**Group-aware Contrastive Regression for Action Quality Assessment**
+
+- 论文/paper：https://arxiv.org/abs/2108.07797
+- 代码/code：None
+
+**End-to-End Dense Video Captioning with Parallel Decoding**
+
+- 论文/paper：https://arxiv.org/abs/2108.07781
+- 代码/code：https://github.com/ttengwang/PDVC
+
+**PR-RRN: Pairwise-Regularized Residual-Recursive Networks for Non-rigid Structure-from-Motion**
+
+- 论文/paper：https://arxiv.org/abs/2108.07506
+- 代码/code：None
+
+**Scene Designer: a Unified Model for Scene Search and Synthesis from Sketch**
+
+- 论文/paper：https://arxiv.org/abs/2108.07353
 - 代码/code：None
 
  [返回目录/back](#Contents)
