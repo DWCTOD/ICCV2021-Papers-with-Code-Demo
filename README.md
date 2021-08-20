@@ -66,6 +66,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Hand Pose Estimation](#Hand-Pose-Estimation)
 - [Pose Estimation](#PoseEstimation)
 - [6D Object Pose Estimation](#6D-Object-Pose-Estimation)
+- [Human Reconstruction](#Human-Reconstruction)
 - [Face Recognition](#Face-Recognition)
 - [Face Reconstruction](#FaceReconstruction)
 - [行人重识别/Re-Identification](#Re-Identification)
@@ -82,6 +83,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Image Denoising](#ImageDenoising)
 - [Image Desnowing](#ImageDesnowing)
 - [Image Enhancement](#ImageEnhancement)
+- [Image Matching](#Image-Matching)
 - [Image Quality](#Image-Quality )
 - [Video Inpainting](#VideoInpainting)
 - [视频插帧/Video Frame Interpolation](#VideoFrameInterpolation)
@@ -95,6 +97,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Quantization](#Quantization)
 - [Knowledge Distillation](#Knowledge-Distillation)
 - [点云/Point Cloud](#pointcloud)
+- [3D reconstruction](#3D-reconstruction)
 - [字体生成/Font Generation](#FontGeneration)
 - [文本检测 / Text Detection](#TextDetection)
 - [文本识别 / Text Recognition](#TextRecognition)
@@ -216,6 +219,21 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.06822
 - 代码/code：None
+
+**FOX-NAS: Fast, On-device and Explainable Neural Architecture Search**
+
+- 论文/paper：https://arxiv.org/abs/2108.08189
+- 代码/code：https://github.com/great8nctu/FOX-NAS
+
+**RANK-NOSH: Efficient Predictor-Based Architecture Search via Non-Uniform Successive Halving**
+
+- 论文/paper：https://arxiv.org/abs/2108.08019
+- 代码/code：https://github.com/ruocwang
+
+**Single-DARTS: Towards Stable Architecture Search**
+
+- 论文/paper：https://arxiv.org/abs/2108.08128
+- 代码/code：https://github.com/PencilAndBike/Single-DARTS.git
 
 [返回目录/back](#Contents)
 
@@ -392,8 +410,12 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **DetCo: Unsupervised Contrastive Learning for Object Detection**
 
 - 论文/paper：https://arxiv.org/abs/2102.04803
-
 - 代码/code： https://github.com/xieenze/DetCo
+
+**Deployment of Deep Neural Networks for Object Detection on Edge AI Devices with Runtime Optimization**
+
+- 论文/paper：https://arxiv.org/abs/2108.08166
+- 代码/code：None
 
 **Detecting Invisible People**
 
@@ -434,12 +456,17 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 <a name="Salient-Object-Detection"></a>
 
-## Salient Object Detection
+## Salient Object Detections
 
 **Disentangled High Quality Salient Object Detection**
 
 - 论文/paper：https://arxiv.org/abs/2108.03551
 - 代码/code：None
+
+**Specificity-preserving RGB-D Saliency Detection**
+
+- 论文/paper：https://arxiv.org/abs/2108.08162
+- 代码/code：https://github.com/taozh2017/SPNet
 
 [返回目录/back](#Contents)
 
@@ -451,6 +478,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.05249
 - 代码/code：https://github.com/MartinHahner/LiDAR_fog_sim
+
+**LIGA-Stereo: Learning LiDAR Geometry Aware Representations for Stereo-based 3D Detector**
+
+- 论文/paper：https://arxiv.org/abs/2108.08258
+- 代码/code：None
 
 **Is Pseudo-Lidar needed for Monocular 3D Object detection?**
 
@@ -562,6 +594,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Multi-Target Adversarial Frameworks for Domain Adaptation in Semantic Segmentation**
 
 - 论文/paper：https://arxiv.org/abs/2108.06962
+- 代码/code：None
+
+**Multi-Anchor Active Domain Adaptation for Semantic Segmentation** (Oral)
+
+- 论文/paper：https://arxiv.org/abs/2108.08012
 - 代码/code：None
 
 **Personalized Image Semantic Segmentation**
@@ -763,6 +800,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.02774
 - 代码/code：https://github.com/PeterWang512/GANSketching
 
+**Target Adaptive Context Aggregation for Video Scene Graph Generation**
+
+- 论文/paper：https://arxiv.org/abs/2108.08121
+- 代码/code：https://github.com/MCG-NJU/TRACE
+
 **Toward Spatially Unbiased Generative Models**
 
 - 论文/paper：https://arxiv.org/abs/2108.01285
@@ -864,10 +906,20 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.06536
 - 代码/code：None
 
+**Few-Shot Batch Incremental Road Object Detection via Detector Fusion**
+
+- 论文/paper：https://arxiv.org/abs/2108.08048
+- 代码/code：None
+
 **Generalized Source-free Domain Adaptation**
 
 - 论文/paper：https://arxiv.org/abs/2108.01614
 - 代码/code：https://github.com/Albert0147/G-SFDA
+
+**Generalized and Incremental Few-Shot Learning by Explicit Learning and Calibration without Forgetting**
+
+- 论文/paper：https://arxiv.org/abs/2108.08165
+- 代码/code：None
 
 **Transductive Few-Shot Classification on the Oblique Manifold**
 
@@ -920,6 +972,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.07183
 - 代码/code：https://github.com/srinidhiPY/ICCVCDPATH2021-ID-8
+
+**Self-Supervised Visual Representations Learning by Contrastive Mask Prediction**
+
+- 论文/paper：https://arxiv.org/abs/2108.07954
+- 代码/code：None
 
 **SSH: A Self-Supervised Framework for Image Harmonization**
 
@@ -1081,9 +1138,25 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="Human-Reconstruction"></a>
+
+## Human Reconstruction
+
+**ARCH++: Animation-Ready Clothed Human Reconstruction Revisited**
+
+- 论文/paper：https://arxiv.org/abs/2108.07845
+- 代码/code：None
+
+[返回目录/back](#Contents)
+
 <a name="Face-Recognition"></a>
 
 # Face Recognition
+
+**Masked Face Recognition Challenge: The InsightFace Track Report**
+
+- 论文/paper：https://arxiv.org/abs/2108.08191
+- 代码/code：https://github.com/deepinsight/insightface/tree/master/challenges/iccv21-mfr
 
 **Masked Face Recognition Challenge: The WebFace260M Track Report**
 
@@ -1093,6 +1166,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **PASS: Protected Attribute Suppression System for Mitigating Bias in Face Recognition**
 
 - 论文/paper：https://arxiv.org/abs/2108.03764
+- 代码/code：None
+
+**SynFace: Face Recognition with Synthetic Data**
+
+- 论文/paper：https://arxiv.org/abs/2108.07960
 - 代码/code：None
 
 **Unravelling the Effect of Image Distortions for Biased Prediction of Pre-trained Face Recognition Models**
@@ -1168,8 +1246,12 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Uniformity in Heterogeneity:Diving Deep into Count Interval Partition for Crowd Counting**
 
 - 论文/paper：https://arxiv.org/abs/2107.12619
-
 - 代码/code：https://github.com/TencentYoutuResearch/CrowdCounting-UEPNet
+
+**Variational Attention: Propagating Domain-Specific Knowledge for Multi-Domain Learning in Crowd Counting**
+
+- 论文/paper：https://arxiv.org/abs/2108.08023
+- 代码/code：None
 
 [返回目录/back](#Contents)
 
@@ -1388,10 +1470,17 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## Image Denoising
 
+**Deep Reparametrization of Multi-Frame Super-Resolution and Denoising** (Oral)
+
+- 论文/paper：https://arxiv.org/abs/2108.08286
+- 代码/code：None
+
 **ILVR: Conditioning Method for Denoising Diffusion Probabilistic Models **Oral
 
 - 论文/paper：https://arxiv.org/abs/2108.02938
 - 代码/code：None
+
+[返回目录/back](#Contents)
 
 <a name="ImageDesnowing"></a>
 
@@ -1412,6 +1501,17 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：None
 - 代码/code：https://github.com/Baoliang93/Gap-closing-Matters
+
+[返回目录/back](#Contents)
+
+<a name="Image-Matching"></a>
+
+## Image Matching
+
+**Effect of Parameter Optimization on Classical and Learning-based Image Matching Methods**
+
+- 论文/paper：https://arxiv.org/abs/2108.08179
+- 代码/code：None
 
 [返回目录/back](#Contents)
 
@@ -1593,8 +1693,12 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **InstanceRefer: Cooperative Holistic Understanding for Visual Grounding on Point Clouds through Instance Multi-level Contextual Referring**
 
 - 论文/paper：https://arxiv.org/pdf/2103.01128.pdf
-
 - 代码/code：https://github.com/CurryYuan/InstanceRefer
+
+**ME-PCN: Point Completion Conditioned on Mask Emptiness**
+
+- 论文/paper：https://arxiv.org/abs/2108.08187
+- 代码/code：None
 
 **MVP Benchmark: Multi-View Partial Point Clouds for Completion and Registration**
 
@@ -1646,6 +1750,17 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2105.01288v1| [主页/Homepage](https://curvenet.github.io/)
 
 - 代码/code：https://github.com/tiangexiang/CurveNet
+
+ [返回目录/back](#Contents)
+
+<a name="3D-reconstruction"></a>
+
+## 3D reconstruction
+
+**Pixel-Perfect Structure-from-Motion with Featuremetric Refinement**(Oral)
+
+- 论文/paper：https://arxiv.org/abs/2108.08291
+- 代码/code：https://github.com/cvg/pixel-perfect-sfm
 
  [返回目录/back](#Contents)
 
@@ -1704,6 +1819,12 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="Autonomous-Driving"></a>
 
 ## Autonomous-Driving
+
+**End-to-End Urban Driving by Imitating a Reinforcement Learning Coach**
+
+- 论文/paper：https://arxiv.org/abs/2108.08265
+
+- 代码/code：None
 
 **Learning to drive from a world on rails**
 
@@ -2012,6 +2133,61 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.07353
 - 代码/code：None
+
+**Structured Outdoor Architecture Reconstruction by Exploration and Classification**
+
+- 论文/paper：https://arxiv.org/abs/2108.07990
+- 代码/code：None
+
+**Learning RAW-to-sRGB Mappings with Inaccurately Aligned Supervision**
+
+- 论文/paper：https://arxiv.org/abs/2108.08119
+- 代码/code：https://github.com/cszhilu1998/RAW-to-sRGB
+
+**Overfitting the Data: Compact Neural Video Delivery via Content-aware Feature Modulation**
+
+- 论文/paper：https://arxiv.org/abs/2108.08202
+- 代码/code：https://github.com/Neural-video-delivery/CaFM-Pytorch-ICCV2021
+
+**Deep Hybrid Self-Prior for Full 3D Mesh Generation**
+
+- 论文/paper：https://arxiv.org/abs/2108.08017
+- 代码/code：None
+
+**FACIAL: Synthesizing Dynamic Talking Face with Implicit Attribute Learning**
+
+- 论文/paper：https://arxiv.org/abs/2108.07938
+- 代码/code：None
+
+**Thermal Image Processing via Physics-Inspired Deep Networks**
+
+- 论文/paper：https://arxiv.org/abs/2108.07973
+- 代码/code：None
+
+**A New Journey from SDRTV to HDRTV**
+
+- 论文/paper：https://arxiv.org/abs/2108.07978
+- 代码/code：https://github.com/chxy95/HDRTVNet
+
+**Global Pooling, More than Meets the Eye: Position Information is Encoded Channel-Wise in CNNs**
+
+- 论文/paper：https://arxiv.org/abs/2108.07884
+- 代码/code：None
+
+**Speech Drives Templates: Co-Speech Gesture Synthesis with Learned Templates**
+
+- 论文/paper：https://arxiv.org/abs/2108.08020
+- 代码/code：None
+
+**LOKI: Long Term and Key Intentions for Trajectory Prediction**
+
+- 论文/paper：https://arxiv.org/abs/2108.08236
+- 代码/code：None
+
+**Stochastic Scene-Aware Motion Prediction**
+
+- 论文/paper：https://arxiv.org/abs/2108.08284
+- 代码/code：https://samp.is.tue.mpg.de/
 
  [返回目录/back](#Contents)
 
