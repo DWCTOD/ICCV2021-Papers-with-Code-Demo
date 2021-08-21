@@ -69,6 +69,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Human Reconstruction](#Human-Reconstruction)
 - [Face Recognition](#Face-Recognition)
 - [Face Reconstruction](#FaceReconstruction)
+- [Facial Expression Recognition](#Facial-Expression-Recognition)
 - [行人重识别/Re-Identification](#Re-Identification)
 - [人群计数 / Crowd Counting](#Crowd-Counting)
 - [Motion Forecasting](#MotionForecasting)
@@ -87,6 +88,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Image Quality](#Image-Quality )
 - [Video Inpainting](#VideoInpainting)
 - [视频插帧/Video Frame Interpolation](#VideoFrameInterpolation)
+- [Video Reasoning](#Video-Reasoning)
 - [Matching](#Matching)
 - [人机交互/Hand-object Interaction](#Hand-object-Interaction)
 - [视线估计 / Gaze Estimation](#GazeEstimation)
@@ -120,6 +122,13 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.07387
 - 代码/code：https://github.com/iduta/coconv
+
+**Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions**
+
+- 解读：https://zhuanlan.zhihu.com/p/353222035
+
+- 论文/paper：https://arxiv.org/abs/2102.12122
+- 代码/code：https://github.com/whai362/PVT
 
 **Reg-IBP: Efficient and Scalable Neural Network Robustness Training via Interval Bound Propagation**
 
@@ -258,8 +267,10 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 **Fast Convergence of DETR with Spatially Modulated Co-Attention**
 
+- 解读：https://zhuanlan.zhihu.com/p/397083124
+
 - 论文/paper：https://arxiv.org/abs/2108.02404
-- 代码/codehttps://github.com/gaopengcuhk/SMCA-DETR
+- 代码/code：https://github.com/gaopengcuhk/SMCA-DETR
 
 **Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers**  (Oral)
 
@@ -288,6 +299,8 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 **Paint Transformer: Feed Forward Neural Painting with Stroke Prediction** (Oral)
 
+- 解读：https://zhuanlan.zhihu.com/p/400017971
+
 - 论文/paper：https://arxiv.org/abs/2108.03798
 - 代码/code：https://github.com/Huage001/PaintTransformer
 
@@ -295,6 +308,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2107.13108
 - 代码/code： https://github.com/IceTTTb/PlaneTR3D
+
+**PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers**  (Oral)
+
+- 论文/paper：https://arxiv.org/abs/2108.08839
+- 代码/code：https://github.com/yuxumin/PoinTr
 
 **Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions**
 
@@ -371,6 +389,8 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 代码/code：https://github.com/yuexy/PS-ViT
 
 **Visual Saliency Transformer**
+
+- 解读：https://blog.csdn.net/qq_39936426/article/details/117199411
 
 - 论文/paper：https://arxiv.org/abs/2104.12099
 - 代码/code： https://github.com/nnizhang/VST
@@ -760,6 +780,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.03647
 - 代码/code：https://github.com/Huage001/AdaAttN
 
+**Click to Move: Controlling Video Generation with Sparse Motion**
+
+- 论文/paper：https://arxiv.org/abs/2108.08815
+- 代码/code：https://github.com/PierfrancescoArdino/C2M
+
 **Disentangled Lifespan Face Synthesis**
 
 - 论文/paper：https://arxiv.org/abs/2108.02874 | [主页/Homepage](https://senhe.github.io/projects/iccv_2021_lifespan_face/)
@@ -769,6 +794,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/pdf/2104.12476.pdf
 - 代码/code：https://github.com/LynnHo/EigenGAN-Tensorflow
+
+**Graph-to-3D: End-to-End Generation and Manipulation of 3D Scenes Using Scene Graphs**
+
+- 论文/paper：https://arxiv.org/abs/2108.08841
+- 代码/code：None
 
 **Manifold Matching via Deep Metric Learning for Generative Modeling**
 
@@ -808,6 +838,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Toward Spatially Unbiased Generative Models**
 
 - 论文/paper：https://arxiv.org/abs/2108.01285
+- 代码/code：None
+
+**Towards Vivid and Diverse Image Colorization with Generative Color Prior**
+
+- 论文/paper：https://arxiv.org/abs/2108.08826
 - 代码/code：None
 
 **Unconditional Scene Graph Generation**
@@ -978,6 +1013,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.07954
 - 代码/code：None
 
+**Self-Supervised Video Representation Learning with Meta-Contrastive Network**
+
+- 论文/paper：https://arxiv.org/abs/2108.08426
+- 代码/code：None
+
 **SSH: A Self-Supervised Framework for Image Harmonization**
 
 - 论文/paper：https://arxiv.org/abs/2108.06805
@@ -1105,6 +1145,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.06819
 - 代码/code：None
 
+**DECA: Deep viewpoint-Equivariant human pose estimation using Capsule Autoencoders**（Oral）
+
+- 论文/paper：https://arxiv.org/abs/2108.08557
+- 代码/code：https://github.com/mmlab-cv/DECA
+
 **FrankMocap: A Monocular 3D Whole-Body Pose Estimation System via Regression and Integration**
 
 - 论文/paper：https://arxiv.org/abs/2108.06428
@@ -1135,6 +1180,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2104.00633
 - 代码/code：https://github.com/sh8/RePOSE
+
+**SO-Pose: Exploiting Self-Occlusion for Direct 6D Pose Estimation**
+
+- 论文/paper：https://arxiv.org/abs/2108.08367
+- 代码/code：None
 
 [返回目录/back](#Contents)
 
@@ -1192,6 +1242,17 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="Facial-Expression-Recognition"></a>
+
+## Facial Expression Recognition
+
+**Understanding and Mitigating Annotation Bias in Facial Expression Recognition**
+
+- 论文/paper：https://arxiv.org/abs/2108.08504
+- 代码/code：None
+
+[返回目录/back](#Contents)
+
 <a name="Re-Identification"></a>
 
 ## 行人重识别/Re-Identification
@@ -1200,6 +1261,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.04533
 - 代码/code：None
+
+**Counterfactual Attention Learning for Fine-Grained Visual Categorization and Re-identification**
+
+- 论文/paper：https://arxiv.org/abs/2108.08728
+- 代码/code：https://github.com/raoyongming/CAL
 
 **IDM: An Intermediate Domain Module for Domain Adaptive Person Re-ID** Oral
 
@@ -1258,6 +1324,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="MotionForecasting"></a>
 
 ## Motion Forecasting
+
+**Generating Smooth Pose Sequences for Diverse Human Motion Prediction**
+
+- 论文/paper：https://arxiv.org/abs/2108.08422
+- 代码/code：https://github.com/wei-mao-2019/gsps
 
 **MSR-GCN: Multi-Scale Residual Graph Convolution Networks for Human Motion Prediction**
 
@@ -1339,8 +1410,13 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 **AA-RMVSNet: Adaptive Aggregation Recurrent Multi-view Stereo Network**
 
-- 论文/paper：None
+- 论文/paper：https://arxiv.org/abs/2108.03824
 - 代码/code：https://github.com/QT-Zhu/AA-RMVSNet
+
+**Fine-grained Semantics-aware Representation Enhancement for Self-supervised Monocular Depth Estimation**   (oral)
+
+- 论文/paper：https://arxiv.org/abs/2108.08829
+- 代码/code：https://github.com/hyBlue/FSRE-Depth
 
 **Motion Basis Learning for Unsupervised Deep Homography Estimationwith Subspace Projection**
 
@@ -1362,6 +1438,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.07628
 - 代码/code：None
 
+**StructDepth: Leveraging the structural regularities for self-supervised indoor depth estimation**
+
+- 论文/paper：https://arxiv.org/abs/2108.08574
+- 代码/code：https://github.com/SJTU-ViSYS/StructDepth
+
 [返回目录/back](#Contents)
 
 <a name="VideoFrameInterpolation"></a>
@@ -1379,6 +1460,17 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2103.16206
 
 - 代码/code： https://github.com/JihyongOh/XVFI
+
+[返回目录/back](#Contents)
+
+<a name="Video-Reasoning"></a>
+
+## Video Reasoning
+
+**The Multi-Modal Video Reasoning and Analyzing Competition**
+
+- 论文/paper：https://arxiv.org/abs/2108.08344
+- 代码/code：None
 
 [返回目录/back](#Contents)
 
@@ -1461,8 +1553,12 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Equivariant Imaging: Learning Beyond the Range Space** (Oral)
 
 - 论文/paper：https://arxiv.org/abs/2103.14756
-
 - 代码/code：https://github.com/edongdongchen/EI
+
+**Spatially-Adaptive Image Restoration using Distortion-Guided Networks**
+
+- 论文/paper：https://arxiv.org/abs/2108.08617
+- 代码/code：https://github.com/human-analysis/spatially-adaptive-image-restoration
 
 [返回目录/back](#Contents)
 
@@ -1501,6 +1597,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：None
 - 代码/code：https://github.com/Baoliang93/Gap-closing-Matters
+
+**Real-time Image Enhancer via Learnable Spatial-aware 3D Lookup Tables**
+
+- 论文/paper：https://arxiv.org/abs/2108.08697
+- 代码/code：None
 
 [返回目录/back](#Contents)
 
@@ -1561,6 +1662,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2012.00924
 - 代码/code：https://github.com/lixiny/CPF
+
+**Exploiting Scene Graphs for Human-Object Interaction Detection**
+
+- 论文/paper：https://arxiv.org/abs/2108.08584
+- 代码/code：https://github.com/ht014/SG2HOI
 
 **Spatially Conditioned Graphs for Detecting Human–Object Interactions**
 
@@ -1715,6 +1821,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.06545
 - 代码/code：None
 
+**PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers**  (Oral)
+
+- 论文/paper：https://arxiv.org/abs/2108.08839
+- 代码/code：https://github.com/yuxumin/PoinTr
+
 **ReDAL: Region-based and Diversity-aware Active Learning for Point Cloud Semantic Segmentation**
 
 - 论文/paper：https://arxiv.org/abs/2107.11769
@@ -1742,7 +1853,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 **Vis2Mesh: Efficient Mesh Reconstruction from Unstructured Point Clouds of Large Scenes with Learned Virtual View Visibility**
 
-- 论文/paper：None
+- 论文/paper：https://arxiv.org/abs/2108.08378
 - 代码/code：https://github.com/GDAOSU/vis2mesh
 
 **Walk in the Cloud: Learning Curves for Point Clouds Shape Analysis**
@@ -1757,10 +1868,30 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## 3D reconstruction
 
+**3D Shapes Local Geometry Codes Learning with SDF**
+
+- 论文/paper：https://arxiv.org/abs/2108.08593
+- 代码/code：None
+
+**3DIAS: 3D Shape Reconstruction with Implicit Algebraic Surfaces**
+
+- 论文/paper：https://arxiv.org/abs/2108.08653
+- 代码/code：https://myavartanoo.github.io/3dias/
+
+**Learning Anchored Unsigned Distance Functions with Gradient Direction Alignment for Single-view Garment Reconstruction**
+
+- 论文/paper：https://arxiv.org/abs/2108.08478
+- 代码/code：None
+
 **Pixel-Perfect Structure-from-Motion with Featuremetric Refinement**(Oral)
 
 - 论文/paper：https://arxiv.org/abs/2108.08291
 - 代码/code：https://github.com/cvg/pixel-perfect-sfm
+
+**VolumeFusion: Deep Depth Fusion for 3D Scene Reconstruction**
+
+- 论文/paper：https://arxiv.org/abs/2108.08623
+- 代码/code：None
 
  [返回目录/back](#Contents)
 
@@ -2188,6 +2319,46 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.08284
 - 代码/code：https://samp.is.tue.mpg.de/
+
+**Exploiting Multi-Object Relationships for Detecting Adversarial Attacks in Complex Scenes**
+
+- 论文/paper：https://arxiv.org/abs/2108.08421
+- 代码/code：None
+
+**Social Fabric: Tubelet Compositions for Video Relation Detection**
+
+- 论文/paper：https://arxiv.org/abs/2108.08363
+- 代码/code：https://github.com/shanshuo/Social-Fabric
+
+**Causal Attention for Unbiased Visual Recognition**
+
+- 论文/paper：https://arxiv.org/abs/2108.08782
+- 代码/code：https://github.com/Wangt-CN/CaaM
+
+**Universal Cross-Domain Retrieval: Generalizing Across Classes and Domains**
+
+- 论文/paper：https://arxiv.org/abs/2108.08356
+- 代码/code：None
+
+**Amplitude-Phase Recombination: Rethinking Robustness of Convolutional Neural Networks in Frequency Domain**
+
+- 论文/paper：https://arxiv.org/abs/2108.08487
+- 代码/code：None
+
+**Learning to Match Features with Seeded Graph Matching Network**
+
+- 论文/paper：https://arxiv.org/abs/2108.08771
+- 代码/code：https://github.com/vdvchen/SGMNet
+
+A Unified Objective for Novel Class Discovery
+
+- 论文/paper：https://arxiv.org/abs/2108.08536
+- 代码/code：https://github.com/DonkeyShot21/UNO
+
+**How to cheat with metrics in single-image HDR reconstruction**
+
+- 论文/paper：https://arxiv.org/abs/2108.08713
+- 代码/code：None
 
  [返回目录/back](#Contents)
 
