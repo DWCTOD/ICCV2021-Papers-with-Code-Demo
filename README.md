@@ -73,6 +73,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [行人重识别/Re-Identification](#Re-Identification)
 - [人群计数 / Crowd Counting](#Crowd-Counting)
 - [Motion Forecasting](#MotionForecasting)
+- [Pedestrian Trajectory Prediction](#Pedestrian-Trajectory-Prediction)
 - [Face-Anti-spoofing](#Face-Anti-spoofing)
 - [deepfake](#deepfake)
 - [对抗攻击/ Adversarial Attacks](#AdversarialAttacks)
@@ -81,6 +82,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Image Retrieval](#ImageRetrieval)
 - [超分辨/Super-Resolution](#Super-Resolution)
 - [Image Reconstruction](#ImageReconstruction)
+- [Image Deblurring](#Deblurring)
 - [Image Denoising](#ImageDenoising)
 - [Image Desnowing](#ImageDesnowing)
 - [Image Enhancement](#ImageEnhancement)
@@ -287,6 +289,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/pdf/2103.14031.pdf | [主页/Homepage](http://raywzy.com/ICT/)
 - 代码/code： https://github.com/raywzy/ICT
 
+**Is it Time to Replace CNNs with Transformers for Medical Images?**
+
+- 论文/paper：https://arxiv.org/abs/2108.09038
+- 代码/code：None
+
 **Learning Spatio-Temporal Transformer for Visual Tracking**
 
 - 论文/paper：https://arxiv.org/abs/2103.17154
@@ -431,6 +438,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2102.04803
 - 代码/code： https://github.com/xieenze/DetCo
+
+**DeFRCN: Decoupled Faster R-CNN for Few-Shot Object Detection**
+
+- 论文/paper：https://arxiv.org/abs/2108.09017
+- 代码/code：None
 
 **Deployment of Deep Neural Networks for Object Detection on Edge AI Devices with Runtime Optimization**
 
@@ -626,6 +638,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：None
 - 代码/code： https://github.com/zhangyuygss/PIS
 
+**Pixel Contrastive-Consistent Semi-Supervised Semantic Segmentation**
+
+- 论文/paper：https://arxiv.org/abs/2108.09025
+- 代码/code：None
+
 **RECALL: Replay-based Continual Learning in Semantic Segmentation**
 
 - 论文/paper：https://arxiv.org/abs/2108.03673
@@ -790,10 +807,20 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.02874 | [主页/Homepage](https://senhe.github.io/projects/iccv_2021_lifespan_face/)
 - 代码/code：https://github.com/SenHe/DLFS
 
+**Dual Projection Generative Adversarial Networks for Conditional Image Generation**
+
+- 论文/paper：https://arxiv.org/abs/2108.09016
+- 代码/code：None
+
 **EigenGAN: Layer-Wise Eigen-Learning for GANs** 
 
 - 论文/paper：https://arxiv.org/pdf/2104.12476.pdf
 - 代码/code：https://github.com/LynnHo/EigenGAN-Tensorflow
+
+**GAN Inversion for Out-of-Range Images with Geometric Transformations**
+
+- 论文/paper：https://arxiv.org/abs/2108.08998
+- 代码/code：https://kkang831.github.io/publication/ICCV_2021_BDInvert/
 
 **Graph-to-3D: End-to-End Generation and Manipulation of 3D Scenes Using Scene Graphs**
 
@@ -927,6 +954,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 ## Zero/Few Shot
 
 **Boosting the Generalization Capability in Cross-Domain Few-shot Learning via Noise-enhanced Supervised Autoencoder**
+
+- 论文/paper：https://arxiv.org/abs/2108.05028
+- 代码/code：None
+
+**Discriminative Region-based Multi-Label Zero-Shot Learning**
 
 - 论文/paper：https://arxiv.org/abs/2108.05028
 - 代码/code：None
@@ -1298,6 +1330,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2102.04378
 - 代码/code：https://github.com/heshuting555/TransReID
 
+Video-based Person Re-identification with Spatial and Temporal Memory Networks
+
+- 论文/paper：https://arxiv.org/abs/2108.09039
+- 代码/code：None
+
 [返回目录/back](#Contents)
 
 <a name="Crowd-Counting"></a>
@@ -1342,6 +1379,17 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="Pedestrian-Trajectory-Prediction"></a>
+
+## Pedestrian Trajectory Prediction
+
+**MG-GAN: A Multi-Generator Model Preventing Out-of-Distribution Samples in Pedestrian Trajectory Prediction**
+
+- 论文/paper：https://arxiv.org/abs/2108.09274
+- 代码/code：https://github.com/selflein/MG-GAN
+
+[返回目录/back](#Contents)
+
 <a name="Face-Anti-spoofing"></a>
 
 ## Face-Anti-spoofing
@@ -1375,6 +1423,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="AdversarialAttacks"></a>
 
 ## 对抗攻击/ Adversarial Attacks
+
+**AdvDrop: Adversarial Attack to DNNs by Dropping Information**
+
+- 论文/paper：https://arxiv.org/abs/2108.09034
+- 代码/code：None
 
 **AGKD-BML: Defense Against Adversarial Attack by Attention Guided Knowledge Distillation and Bi-directional Metric Learning**
 
@@ -1559,6 +1612,17 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.08617
 - 代码/code：https://github.com/human-analysis/spatially-adaptive-image-restoration
+
+[返回目录/back](#Contents)
+
+<a name="Deblurring"></a>
+
+## Image Deblurring
+
+**Single Image Defocus Deblurring Using Kernel-Sharing Parallel Atrous Convolutions**
+
+- 论文/paper：https://arxiv.org/abs/2108.09108
+- 代码/code：None
 
 [返回目录/back](#Contents)
 
@@ -2350,7 +2414,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.08771
 - 代码/code：https://github.com/vdvchen/SGMNet
 
-A Unified Objective for Novel Class Discovery
+**A Unified Objective for Novel Class Discovery**
 
 - 论文/paper：https://arxiv.org/abs/2108.08536
 - 代码/code：https://github.com/DonkeyShot21/UNO
@@ -2359,6 +2423,36 @@ A Unified Objective for Novel Class Discovery
 
 - 论文/paper：https://arxiv.org/abs/2108.08713
 - 代码/code：None
+
+**Towards Understanding the Generative Capability of Adversarially Robust Classifiers** （Oral）
+
+- 论文/paper：https://arxiv.org/abs/2108.09093
+- 代码/code：None
+
+**Airbert: In-domain Pretraining for Vision-and-Language Navigation**
+
+- 论文/paper：https://arxiv.org/abs/2108.09105
+- 代码/code：None
+
+**Out-of-boundary View Synthesis Towards Full-Frame Video Stabilization**
+
+- 论文/paper：https://arxiv.org/abs/2108.09041
+- 代码/code：https://github.com/Annbless/OVS_Stabilization
+
+**PatchMatch-RL: Deep MVS with Pixelwise Depth, Normal, and Visibility**
+
+- 论文/paper：https://arxiv.org/abs/2108.08943
+- 代码/code：None
+
+**Continual Learning for Image-Based Camera Localization**
+
+- 论文/paper：https://arxiv.org/abs/2108.09112
+- 代码/code：None
+
+**Online Continual Learning with Natural Distribution Shifts: An Empirical Study with Visual Data**
+
+- 论文/paper：https://arxiv.org/abs/2108.09020
+- 代码/code：https://github.com/IntelLabs/continuallearning
 
  [返回目录/back](#Contents)
 
