@@ -29,7 +29,7 @@
 
 ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加微信：**nvshenj125**，请备注：**ICCV+姓名+学校/公司名称**！一定要根据格式申请，可以拉你进群。
 
-<a name="Contents"></a>
+ <a name="Contents"></a>
 
 ## :hammer: **目录 |Table of Contents（点击直接跳转）**
 
@@ -60,6 +60,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Self-supervised](#Self-supervised)
 - [Semi Supervised](#Semi-Supervised)
 - [Weakly Supervised](#Weakly-Supervised)
+- [Active Learning](#Active-Learning)
 - [ Action Recognition](#HumanActions)
 - [时序行为检测 / Temporal Action Localization](#TemporalActionLocalization)
 - [手语识别/Sign Language Recognition](#SignLanguageRecognition)
@@ -71,6 +72,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Face Reconstruction](#FaceReconstruction)
 - [Facial Expression Recognition](#Facial-Expression-Recognition)
 - [行人重识别/Re-Identification](#Re-Identification)
+- [Pedestrian Detection](#Pedestrian-Detection)
 - [人群计数 / Crowd Counting](#Crowd-Counting)
 - [Motion Forecasting](#MotionForecasting)
 - [Pedestrian Trajectory Prediction](#Pedestrian-Trajectory-Prediction)
@@ -79,6 +81,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [对抗攻击/ Adversarial Attacks](#AdversarialAttacks)
 - [跨模态检索/Cross-Modal Retrieval](#Cross-Modal-Retrieval)
 - [NeRF](#NeRF)
+- [Shadow Removal](#Shadow-Removal)
 - [Image Retrieval](#ImageRetrieval)
 - [超分辨/Super-Resolution](#Super-Resolution)
 - [Image Reconstruction](#ImageReconstruction)
@@ -88,6 +91,8 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Image Enhancement](#ImageEnhancement)
 - [Image Matching](#Image-Matching)
 - [Image Quality](#Image-Quality )
+- [Image Compression](#Image-Compression)
+- [Image Inpainting](#Image-Inpainting)
 - [Video Inpainting](#VideoInpainting)
 - [视频插帧/Video Frame Interpolation](#VideoFrameInterpolation)
 - [Video Reasoning](#Video-Reasoning)
@@ -235,6 +240,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.08189
 - 代码/code：https://github.com/great8nctu/FOX-NAS
+
+**Pi-NAS: Improving Neural Architecture Search by Reducing Supernet Training Consistency Shift**
+
+- 论文/paper：https://arxiv.org/abs/2108.09671v1
+- 代码/code：https://github.com/Ernie1/Pi-NAS
 
 **RANK-NOSH: Efficient Predictor-Based Architecture Search via Non-Uniform Successive Halving**
 
@@ -521,6 +531,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.06417
 - 代码/code：None
 
+**ODAM: Object Detection, Association, and Mapping using Posed RGB Video** （Oral）
+
+- 论文/paper：https://arxiv.org/abs/2108.10165v1
+- 代码/code：None
+
 **RandomRooms: Unsupervised Pre-training from Synthetic Shapes and Randomized Layouts for 3D Object Detection**
 
 - 论文/paper：https://arxiv.org/abs/2108.07794
@@ -536,6 +551,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="ObjectTracking"></a>
 
 ## 目标跟踪 / Object Tracking
+
+**Exploring Simple 3D Multi-Object Tracking for Autonomous Driving**
+
+- 论文/paper：https://arxiv.org/abs/2108.10312v1
+- 代码/code：None
 
 **Learn to Match: Automatic Matching Network Design for Visual Tracking**
 
@@ -652,6 +672,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2107.11279
 - 代码/code：https://github.com/CVMI-Lab/DARS
+
+**Self-Regulation for Semantic Segmentation**
+
+- 论文/paper：https://arxiv.org/abs/2108.09702v1
+- 代码/code：None
 
 **Semantic Concentration for Domain Adaptation**
 
@@ -988,6 +1013,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.08165
 - 代码/code：None
 
+**Relational Embedding for Few-Shot Classification**
+
+- 论文/paper：https://arxiv.org/abs/2108.09666v1
+- 代码/code：None
+
 **Transductive Few-Shot Classification on the Oblique Manifold**
 
 - 论文/paper：https://arxiv.org/abs/2108.04009
@@ -1072,10 +1102,26 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## Weakly Supervised
 
+**A Weakly Supervised Amodal Segmenter with Boundary Uncertainty Estimation**
+
+- 论文/paper：https://arxiv.org/abs/2108.09897v1
+- 代码/code：None
+
 **Foreground-Action Consistency Network for Weakly Supervised Temporal Action Localization**
 
 - 论文/paper：https://arxiv.org/abs/2108.06524
 - 代码/code：https://github.com/LeonHLJ/FAC-Net
+
+[返回目录/back](#Contents)
+
+<a name="Active-Learning"></a>
+
+## Active Learning
+
+**Influence Selection for Active Learning**
+
+- 论文/paper：https://arxiv.org/abs/2108.09331v1
+- 代码/code：None
 
 <a name="HumanActions"></a>
 
@@ -1320,6 +1366,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：None
 - 代码/code：https://github.com/IrvingMeng/LCE
 
+**Multi-Expert Adversarial Attack Detection in Person Re-identification Using Context Inconsistency**
+
+- 论文/paper：https://arxiv.org/abs/2108.09891v1
+- 代码/code：None
+
 **Towards Discriminative Representation Learning for Unsupervised Person Re-identification**
 
 - 论文/paper：https://arxiv.org/abs/2108.03439
@@ -1333,6 +1384,17 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 Video-based Person Re-identification with Spatial and Temporal Memory Networks
 
 - 论文/paper：https://arxiv.org/abs/2108.09039
+- 代码/code：None
+
+[返回目录/back](#Contents)
+
+<a name="Pedestrian-Detection"></a>
+
+## Pedestrian Detection
+
+**MOTSynth: How Can Synthetic Data Help Pedestrian Detection and Tracking?**
+
+- 论文/paper：https://arxiv.org/abs/2108.09518v1
 - 代码/code：None
 
 [返回目录/back](#Contents)
@@ -1382,6 +1444,11 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 <a name="Pedestrian-Trajectory-Prediction"></a>
 
 ## Pedestrian Trajectory Prediction
+
+**DenseTNT: End-to-end Trajectory Prediction from Dense Goal Sets**
+
+- 论文/paper：https://arxiv.org/abs/2108.09640v1
+- 代码/code：None
 
 **MG-GAN: A Multi-Generator Model Preventing Out-of-Distribution Samples in Pedestrian Trajectory Prediction**
 
@@ -1559,6 +1626,17 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 
 [返回目录/back](#Contents)
 
+<a name="Shadow-Removal"></a>
+
+## Shadow Removal
+
+**CANet: A Context-Aware Network for Shadow Removal**
+
+- 论文/paper：https://arxiv.org/abs/2108.09894v1
+- 代码/code：None
+
+[返回目录/back](#Contents)
+
 <a name="ImageRetrieval"></a>
 
 ## Image Retrieval
@@ -1688,6 +1766,28 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 
 - 论文/paper：https://arxiv.org/abs/2108.05997
 - 代码/code：None
+
+[返回目录/back](#Contents)
+
+<a name="Image-Compression"></a>
+
+## Image Compression
+
+**Variable-Rate Deep Image Compression through Spatially-Adaptive Feature Transform**
+
+- 论文/paper：https://arxiv.org/abs/2108.09551v1
+- 代码/code：https://github.com/micmic123/QmapCompression
+
+[返回目录/back](#Contents)
+
+<a name="Image-Inpainting"></a>
+
+## Image Inpainting
+
+**Image Inpainting via Conditional Texture and Structure Dual Generation**
+
+- 论文/paper：https://arxiv.org/abs/2108.09760v1
+- 代码/code：https://github.com/Xiefan-Guo/CTSDG
 
 [返回目录/back](#Contents)
 
@@ -1833,6 +1933,12 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 
 ## 点云/Point Cloud
 
+**A Technical Survey and Evaluation of Traditional Point Cloud Clustering Methods for LiDAR Panoptic Segmentation**
+
+- 论文/paper：https://arxiv.org/abs/2108.09522v1
+
+- 代码/code：None
+
 **(Just) A Spoonful of Refinements Helps the Registration Error Go Down** Oral
 
 - 论文/paper：https://arxiv.org/abs/2108.03257
@@ -1920,6 +2026,11 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 - 论文/paper：https://arxiv.org/abs/2108.08378
 - 代码/code：https://github.com/GDAOSU/vis2mesh
 
+**Voxel-based Network for Shape Completion by Leveraging Edge Generation**
+
+- 论文/paper：https://arxiv.org/abs/2108.09936v1
+- 代码/code：https://github.com/xiaogangw/VE-PCN
+
 **Walk in the Cloud: Learning Curves for Point Clouds Shape Analysis**
 
 - 论文/paper：https://arxiv.org/abs/2105.01288v1| [主页/Homepage](https://curvenet.github.io/)
@@ -1985,6 +2096,11 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 <a name="TextRecognition"></a>
 
 ## 文本识别 / Text Recognition
+
+**From Two to One: A New Scene Text Recognizer with Visual Language Modeling Network**
+
+- 论文/paper：https://arxiv.org/abs/2108.09661v1
+- 代码/code：https://github.com/wangyuxin87/VisionLAN
 
 **Joint Visual Semantic Reasoning: Multi-Stage Decoder for Text Recognition**
 
@@ -2453,6 +2569,56 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 
 - 论文/paper：https://arxiv.org/abs/2108.09020
 - 代码/code：https://github.com/IntelLabs/continuallearning
+
+**Detecting and Segmenting Adversarial Graphics Patterns from Images**
+
+- 论文/paper：https://arxiv.org/abs/2108.09383v1
+- 代码/code：None
+
+**TACo: Token-aware Cascade Contrastive Learning for Video-Text Alignment**
+
+- 论文/paper：https://arxiv.org/abs/2108.09980v1
+- 代码/code：None
+
+**BlockCopy: High-Resolution Video Processing with Block-Sparse Feature Propagation and Online Policies**
+
+- 论文/paper：https://arxiv.org/abs/2108.09376v1
+- 代码/code：None
+
+**Learning Signed Distance Field for Multi-view Surface Reconstruction**  (Oral)
+
+- 论文/paper：https://arxiv.org/abs/2108.09964v1
+- 代码/code：None
+
+**Deep Relational Metric Learning**
+
+- 论文/paper：https://arxiv.org/abs/2108.10026v1
+- 代码/code：https://github.com/zbr17/DRML
+
+**Ranking Models in Unlabeled New Environments**
+
+- 论文/paper：https://arxiv.org/abs/2108.10310v1
+- 代码/code：https://github.com/sxzrt/Proxy-Set
+
+**Patch2CAD: Patchwise Embedding Learning for In-the-Wild Shape Retrieval from a Single Image**
+
+- 论文/paper：https://arxiv.org/abs/2108.09368v1
+- 代码/code：None
+
+**BiaSwap: Removing dataset bias with bias-tailored swapping augmentation**
+
+- 论文/paper：https://arxiv.org/abs/2108.10008v1
+- 代码/code：None
+
+**LoOp: Looking for Optimal Hard Negative Embeddings for Deep Metric Learning**
+
+- 论文/paper：https://arxiv.org/abs/2108.09335v1
+- 代码/code：None
+
+**Learning of Visual Relations: The Devil is in the Tails**
+
+- 论文/paper：https://arxiv.org/abs/2108.09668v1
+- 代码/code：None
 
  [返回目录/back](#Contents)
 
