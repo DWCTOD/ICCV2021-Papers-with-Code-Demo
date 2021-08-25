@@ -68,6 +68,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Pose Estimation](#PoseEstimation)
 - [6D Object Pose Estimation](#6D-Object-Pose-Estimation)
 - [Human Reconstruction](#Human-Reconstruction)
+- [3D Scene Understanding](3D-Scene-Understanding)
 - [Face Recognition](#Face-Recognition)
 - [Face Reconstruction](#FaceReconstruction)
 - [Facial Expression Recognition](#Facial-Expression-Recognition)
@@ -156,8 +157,22 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 :heavy_check_mark:**FineAction: A Fined Video Dataset for Temporal Action Localization**
 
 - 论文/paper：https://arxiv.org/abs/2105.11107 | [主页/Homepage](https://deeperaction.github.io/fineaction/)
-
 - 代码/code： None
+
+**KoDF: A Large-scale Korean DeepFake Detection Dataset**
+
+- 论文/paper：https://arxiv.org/abs/2103.10094
+- 代码/code：https://moneybrain-research.github.io/kodf
+
+**LLVIP: A Visible-infrared Paired Dataset for Low-light Vision**
+
+- 论文/paper：https://arxiv.org/abs/2108.10831 | [主页/Homepage](https://bupt-ai-cz.github.io/LLVIP/)
+- 代码/code： None
+
+**Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark**
+
+- 论文/paper：https://arxiv.org/abs/2108.10840 | [主页/Homepage](https://bupt-ai-cz.github.io/Meta-SelfLearning/)
+- 代码/code：https://github.com/bupt-ai-cz/Meta-SelfLearning
 
 :heavy_check_mark:**MultiSports: A Multi-Person Video Dataset of Spatio-Temporally Localized Sports Actions**
 
@@ -298,6 +313,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/pdf/2103.14031.pdf | [主页/Homepage](http://raywzy.com/ICT/)
 - 代码/code： https://github.com/raywzy/ICT
+
+**Improving 3D Object Detection with Channel-wise Transformer**
+
+- 论文/paper：https://arxiv.org/abs/2108.10723
+- 代码/code：None
 
 **Is it Time to Replace CNNs with Transformers for Medical Images?**
 
@@ -489,6 +509,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2107.11669
 - 代码/code：https://github.com/kemaloksuz/RankSortLoss
 
+**Reconcile Prediction Consistency for Balanced Object Detection**
+
+- 论文/paper：https://arxiv.org/abs/2108.10809
+- 代码/code：None
+
 **Vector-Decomposed Disentanglement for Domain-Invariant Object Detection**
 
 - 论文/paper：https://arxiv.org/abs/2108.06685
@@ -526,6 +551,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.08258
 - 代码/code：None
 
+**Improving 3D Object Detection with Channel-wise Transformer**
+
+- 论文/paper：https://arxiv.org/abs/2108.10723
+- 代码/code：None
+
 **Is Pseudo-Lidar needed for Monocular 3D Object detection?**
 
 - 论文/paper：https://arxiv.org/abs/2108.06417
@@ -561,6 +591,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.00803
 - 代码/code：https://github.com/JudasDie/SOTS
+
+**Making Higher Order MOT Scalable: An Efficient Approximate Solver for Lifted Disjoint Paths**
+
+- 论文/paper：https://arxiv.org/abs/2108.10606
+- 代码/code：https://github.com/TimoK93/ApLift
 
 **Saliency-Associated Object Tracking**
 
@@ -681,6 +716,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Semantic Concentration for Domain Adaptation**
 
 - 论文/paper：https://arxiv.org/abs/2108.05720
+- 代码/code：None
+
+**ShapeConv: Shape-aware Convolutional Layer for Indoor RGB-D Semantic Segmentation**
+
+- 论文/paper：https://arxiv.org/abs/2108.10528
 - 代码/code：None
 
 **Simpler is Better: Few-shot Semantic Segmentation with Classifier Weight Transformer**
@@ -1049,6 +1089,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.01959
 - 代码/code：None
 
+**Tune it the Right Way: Unsupervised Validation of Domain Adaptation via Soft Neighborhood Density**
+
+- 论文/paper：https://arxiv.org/abs/2108.10860
+- 代码/code：https://github.com/VisionLearningGroup/SND
+
 [返回目录/back](#Contents)
 
 <a name="Self-supervised"></a>
@@ -1069,6 +1114,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.07183
 - 代码/code：https://github.com/srinidhiPY/ICCVCDPATH2021-ID-8
+
+**Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark**
+
+- 论文/paper：https://arxiv.org/abs/2108.10840 | [主页/Homepage](https://bupt-ai-cz.github.io/Meta-SelfLearning/)
+- 代码/code：https://github.com/bupt-ai-cz/Meta-SelfLearning
 
 **Self-Supervised Visual Representations Learning by Contrastive Mask Prediction**
 
@@ -1273,6 +1323,27 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **ARCH++: Animation-Ready Clothed Human Reconstruction Revisited**
 
 - 论文/paper：https://arxiv.org/abs/2108.07845
+- 代码/code：None
+
+**imGHUM: Implicit Generative Models of 3D Human Shape and Articulated Pose**
+
+- 论文/paper：https://arxiv.org/abs/2108.10842
+- 代码/code：None
+
+**Learning Motion Priors for 4D Human Body Capture in 3D Scenes** (Oral)
+
+- 论文/paper：https://arxiv.org/abs/2108.10399 |[主页/Homepage](https://sanweiliti.github.io/LEMO/LEMO.html)
+- 代码/code：https://github.com/sanweiliti/LEMO
+
+[返回目录/back](#Contents)
+
+<a name="3D-Scene-Understanding"></a>
+
+## 3D Scene Understanding
+
+**DeepPanoContext: Panoramic 3D Scene Understanding with Holistic Scene Context Graph and Relation-based Optimization** (Oral)
+
+- 论文/paper：https://arxiv.org/abs/2108.10743 |[主页/Homepage](https://chengzhag.github.io/publication/dpc/)
 - 代码/code：None
 
 [返回目录/back](#Contents)
@@ -1905,6 +1976,11 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 **Distance-aware Quantization**
 
 - 论文/paper：https://arxiv.org/abs/2108.06983
+- 代码/code：None
+
+**Dynamic Network Quantization for Efficient Video Inference**
+
+- 论文/paper：https://arxiv.org/abs/2108.10394
 - 代码/code：None
 
 **Generalizable Mixed-Precision Quantization via Attribution Rank Preservation**
@@ -2618,6 +2694,26 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 **Learning of Visual Relations: The Devil is in the Tails**
 
 - 论文/paper：https://arxiv.org/abs/2108.09668v1
+- 代码/code：None
+
+**Bridging Unsupervised and Supervised Depth from Focus via All-in-Focus Supervision**
+
+- 论文/paper：https://arxiv.org/abs/2108.10843
+- 代码/code：https://github.com/albert100121/AiFDepthNet
+
+**Support-Set Based Cross-Supervision for Video Grounding**
+
+- 论文/paper：https://arxiv.org/abs/2108.10576
+- 代码/code：None
+
+**Fast Robust Tensor Principal Component Analysis via Fiber CUR Decomposition**
+
+- 论文/paper：https://arxiv.org/abs/2108.10448
+- 代码/code：None
+
+**Improving Generalization of Batch Whitening by Convolutional Unit Optimization**
+
+- 论文/paper：https://arxiv.org/abs/2108.10629
 - 代码/code：None
 
  [返回目录/back](#Contents)
