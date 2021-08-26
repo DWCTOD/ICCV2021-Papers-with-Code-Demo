@@ -404,6 +404,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.03256
 - 代码/code：None
 
+**TransFER: Learning Relation-aware Facial Expression Representations with Transformers**
+
+- 论文/paper：https://arxiv.org/abs/2108.11116
+- 代码/code：None
+
 **TransPose: Keypoint Localization via Transformer**
 
 - 论文/paper：https://arxiv.org/abs/2012.14214
@@ -652,6 +657,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：None
 - 代码/code：https://github.com/liqiokkk/FCtL
+
+**Generalize then Adapt: Source-Free Domain Adaptive Semantic Segmentation**
+
+- 论文/paper：https://arxiv.org/abs/2108.11249
+- 代码/code：https://sites.google.com/view/sfdaseg
 
 **Labels4Free: Unsupervised Segmentation using StyleGAN**
 
@@ -1043,6 +1053,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.08048
 - 代码/code：None
 
+**Field-Guide-Inspired Zero-Shot Learning**
+
+- 论文/paper：https://arxiv.org/abs/2108.10967
+- 代码/code：None
+
 **Generalized Source-free Domain Adaptation**
 
 - 论文/paper：https://arxiv.org/abs/2108.01614
@@ -1394,6 +1409,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="Facial-Expression-Recognition"></a>
 
 ## Facial Expression Recognition
+
+**TransFER: Learning Relation-aware Facial Expression Representations with Transformers**
+
+- 论文/paper：https://arxiv.org/abs/2108.11116
+- 代码/code：None
 
 **Understanding and Mitigating Annotation Bias in Facial Expression Recognition**
 
@@ -2714,6 +2734,16 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 **Improving Generalization of Batch Whitening by Convolutional Unit Optimization**
 
 - 论文/paper：https://arxiv.org/abs/2108.10629
+- 代码/code：None
+
+**CSG-Stump: A Learning Friendly CSG-Like Representation for Interpretable Shape Parsing**
+
+- 论文/paper：https://arxiv.org/abs/2108.11305 |[主页/Homepage](https://kimren227.github.io/projects/CSGStump/)
+- 代码/code：https://github.com/kimren227/CSGStumpNet
+
+**NGC: A Unified Framework for Learning with Open-World Noisy Data**
+
+- 论文/paper：https://arxiv.org/abs/2108.11035
 - 代码/code：None
 
  [返回目录/back](#Contents)
