@@ -154,6 +154,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## Dataset
 
+**Cross-category Video Highlight Detection via Set-based Learning**
+
+- 论文/paper：https://arxiv.org/abs/2108.11770
+- 代码/code： https://github.com/ChrisAllenMing/Cross_Category_Video_Highlight
+
 :heavy_check_mark:**FineAction: A Fined Video Dataset for Temporal Action Localization**
 
 - 论文/paper：https://arxiv.org/abs/2105.11107 | [主页/Homepage](https://deeperaction.github.io/fineaction/)
@@ -184,6 +189,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：None
 - 代码/code： https://github.com/Anonymous-iccv2021-paper3163/CaFM-Pytorch
 
+**Semantically Coherent Out-of-Distribution Detection**
+
+- 论文/paper：https://arxiv.org/abs/2108.11941 | [主页/Homepage](https://jingkang50.github.io/projects/scood)
+- 代码/code：https://github.com/jingkang50/ICCV21_SCOOD
+
 **The Many Faces of Robustness: A Critical Analysis of Out-of-Distribution Generalization**
 
 - 论文/paper：https://arxiv.org/abs/2006.16241
@@ -194,7 +204,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.02399
 - 代码/code：https://github.com/NUST-Machine-Intelligence-Laboratory/weblyFG-dataset
 
-**Who's Waldo? Linking People Across Text and Images** Oral
+**Who's Waldo? Linking People Across Text and Images** (Oral)
 
 - 论文/paper：https://arxiv.org/abs/2108.07253
 - 代码/code：None
@@ -402,6 +412,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **The Right to Talk: An Audio-Visual Transformer Approach**
 
 - 论文/paper：https://arxiv.org/abs/2108.03256
+- 代码/code：None
+
+**TPH-YOLOv5: Improved YOLOv5 Based on Transformer Prediction Head for Object Detection on Drone-captured Scenarios**
+
+- 论文/paper：https://arxiv.org/abs/2108.11539
 - 代码/code：None
 
 **TransFER: Learning Relation-aware Facial Expression Representations with Transformers**
@@ -683,6 +698,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2107.11787
 - 代码/code：https://github.com/xulianuwa/AuxSegNet
 
+**Mining Contextual Information Beyond Image for Semantic Segmentation**
+
+- 论文/paper：https://arxiv.org/abs/2108.11819
+- 代码/code：None
+
 **Mining Latent Classes for Few-shot Segmentation**(Oral)
 
 - 论文/paper：https://arxiv.org/abs/2103.15402
@@ -902,6 +922,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.08841
 - 代码/code：None
 
+**Learning to Diversify for Single Domain Generalization**
+
+- 论文/paper：https://arxiv.org/abs/2108.11726
+- 代码/code：None
+
 **Manifold Matching via Deep Metric Learning for Generative Modeling**
 
 - 论文/paper：https://arxiv.org/abs/2106.10777
@@ -926,6 +951,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.05892 | [主页/Homepage](https://crockwell.github.io/pixelsynth/)
 - 代码/code：https://github.com/crockwell/pixelsynth/
+
+**SketchLattice: Latticed Representation for Sketch Manipulation**
+
+- 论文/paper：https://arxiv.org/abs/2108.11636
+- 代码/code：None
 
 **Sketch Your Own GAN**
 
@@ -1058,6 +1088,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.10967
 - 代码/code：None
 
+**Few-shot Visual Relationship Co-localization**
+
+- 论文/paper：https://arxiv.org/abs/2108.11618
+- 代码/code：None
+
 **Generalized Source-free Domain Adaptation**
 
 - 论文/paper：https://arxiv.org/abs/2108.01614
@@ -1104,6 +1139,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.01959
 - 代码/code：None
 
+**Unsupervised Dense Deformation Embedding Network for Template-Free Shape Correspondence**
+
+- 论文/paper：https://arxiv.org/abs/2108.11609
+- 代码/code：None
+
 **Tune it the Right Way: Unsupervised Validation of Domain Adaptation via Soft Neighborhood Density**
 
 - 论文/paper：https://arxiv.org/abs/2108.10860
@@ -1134,6 +1174,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.10840 | [主页/Homepage](https://bupt-ai-cz.github.io/Meta-SelfLearning/)
 - 代码/code：https://github.com/bupt-ai-cz/Meta-SelfLearning
+
+**Reducing Label Effort: Self-Supervised meets Active Learning**
+
+- 论文/paper：https://arxiv.org/abs/2108.11458
+- 代码/code：None
 
 **Self-Supervised Visual Representations Learning by Contrastive Mask Prediction**
 
@@ -1212,8 +1257,13 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 :heavy_check_mark:**MultiSports: A Multi-Person Video Dataset of Spatio-Temporally Localized Sports Actions**
 
 - 论文/paper：https://arxiv.org/abs/2105.07404 | [主页/Homepage](https://deeperaction.github.io/multisports/)
-
 - 代码/code：https://github.com/MCG-NJU/MultiSports/
+
+**Spatio-Temporal Dynamic Inference Network for Group Activity Recognition**
+
+- 论文/paper：https://arxiv.org/abs/2108.11743
+
+- 代码/code：None
 
 [返回目录/back](#Contents)
 
@@ -1349,6 +1399,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.10399 |[主页/Homepage](https://sanweiliti.github.io/LEMO/LEMO.html)
 - 代码/code：https://github.com/sanweiliti/LEMO
+
+**Probabilistic Modeling for Human Mesh Recovery**
+
+- 论文/paper：https://arxiv.org/abs/2108.11944
+- 代码/code：https://www.seas.upenn.edu/~nkolot/projects/prohmr/
 
 [返回目录/back](#Contents)
 
@@ -1582,6 +1637,11 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 
 ## 对抗攻击/ Adversarial Attacks
 
+**A Hierarchical Assessment of Adversarial Severity**
+
+- 论文/paper：https://arxiv.org/abs/2108.11785
+- 代码/code：None
+
 **AdvDrop: Adversarial Attack to DNNs by Dropping Information**
 
 - 论文/paper：https://arxiv.org/abs/2108.09034
@@ -1751,8 +1811,13 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 **Designing a Practical Degradation Model for Deep Blind Image Super-Resolution**
 
 - 论文/paper：https://arxiv.org/pdf/2103.14006.pdf
-
 - 代码/code：https://github.com/cszn/BSRGAN
+
+**Generalized Real-World Super-Resolution through Adversarial Robustness**
+
+- 论文/paper：https://arxiv.org/abs/2108.11505
+
+- 代码/code：None
 
 **Learning for Scale-Arbitrary Super-Resolution from Scale-Specific Networks**
 
@@ -2028,6 +2093,12 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 <a name="pointcloud"></a>
 
 ## 点云/Point Cloud
+
+**A Robust Loss for Point Cloud Registration**
+
+- 论文/paper：https://arxiv.org/abs/2108.11682
+
+- 代码/code：None
 
 **A Technical Survey and Evaluation of Traditional Point Cloud Clustering Methods for LiDAR Panoptic Segmentation**
 
@@ -2744,6 +2815,16 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 **NGC: A Unified Framework for Learning with Open-World Noisy Data**
 
 - 论文/paper：https://arxiv.org/abs/2108.11035
+- 代码/code：None
+
+**LocTex: Learning Data-Efficient Visual Representations from Localized Textual Supervision**
+
+- 论文/paper：https://arxiv.org/abs/2108.11950
+- 代码/code：https://loctex.mit.edu/
+
+**The Surprising Effectiveness of Visual Odometry Techniques for Embodied PointGoal Navigation**
+
+- 论文/paper：https://arxiv.org/abs/2108.11550
 - 代码/code：None
 
  [返回目录/back](#Contents)
