@@ -673,6 +673,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：None
 - 代码/code：https://github.com/liqiokkk/FCtL
 
+**ISNet: Integrate Image-Level and Semantic-Level Context for Semantic Segmentation**
+
+- 论文/paper：https://arxiv.org/abs/2108.12382v1
+- 代码/code：None
+
 **Generalize then Adapt: Source-Free Domain Adaptive Semantic Segmentation**
 
 - 论文/paper：https://arxiv.org/abs/2108.11249
@@ -1057,6 +1062,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="ZeroFewShot"></a>
 
 ## Zero/Few Shot
+
+**Binocular Mutual Learning for Improving Few-shot Classification**
+
+- 论文/paper：https://arxiv.org/abs/2108.12104v1
+- 代码/code：None
 
 **Boosting the Generalization Capability in Cross-Domain Few-shot Learning via Noise-enhanced Supervised Autoencoder**
 
@@ -2301,14 +2311,23 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 **End-to-End Urban Driving by Imitating a Reinforcement Learning Coach**
 
 - 论文/paper：https://arxiv.org/abs/2108.08265
-
 - 代码/code：None
+
+**FOVEA: Foveated Image Magnification for Autonomous Navigation**
+
+- 论文/paper：https://arxiv.org/abs/2108.12102v1
+- 代码/code：https://www.cs.cmu.edu/~mengtial/proj/fovea/
 
 **Learning to drive from a world on rails**
 
 - 论文/paper：https://arxiv.org/abs/2105.00636
-
 - 代码/code：https://arxiv.org/abs/2105.00636
+
+**MultiSiam: Self-supervised Multi-instance Siamese Representation Learning for Autonomous Driving**
+
+- 论文/paper：https://arxiv.org/abs/2108.12178v1
+
+- 代码/code：https://github.com/KaiChen1998/MultiSiam
 
 **Road-Challenge-Event-Detection-for-Situation-Awareness-in-Autonomous-Driving**
 
@@ -2826,6 +2845,16 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 
 - 论文/paper：https://arxiv.org/abs/2108.11550
 - 代码/code：None
+
+**Learning Cross-modal Contrastive Features for Video Domain Adaptation**
+
+- 论文/paper：https://arxiv.org/abs/2108.11974v1
+- 代码/code：None
+
+**Lifelong Infinite Mixture Model Based on Knowledge-Driven Dirichlet Process**
+
+- 论文/paper：https://arxiv.org/abs/2108.12278v1
+- 代码/code：https://github.com/dtuzi123/Lifelong-infinite-mixture-model
 
  [返回目录/back](#Contents)
 
