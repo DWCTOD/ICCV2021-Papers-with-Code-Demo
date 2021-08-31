@@ -37,6 +37,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Dataset](#dataset)
 - [Loss](#loss)
 - [NAS](#NAS)
+- [Image Classification](#Image-Classification)
 - [Vision Transformer](#VisualTransformer)
 - [目标检测/Object Detection](#ObjectDetection)
 - [Salient Object Detection](Salient-Object-Detection)
@@ -97,6 +98,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Video Inpainting](#VideoInpainting)
 - [视频插帧/Video Frame Interpolation](#VideoFrameInterpolation)
 - [Video Reasoning](#Video-Reasoning)
+- [Video Recognition](#Video-Recognition)
 - [Matching](#Matching)
 - [人机交互/Hand-object Interaction](#Hand-object-Interaction)
 - [视线估计 / Gaze Estimation](#GazeEstimation)
@@ -283,6 +285,17 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="Image-Classification"></a>
+
+## Image Classification
+
+**Tune It or Don't Use It: Benchmarking Data-Efficient Image Classification**
+
+- 论文/paper：https://arxiv.org/abs/2108.13122
+- 代码/code：None
+
+[返回目录/back](#Contents)
+
 <a name="VisualTransformer"></a>
 
 ## Vision Transformer
@@ -313,6 +326,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/pdf/2103.15679.pdf
 - 代码/code：https://github.com/hila-chefer/Transformer-MM-Explainability
+
+**GroupFormer: Group Activity Recognition with Clustered Spatial-Temporal Transformer**
+
+- 论文/paper：https://arxiv.org/abs/2108.12630
+- 代码/code：https://github.com/xueyee/GroupFormer
 
 **HiFT: Hierarchical Feature Transformer for Aerial Tracking**
 
@@ -607,6 +625,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.10312v1
 - 代码/code：None
 
+**Learning to Track Objects from Unlabeled Videos**
+
+- 论文/paper：https://arxiv.org/abs/2108.12711
+- 代码/code：https://github.com/VISION-SJTU/USOT
+
 **Learn to Match: Automatic Matching Network Design for Visual Tracking**
 
 - 论文/paper：https://arxiv.org/abs/2108.00803
@@ -732,6 +755,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.09025
 - 代码/code：None
+
+**Pseudo-mask Matters inWeakly-supervised Semantic Segmentation**
+
+- 论文/paper：https://arxiv.org/abs/2108.12995
+- 代码/code：https://github.com/Eli-YiLi/PMM
 
 **RECALL: Replay-based Continual Learning in Semantic Segmentation**
 
@@ -891,6 +919,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="GAN"></a>
 
 ## GAN
+
+**3DStyleNet: Creating 3D Shapes with Geometric and Texture Style Variations** (Oral)
+
+- 论文/paper：https://arxiv.org/abs/2108.12958
+- 代码/code：https://nv-tlabs.github.io/3DStyleNet/
 
 **AdaAttN: Revisit Attention Mechanism in Arbitrary Neural Style Transfer**
 
@@ -1118,6 +1151,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.09666v1
 - 代码/code：None
 
+**SIGN: Spatial-information Incorporated Generative Network for Generalized Zero-shot Semantic Segmentation**
+
+- 论文/paper：https://arxiv.org/abs/2108.12517
+- 代码/code：None
+
 **Transductive Few-Shot Classification on the Oblique Manifold**
 
 - 论文/paper：https://arxiv.org/abs/2108.04009
@@ -1165,6 +1203,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## Self-supervised
 
+**Digging into Uncertainty in Self-supervised Multi-view Stereo**
+
+- 论文/paper：https://arxiv.org/abs/2108.12966
+- 代码/code：None
+
 **Enhancing Self-supervised Video Representation Learning via Multi-level Feature Optimization**
 
 - 论文/paper：https://arxiv.org/abs/2108.02183
@@ -1189,6 +1232,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.11458
 - 代码/code：None
+
+**Self-supervised Neural Networks for Spectral Snapshot Compressive Imaging**
+
+- 论文/paper：https://arxiv.org/abs/2108.12654
+- 代码/code：https://github.com/mengziyi64/CASSI-Self-Supervised
 
 **Self-Supervised Visual Representations Learning by Contrastive Mask Prediction**
 
@@ -1884,6 +1932,11 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 - 论文/paper：https://arxiv.org/abs/2108.02938
 - 代码/code：None
 
+**Rethinking Deep Image Prior for Denoising**
+
+- 论文/paper：https://arxiv.org/abs/2108.12841
+- 代码/code：None
+
 [返回目录/back](#Contents)
 
 <a name="ImageDesnowing"></a>
@@ -1969,6 +2022,17 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 **Occlusion-Aware Video Object Inpainting**
 
 - 论文/paper：https://arxiv.org/abs/2108.06765
+- 代码/code：None
+
+[返回目录/back](#Contents)
+
+<a name="Video-Recognition"></a>
+
+# Video Recognition
+
+**Searching for Two-Stream Models in Multivariate Space for Video Recognition**
+
+- 论文/paper：https://arxiv.org/abs/2108.12957
 - 代码/code：None
 
 [返回目录/back](#Contents)
@@ -2092,6 +2156,12 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 - 论文/paper：https://arxiv.org/abs/2108.05507
 - 代码/code：https://github.com/wyc-ruiker/HKD
 
+**Lipschitz Continuity Guided Knowledge Distillation**
+
+- 论文/paper：https://arxiv.org/abs/2108.12905
+
+- 代码/code：None
+
 **G-DetKD: Towards General Distillation Framework for Object Detectors via Contrastive and Semantic-guided Feature Imitation**
 
 - 论文/paper：https://arxiv.org/abs/2108.07482
@@ -2140,7 +2210,11 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 **DRINet: A Dual-Representation Iterative Learning Network for Point Cloud Segmentation**
 
 - 论文/paper：https://arxiv.org/abs/2108.04023
+- 代码/code：None
 
+**Learning Inner-Group Relations on Point Clouds**
+
+- 论文/paper：https://arxiv.org/abs/2108.12468
 - 代码/code：None
 
 **InstanceRefer: Cooperative Holistic Understanding for Visual Grounding on Point Clouds through Instance Multi-level Contextual Referring**
@@ -2855,6 +2929,31 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 
 - 论文/paper：https://arxiv.org/abs/2108.12278v1
 - 代码/code：https://github.com/dtuzi123/Lifelong-infinite-mixture-model
+
+**A Dual Adversarial Calibration Framework for Automatic Fetal Brain Biometry**
+
+- 论文/paper：https://arxiv.org/abs/2108.12719
+- 代码/code：None
+
+**LUAI Challenge 2021 on Learning to Understand Aerial Images**
+
+- 论文/paper：https://arxiv.org/abs/2108.13246
+- 代码/code：None
+
+**Embedding Novel Views in a Single JPEG Image**
+
+- 论文/paper：https://arxiv.org/abs/2108.13003
+- 代码/code：None
+
+**Learning to Discover Reflection Symmetry via Polar Matching Convolution**
+
+- 论文/paper：https://arxiv.org/abs/2108.12952
+- 代码/code：None
+
+**Deep 3D Mask Volume for View Synthesis of Dynamic Scenes**
+
+- 论文/paper：https://arxiv.org/abs/2108.13408
+- 代码/code：https://cseweb.ucsd.edu//~viscomp/projects/ICCV21Deep/
 
  [返回目录/back](#Contents)
 
