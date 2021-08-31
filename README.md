@@ -156,11 +156,6 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## Dataset
 
-**Cross-category Video Highlight Detection via Set-based Learning**
-
-- 论文/paper：https://arxiv.org/abs/2108.11770
-- 代码/code： https://github.com/ChrisAllenMing/Cross_Category_Video_Highlight
-
 :heavy_check_mark:**FineAction: A Fined Video Dataset for Temporal Action Localization**
 
 - 论文/paper：https://arxiv.org/abs/2105.11107 | [主页/Homepage](https://deeperaction.github.io/fineaction/)
@@ -185,11 +180,6 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2105.07404 | [主页/Homepage](https://deeperaction.github.io/multisports/)
 - 代码/code：https://github.com/MCG-NJU/MultiSports/
-
-**Overfitting the Data: Compact Neural Video Delivery via Content-aware Feature Modulation**
-
-- 论文/paper：None
-- 代码/code： https://github.com/Anonymous-iccv2021-paper3163/CaFM-Pytorch
 
 **Semantically Coherent Out-of-Distribution Detection**
 
@@ -2954,6 +2944,16 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 
 - 论文/paper：https://arxiv.org/abs/2108.13408
 - 代码/code：https://cseweb.ucsd.edu//~viscomp/projects/ICCV21Deep/
+
+**Cross-category Video Highlight Detection via Set-based Learning**
+
+- 论文/paper：https://arxiv.org/abs/2108.11770
+- 代码/code： https://github.com/ChrisAllenMing/Cross_Category_Video_Highlight
+
+**Overfitting the Data: Compact Neural Video Delivery via Content-aware Feature Modulation**
+
+- 论文/paper：https://arxiv.org/abs/2108.08202
+- 代码/code： https://github.com/Anonymous-iccv2021-paper3163/CaFM-Pytorch
 
  [返回目录/back](#Contents)
 
