@@ -1817,6 +1817,11 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 - 论文/paper：https://arxiv.org/abs/2104.00677 | [主页/Homepage](https://ajayj.com/dietnerf)
 - 代码/code：None
 
+**Self-Calibrating Neural Radiance Fields**
+
+- 论文/paper：https://arxiv.org/abs/2108.13826
+- 代码/code：https://github.com/POSTECH-CVLab/SCNeRF
+
 **UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction** (Oral)
 
 - 论文/paper：https://arxiv.org/abs/2104.10078 | [主页/Homepage](https://pengsongyou.github.io/)
