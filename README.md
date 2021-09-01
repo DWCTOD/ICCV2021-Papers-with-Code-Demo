@@ -610,9 +610,19 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## 目标跟踪 / Object Tracking
 
+**DepthTrack : Unveiling the Power of RGBD Tracking**
+
+- 论文/paper：https://arxiv.org/abs/2108.13962
+- 代码/code：None
+
 **Exploring Simple 3D Multi-Object Tracking for Autonomous Driving**
 
 - 论文/paper：https://arxiv.org/abs/2108.10312v1
+- 代码/code：None
+
+**Is First Person Vision Challenging for Object Tracking?**
+
+- 论文/paper：https://arxiv.org/abs/2108.13665
 - 代码/code：None
 
 **Learning to Track Objects from Unlabeled Videos**
@@ -950,6 +960,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.08841
 - 代码/code：None
 
+**InSeGAN: A Generative Approach to Segmenting Identical Instances in Depth Images**
+
+- 论文/paper：https://arxiv.org/abs/2108.13865
+- 代码/code：None
+
 **Learning to Diversify for Single Domain Generalization**
 
 - 论文/paper：https://arxiv.org/abs/2108.11726
@@ -979,6 +994,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.05892 | [主页/Homepage](https://crockwell.github.io/pixelsynth/)
 - 代码/code：https://github.com/crockwell/pixelsynth/
+
+**SemIE: Semantically-Aware Image Extrapolation**
+
+- 论文/paper：https://arxiv.org/abs/2108.13702
+- 代码/code：https://semie-iccv.github.io/
 
 **SketchLattice: Latticed Representation for Sketch Manipulation**
 
@@ -2858,6 +2878,11 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 **Patch2CAD: Patchwise Embedding Learning for In-the-Wild Shape Retrieval from a Single Image**
 
 - 论文/paper：https://arxiv.org/abs/2108.09368v1
+- 代码/code：None
+
+**LSD-StructureNet: Modeling Levels of Structural Detail in 3D Part Hierarchies**
+
+- 论文/paper：https://arxiv.org/abs/2108.13459
 - 代码/code：None
 
 **BiaSwap: Removing dataset bias with bias-tailored swapping augmentation**
