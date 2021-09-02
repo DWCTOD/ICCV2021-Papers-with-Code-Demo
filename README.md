@@ -82,20 +82,20 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [deepfake](#deepfake)
 - [对抗攻击/ Adversarial Attacks](#AdversarialAttacks)
 - [跨模态检索/Cross-Modal Retrieval](#Cross-Modal-Retrieval)
-- [NeRF](#NeRF)
-- [Shadow Removal](#Shadow-Removal)
-- [Image Retrieval](#ImageRetrieval)
+- [神经辐射场/NeRF](#NeRF)
+- [阴影去除/Shadow Removal](#Shadow-Removal)
+- [图像检索/Image Retrieval](#ImageRetrieval)
 - [超分辨/Super-Resolution](#Super-Resolution)
-- [Image Reconstruction](#ImageReconstruction)
-- [Image Deblurring](#Deblurring)
-- [Image Denoising](#ImageDenoising)
-- [Image Desnowing](#ImageDesnowing)
-- [Image Enhancement](#ImageEnhancement)
-- [Image Matching](#Image-Matching)
-- [Image Quality](#Image-Quality )
-- [Image Compression](#Image-Compression)
-- [Image Inpainting](#Image-Inpainting)
-- [Video Inpainting](#VideoInpainting)
+- [图像重建/Image Reconstruction](#ImageReconstruction)
+- [去模糊/Image Deblurring](#Deblurring)
+- [去噪/Image Denoising](#ImageDenoising)
+- [去雪/Image Desnowing](#ImageDesnowing)
+- [图像增强/Image Enhancement](#ImageEnhancement)
+- [图像匹配/Image Matching](#Image-Matching)
+- [图像质量/Image Quality](#Image-Quality )
+- [图像压缩/Image Compression](#Image-Compression)
+- [图像修复/Image Inpainting](#Image-Inpainting)
+- [视频修复/Video Inpainting](#VideoInpainting)
 - [视频插帧/Video Frame Interpolation](#VideoFrameInterpolation)
 - [Video Reasoning](#Video-Reasoning)
 - [Video Recognition](#Video-Recognition)
@@ -1725,6 +1725,11 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 - 论文/paper：https://arxiv.org/abs/2108.06247
 - 代码/code：None
 
+**Sample Efficient Detection and Classification of Adversarial Attacks via Self-Supervised Embeddings**
+
+- 论文/paper：https://arxiv.org/abs/2108.13797
+- 代码/code：None
+
 **T*k*ML-AP: Adversarial Attacks to Top-*k* Multi-Label Learning**
 
 - 论文/paper：https://arxiv.org/abs/2108.00146
@@ -2222,6 +2227,11 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 - 论文/paper：https://arxiv.org/abs/2108.04728
 - 代码/code：None
 
+**CPFN: Cascaded Primitive Fitting Networks for High-Resolution Point Clouds**
+
+- 论文/paper：https://arxiv.org/abs/2109.00113
+- 代码/code：None
+
 **DRINet: A Dual-Representation Iterative Learning Network for Point Cloud Segmentation**
 
 - 论文/paper：https://arxiv.org/abs/2108.04023
@@ -2272,6 +2282,11 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 - 论文/paper：https://arxiv.org/abs/2108.04444
 - 代码/code：https://github.com/AllenXiangX/SnowflakeNet
 
+**Spatio-temporal Self-Supervised Representation Learning for 3D Point Clouds**
+
+- 论文/paper：https://arxiv.org/abs/2109.00179
+- 代码/code：None
+
 **Towards Efficient Point Cloud Graph Neural Networks Through Architectural Simplification**
 
 - 论文/paper：https://arxiv.org/abs/2108.06317
@@ -2318,6 +2333,11 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 
 - 论文/paper：https://arxiv.org/abs/2108.08653
 - 代码/code：https://myavartanoo.github.io/3dias/
+
+**DensePose 3D: Lifting Canonical Surface Maps of Articulated Objects to the Third Dimension**
+
+- 论文/paper：https://arxiv.org/abs/2109.00033
+- 代码/code：None
 
 **Learning Anchored Unsigned Distance Functions with Gradient Direction Alignment for Single-view Garment Reconstruction**
 
@@ -2984,6 +3004,11 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 
 - 论文/paper：https://arxiv.org/abs/2108.08202
 - 代码/code： https://github.com/Anonymous-iccv2021-paper3163/CaFM-Pytorch
+
+**Sparse to Dense Motion Transfer for Face Image Animation**
+
+- 论文/paper：https://arxiv.org/abs/2109.00471
+- 代码/code：None
 
  [返回目录/back](#Contents)
 
