@@ -962,6 +962,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.08998
 - 代码/code：https://kkang831.github.io/publication/ICCV_2021_BDInvert/
 
+**Generative Models for Multi-Illumination Color Constancy**
+
+- 论文/paper：https://arxiv.org/abs/2109.00863
+- 代码/code：None
+
 **Graph-to-3D: End-to-End Generation and Manipulation of 3D Scenes Using Scene Graphs**
 
 - 论文/paper：https://arxiv.org/abs/2108.08841
@@ -1188,6 +1193,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="Unsupervised"></a>
 
 ## Unsupervised
+
+**Adversarial Robustness for Unsupervised Domain Adaptation**
+
+- 论文/paper：https://arxiv.org/abs/2109.00946
+- 代码/code：None
 
 **Collaborative Unsupervised Visual Representation Learning from Decentralized Data**
 
@@ -1789,6 +1799,11 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 - 论文/paper：https://arxiv.org/abs/2108.07628
 - 代码/code：None
 
+**SLIDE: Single Image 3D Photography with Soft Layering and Depth-aware Inpainting** (Oral)
+
+- 论文/paper：https://arxiv.org/abs/2109.01068 | [主页/Homepage](https://varunjampani.github.io/slide/)
+- 代码/code：None
+
 **StructDepth: Leveraging the structural regularities for self-supervised indoor depth estimation**
 
 - 论文/paper：https://arxiv.org/abs/2108.08574
@@ -1843,6 +1858,11 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 
 - 论文/paper：https://arxiv.org/abs/2103.13744| [主页/Homepage](https://pengsongyou.github.io/)
 - 代码/code：https://github.com/creiser/kilonerf
+
+**NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo** (Oral)
+
+- 论文/paper：https://arxiv.org/abs/2109.01129 | [主页/Homepage](https://weiyithu.github.io/NerfingMVS/)
+- 代码/code：https://github.com/weiyithu/NerfingMVS
 
 **Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis**
 
@@ -3015,6 +3035,31 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 **Sparse to Dense Motion Transfer for Face Image Animation**
 
 - 论文/paper：https://arxiv.org/abs/2109.00471
+- 代码/code：None
+
+**SlowFast Rolling-Unrolling LSTMs for Action Anticipation in Egocentric Videos**
+
+- 论文/paper：https://arxiv.org/abs/2109.00829
+- 代码/code：None
+
+**4D-Net for Learned Multi-Modal Alignment**
+
+- 论文/paper：https://arxiv.org/abs/2109.01066
+- 代码/code：None
+
+**The Power of Points for Modeling Humans in Clothing**
+
+- 论文/paper：https://arxiv.org/abs/2109.01137
+- 代码/code：None
+
+**The Functional Correspondence Problem**
+
+- 论文/paper：https://arxiv.org/abs/2109.01097
+- 代码/code：None
+
+**On the Limits of Pseudo Ground Truth in Visual Camera Re-localisation**
+
+- 论文/paper：https://arxiv.org/abs/2109.00524
 - 代码/code：None
 
  [返回目录/back](#Contents)
