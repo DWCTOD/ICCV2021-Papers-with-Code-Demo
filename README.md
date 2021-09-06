@@ -50,6 +50,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [实例分割/Instance Segmentation](#InstanceSegmentation)
 - [视频分割 / video semantic segmentation](#video-semantic-segmentation)
 - [医学图像分割/ Medical Image Segmentation](#MedicalImageSegmentation)
+- [医学图像分析/Medical Image Analysis](#Medical-Image-Analysis)
 - [GAN](#GAN)
 - [Style Transfer](#Style-Transfer)
 - [细粒度分类/Fine-Grained Visual Categorization](#Fine-Grained-Visual-Categorization)
@@ -62,7 +63,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Semi Supervised](#Semi-Supervised)
 - [Weakly Supervised](#Weakly-Supervised)
 - [Active Learning](#Active-Learning)
-- [ Action Recognition](#HumanActions)
+- [ 动作识别/Action Recognition](#HumanActions)
 - [时序行为检测 / Temporal Action Localization](#TemporalActionLocalization)
 - [手语识别/Sign Language Recognition](#SignLanguageRecognition)
 - [Hand Pose Estimation](#Hand-Pose-Estimation)
@@ -771,6 +772,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2107.11279
 - 代码/code：https://github.com/CVMI-Lab/DARS
 
+**Semantic Segmentation on VSPW Dataset through Aggregation of Transformer Models**
+
+- 论文/paper：https://arxiv.org/abs/2109.01316
+- 代码/code：None
+
 **Self-Regulation for Semantic Segmentation**
 
 - 论文/paper：https://arxiv.org/abs/2108.09702v1
@@ -919,6 +925,17 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Recurrent Mask Refinement for Few-Shot Medical Image Segmentation**
 
 - 论文/paper：https://arxiv.org/abs/2108.00622
+- 代码/code：None
+
+[返回目录/back](#Contents)
+
+<a name="Medical-Image-Analysis"></a>
+
+## Medical Image Analysis
+
+**Studying the Effects of Self-Attention for Medical Image Analysis**
+
+- 论文/paper：https://arxiv.org/abs/2109.01486
 - 代码/code：None
 
 [返回目录/back](#Contents)
@@ -1347,7 +1364,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Spatio-Temporal Dynamic Inference Network for Group Activity Recognition**
 
 - 论文/paper：https://arxiv.org/abs/2108.11743
+- 代码/code：None
 
+**Video Pose Distillation for Few-Shot, Fine-Grained Sports Action Recognition**
+
+- 论文/paper：https://arxiv.org/abs/2109.01305
 - 代码/code：None
 
 [返回目录/back](#Contents)
@@ -1918,6 +1939,12 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 - 论文/paper：https://arxiv.org/pdf/2103.14006.pdf
 - 代码/code：https://github.com/cszn/BSRGAN
 
+**Dual-Camera Super-Resolution with Aligned Attention Modules**
+
+- 论文/paper：https://arxiv.org/abs/2109.01349
+
+- 代码/code：None
+
 **Generalized Real-World Super-Resolution through Adversarial Robustness**
 
 - 论文/paper：https://arxiv.org/abs/2108.11505
@@ -2468,8 +2495,13 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 **Road-Challenge-Event-Detection-for-Situation-Awareness-in-Autonomous-Driving**
 
 - 论文/paper：None
-
 - 代码/code：https://github.com/Trevorchenmsu/Road-Challenge-Event-Detection-for-Situation-Awareness-in-Autonomous-Driving
+
+**Safety-aware Motion Prediction with Unseen Vehicles for Autonomous Driving**
+
+- 论文/paper：https://arxiv.org/abs/2109.01510
+
+- 代码/code：https://github.com/xrenaa/Safety-Aware-Motion-Prediction
 
  [返回目录/back](#Contents)
 
@@ -3060,6 +3092,11 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 **On the Limits of Pseudo Ground Truth in Visual Camera Re-localisation**
 
 - 论文/paper：https://arxiv.org/abs/2109.00524
+- 代码/code：None
+
+**Towards Learning Spatially Discriminative Feature Representations**
+
+- 论文/paper：https://arxiv.org/abs/2109.01359
 - 代码/code：None
 
  [返回目录/back](#Contents)
