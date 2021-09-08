@@ -63,6 +63,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Semi Supervised](#Semi-Supervised)
 - [Weakly Supervised](#Weakly-Supervised)
 - [Active Learning](#Active-Learning)
+- [Action Detection](#Action-Detection)
 - [ 动作识别/Action Recognition](#HumanActions)
 - [时序行为检测 / Temporal Action Localization](#TemporalActionLocalization)
 - [手语识别/Sign Language Recognition](#SignLanguageRecognition)
@@ -71,7 +72,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [6D Object Pose Estimation](#6D-Object-Pose-Estimation)
 - [Human Reconstruction](#Human-Reconstruction)
 - [3D Scene Understanding](3D-Scene-Understanding)
-- [Face Recognition](#Face-Recognition)
+- [人脸识别/Face Recognition](#Face-Recognition)
 - [Face Reconstruction](#FaceReconstruction)
 - [Facial Expression Recognition](#Facial-Expression-Recognition)
 - [行人重识别/Re-Identification](#Re-Identification)
@@ -100,6 +101,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [视频插帧/Video Frame Interpolation](#VideoFrameInterpolation)
 - [Video Reasoning](#Video-Reasoning)
 - [Video Recognition](#Video-Recognition)
+- [Visual Question Answering](#Visual-Question-Answering)
 - [Matching](#Matching)
 - [人机交互/Hand-object Interaction](#Hand-object-Interaction)
 - [视线估计 / Gaze Estimation](#GazeEstimation)
@@ -186,6 +188,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.11941 | [主页/Homepage](https://jingkang50.github.io/projects/scood)
 - 代码/code：https://github.com/jingkang50/ICCV21_SCOOD
+
+**STRIVE: Scene Text Replacement In Videos**
+
+- 论文/paper：https://arxiv.org/abs/2109.02762 | [主页/Homepage](https://striveiccv2021.github.io/STRIVE-ICCV2021/)
+- 代码/code：None
 
 **The Many Faces of Robustness: A Critical Analysis of Out-of-Distribution Generalization**
 
@@ -309,9 +316,13 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Fast Convergence of DETR with Spatially Modulated Co-Attention**
 
 - 解读：https://zhuanlan.zhihu.com/p/397083124
-
 - 论文/paper：https://arxiv.org/abs/2108.02404
 - 代码/code：https://github.com/gaopengcuhk/SMCA-DETR
+
+**FuseFormer: Fusing Fine-Grained Information in Transformers for Video Inpainting**
+
+- 论文/paper：https://arxiv.org/abs/2108.01912
+- 代码/code：None
 
 **Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers**  (Oral)
 
@@ -418,6 +429,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2011.02910
 - 代码/code：https://github.com/mli0603/stereo-transformer
 
+**The Animation Transformer: Visual Correspondence via Segment Matching**
+
+- 论文/paper：https://arxiv.org/abs/2109.02614
+- 代码/code：None
+
 **The Right to Talk: An Audio-Visual Transformer Approach**
 
 - 论文/paper：https://arxiv.org/abs/2108.03256
@@ -465,6 +481,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.05565
 - 代码/code：https://github.com/henghuiding/Vision-Language-Transformer
+
+**Voxel Transformer for 3D Object Detection**
+
+- 论文/paper：https://arxiv.org/abs/2109.02497
+- 代码/code： None
 
 [返回目录/back](#Contents)
 
@@ -595,10 +616,20 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.10165v1
 - 代码/code：None
 
+**Pyramid R-CNN: Towards Better Performance and Adaptability for 3D Object Detection**
+
+- 论文/paper：https://arxiv.org/abs/2109.02499
+- 代码/code：None
+
 **RandomRooms: Unsupervised Pre-training from Synthetic Shapes and Randomized Layouts for 3D Object Detection**
 
 - 论文/paper：https://arxiv.org/abs/2108.07794
 - 代码/code：None
+
+**Voxel Transformer for 3D Object Detection**
+
+- 论文/paper：https://arxiv.org/abs/2109.02497
+- 代码/code： None
 
 **Unsupervised Domain Adaptive 3D Detection with Multi-Level Consistency**
 
@@ -677,6 +708,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.06337
 - 代码/code：https://github.com/royee182/DPL
 
+**Exploiting Spatial-Temporal Semantic Consistency for Video Scene Parsing**
+
+- 论文/paper：https://arxiv.org/abs/2109.02281
+- 代码/code：None
+
 **Exploiting a Joint Embedding Space for Generalized Zero-Shot Semantic Segmentation**
 
 - 论文/paper：https://arxiv.org/abs/2108.06536
@@ -694,7 +730,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 **From Contexts to Locality: Ultra-high Resolution Ie Segmentation via Locality-aware Contextual Correlation**
 
-- 论文/paper：None
+- 论文/paper：https://arxiv.org/abs/2109.02580
 - 代码/code：https://github.com/liqiokkk/FCtL
 
 **ISNet: Integrate Image-Level and Semantic-Level Context for Semantic Segmentation**
@@ -1024,6 +1060,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.05892 | [主页/Homepage](https://crockwell.github.io/pixelsynth/)
 - 代码/code：https://github.com/crockwell/pixelsynth/
 
+**Robustness and Generalization via Generative Adversarial Training**
+
+- 论文/paper：https://arxiv.org/abs/2109.02765
+- 代码/code：None
+
 **SemIE: Semantically-Aware Image Extrapolation**
 
 - 论文/paper：https://arxiv.org/abs/2108.13702
@@ -1335,6 +1376,19 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.09331v1
 - 代码/code：None
 
+[返回目录/back](#Contents)
+
+<a name="Action-Detection"></a>
+
+## Action Detection
+
+**Class Semantics-based Attention for Action Detection**
+
+- 论文/paper：https://arxiv.org/abs/2109.02613
+- 代码/code：None
+
+[返回目录/back](#Contents)
+
 <a name="HumanActions"></a>
 
 ## Action Recognition
@@ -1542,6 +1596,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.03764
 - 代码/code：None
+
+**Rethinking Common Assumptions to Mitigate Racial Bias in Face Recognition Datasets**
+
+- 论文/paper：https://arxiv.org/abs/2109.03229
+- 代码/code：https://github.com/j-alex-hanson/rethinking-race-face-datasets
 
 **SynFace: Face Recognition with Synthetic Data**
 
@@ -1865,6 +1924,11 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 
 ## NeRF
 
+**CodeNeRF: Disentangled Neural Radiance Fields for Object Categories**
+
+- 论文/paper：https://arxiv.org/abs/2109.01750 | [主页/Homepage](https://sites.google.com/view/wbjang/home/codenerf)
+- 代码/code：https://github.com/wayne1123/code-nerf
+
 **GNeRF: GAN-based Neural Radiance Field without Posed Camera**
 
 - 论文/paper：https://arxiv.org/abs/2103.15606 | [主页/Homepage](https://nvlabs.github.io/GANcraft/)
@@ -1879,6 +1943,11 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 
 - 论文/paper：https://arxiv.org/abs/2103.13744| [主页/Homepage](https://pengsongyou.github.io/)
 - 代码/code：https://github.com/creiser/kilonerf
+
+**Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering**
+
+- 论文/paper：https://arxiv.org/abs/2109.01847 | [主页/Homepage](https://zju3dv.github.io/object_nerf/)
+- 代码/code：https://github.com/zju3dv/object_nerf
 
 **NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo** (Oral)
 
@@ -1927,6 +1996,11 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 
 - 论文/paper：https://arxiv.org/abs/2108.04024
 - 代码/code：https://github.com/Cuberick-Orion/CIRR
+
+**Self-supervised Product Quantization for Deep Unsupervised Image Retrieval**
+
+- 论文/paper：https://arxiv.org/abs/2109.02244
+- 代码/code：None
 
 [返回目录/back](#Contents)
 
@@ -2088,6 +2162,11 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 
 ## Video Inpainting
 
+**FuseFormer: Fusing Fine-Grained Information in Transformers for Video Inpainting**
+
+- 论文/paper：https://arxiv.org/abs/2108.01912
+- 代码/code：None
+
 **Internal Video Inpainting by Implicit Long-range Propagation**
 
 - 论文/paper：https://arxiv.org/abs/2108.01912
@@ -2108,6 +2187,17 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 
 - 论文/paper：https://arxiv.org/abs/2108.12957
 - 代码/code：None
+
+[返回目录/back](#Contents)
+
+<a name="Visual-Question-Answering"></a>
+
+## Visual Question Answering
+
+**Weakly Supervised Relative Spatial Reasoning for Visual Question Answering**
+
+- 论文/paper：https://arxiv.org/abs/2109.01934
+- 代码/code：https://github.com/pratyay-banerjee/weak_sup_vqa
 
 [返回目录/back](#Contents)
 
@@ -2194,6 +2284,12 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 
 ## 模型压缩/Compress
 
+**GDP: Stabilized Neural Network Pruning via Gates with Differentiable Polarization**
+
+- 论文/paper：https://arxiv.org/abs/2109.02220
+
+- 代码/code：None
+
 **Sub-bit Neural Networks: Learning to Compress and Accelerate Binary Neural Networks**
 
 - 论文/paper：None
@@ -2205,6 +2301,11 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 <a name="Quantization"></a>
 
 ## Quantization
+
+**Cluster-Promoting Quantization with Bit-Drop for Minimizing Network Quantization Loss**
+
+- 论文/paper：https://arxiv.org/abs/2109.02100
+- 代码/code：None
 
 **Distance-aware Quantization**
 
@@ -3097,6 +3198,46 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 **Towards Learning Spatially Discriminative Feature Representations**
 
 - 论文/paper：https://arxiv.org/abs/2109.01359
+- 代码/code：None
+
+**Learning Fast Sample Re-weighting Without Reward Data**
+
+- 论文/paper：https://arxiv.org/abs/2109.03216
+- 代码/code：https://github.com/google-research/google-research/tree/master/ieg
+
+**CTRL-C: Camera calibration TRansformer with Line-Classification**
+
+- 论文/paper：https://arxiv.org/abs/2109.02259
+- 代码/code：None
+
+**PR-Net: Preference Reasoning for Personalized Video Highlight Detection**
+
+- 论文/paper：https://arxiv.org/abs/2109.01799
+- 代码/code：None
+
+**Dual Transfer Learning for Event-based End-task Prediction via Pluggable Event to Image Translation**
+
+- 论文/paper：https://arxiv.org/abs/2109.01801
+- 代码/code：None
+
+**Learning to Generate Scene Graph from Natural Language Supervision**
+
+- 论文/paper：https://arxiv.org/abs/2109.02227
+- 代码/code：https://github.com/YiwuZhong/SGG_from_NLS
+
+**Parsing Table Structures in the Wild**
+
+- 论文/paper：https://arxiv.org/abs/2109.02199
+- 代码/code：None
+
+**Hierarchical Object-to-Zone Graph for Object Navigation**
+
+- 论文/paper：https://arxiv.org/abs/2109.02066
+- 代码/code：None
+
+**Square Root Marginalization for Sliding-Window Bundle Adjustment**
+
+- 论文/paper：https://arxiv.org/abs/2109.02182
 - 代码/code：None
 
  [返回目录/back](#Contents)
