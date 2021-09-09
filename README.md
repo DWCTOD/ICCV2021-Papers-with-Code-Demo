@@ -174,6 +174,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.10831 | [主页/Homepage](https://bupt-ai-cz.github.io/LLVIP/)
 - 代码/code： None
 
+**Matching in the Dark: A Dataset for Matching Image Pairs of Low-light Scenes**
+
+- 论文/paper：https://arxiv.org/abs/2109.03585
+- 代码/code： None
+
 **Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark**
 
 - 论文/paper：https://arxiv.org/abs/2108.10840 | [主页/Homepage](https://bupt-ai-cz.github.io/Meta-SelfLearning/)
@@ -563,6 +568,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.10809
 - 代码/code：None
+
+**TOOD: Task-aligned One-stage Object Detection** (Oral)
+
+- 论文/paper：https://arxiv.org/abs/2108.07755
+- 代码/code：https://github.com/fcjian/TOOD
 
 **Vector-Decomposed Disentanglement for Domain-Invariant Object Detection**
 
@@ -3238,6 +3248,11 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 **Square Root Marginalization for Sliding-Window Bundle Adjustment**
 
 - 论文/paper：https://arxiv.org/abs/2109.02182
+- 代码/code：None
+
+**YouRefIt: Embodied Reference Understanding with Language and Gesture**
+
+- 论文/paper：https://arxiv.org/abs/2109.03413
 - 代码/code：None
 
  [返回目录/back](#Contents)
