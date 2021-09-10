@@ -73,6 +73,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Human Reconstruction](#Human-Reconstruction)
 - [3D Scene Understanding](3D-Scene-Understanding)
 - [人脸识别/Face Recognition](#Face-Recognition)
+- [Facial Editing](#Facial-Editing)
 - [Face Reconstruction](#FaceReconstruction)
 - [Facial Expression Recognition](#Facial-Expression-Recognition)
 - [行人重识别/Re-Identification](#Re-Identification)
@@ -979,6 +980,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## Medical Image Analysis
 
+**Preservational Learning Improves Self-supervised Medical Image Models by Reconstructing Diverse Contexts**
+
+- 论文/paper：https://arxiv.org/abs/2109.04379
+- 代码/code：https://github.com/Luchixiang/PCRL
+
 **Studying the Effects of Self-Attention for Medical Image Analysis**
 
 - 论文/paper：https://arxiv.org/abs/2109.01486
@@ -1028,6 +1034,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Generative Models for Multi-Illumination Color Constancy**
 
 - 论文/paper：https://arxiv.org/abs/2109.00863
+- 代码/code：None
+
+**Gradient Normalization for Generative Adversarial Networks**
+
+- 论文/paper：https://arxiv.org/abs/2109.02235
 - 代码/code：None
 
 **Graph-to-3D: End-to-End Generation and Manipulation of 3D Scenes Using Scene Graphs**
@@ -1621,6 +1632,17 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.06581
 - 代码/code：None
+
+[返回目录/back](#Contents)
+
+<a name="Facial-Editing "></a>
+
+## Facial Editing 
+
+**Talk-to-Edit: Fine-Grained Facial Editing via Dialog**
+
+- 论文/paper：https://arxiv.org/abs/2109.04425 | [主页/Homepage](https://www.mmlab-ntu.com/project/talkedit/)
+- 代码/code：https://github.com/yumingj/Talk-to-Edit
 
 [返回目录/back](#Contents)
 
@@ -2350,8 +2372,12 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 **G-DetKD: Towards General Distillation Framework for Object Detectors via Contrastive and Semantic-guided Feature Imitation**
 
 - 论文/paper：https://arxiv.org/abs/2108.07482
-
 - 代码/code：None
+
+**Self Supervision to Distillation for Long-Tailed Visual Recognition**
+
+- 论文/paper：https://arxiv.org/abs/2109.04075
+- 代码/code：https://github.com/MCG-NJU/SSD-LT
 
  [返回目录/back](#Contents)
 
@@ -2600,8 +2626,12 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 **MultiSiam: Self-supervised Multi-instance Siamese Representation Learning for Autonomous Driving**
 
 - 论文/paper：https://arxiv.org/abs/2108.12178v1
-
 - 代码/code：https://github.com/KaiChen1998/MultiSiam
+
+**NEAT: Neural Attention Fields for End-to-End Autonomous Driving**
+
+- 论文/paper：https://arxiv.org/abs/2109.04456
+- 代码/code：None
 
 **Road-Challenge-Event-Detection-for-Situation-Awareness-in-Autonomous-Driving**
 
@@ -3253,6 +3283,21 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 **YouRefIt: Embodied Reference Understanding with Language and Gesture**
 
 - 论文/paper：https://arxiv.org/abs/2109.03413
+- 代码/code：None
+
+**Deep Hough Voting for Robust Global Registration**
+
+- 论文/paper：https://arxiv.org/abs/2109.04310
+- 代码/code：None
+
+**IICNet: A Generic Framework for Reversible Image Conversion**
+
+- 论文/paper：https://arxiv.org/abs/2109.04242
+- 代码/code：https://github.com/felixcheng97/IICNet
+
+**Estimating Leaf Water Content using Remotely Sensed Hyperspectral Data**
+
+- 论文/paper：https://arxiv.org/abs/2109.02250
 - 代码/code：None
 
  [返回目录/back](#Contents)
