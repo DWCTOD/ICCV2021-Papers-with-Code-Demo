@@ -73,7 +73,8 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Human Reconstruction](#Human-Reconstruction)
 - [3D Scene Understanding](3D-Scene-Understanding)
 - [人脸识别/Face Recognition](#Face-Recognition)
-- [Facial Editing](#Facial-Editing)
+- [人脸对齐/Face Alignment](#Face-Alignment)
+- [人脸编辑/Facial Editing](#Facial-Editing)
 - [Face Reconstruction](#FaceReconstruction)
 - [Facial Expression Recognition](#Facial-Expression-Recognition)
 - [行人重识别/Re-Identification](#Re-Identification)
@@ -292,6 +293,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="Image-Classification"></a>
 
 ## Image Classification
+
+**Low-Shot Validation: Active Importance Sampling for Estimating Classifier Performance on Rare Categories**
+
+- 论文/paper：https://arxiv.org/abs/2109.05720
+- 代码/code：None
 
 **Tune It or Don't Use It: Benchmarking Data-Efficient Image Classification**
 
@@ -554,6 +560,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2104.12763 | [主页/Homepage](https://ashkamath.github.io/mdetr_page/)
 - 代码/code： https://github.com/ashkamath/mdetr
+
+**Mutual Supervision for Dense Object Detection**
+
+- 论文/paper：https://arxiv.org/abs/2109.05986
+- 代码/code：None
 
 **Oriented R-CNN for Object Detection**
 
@@ -1247,6 +1258,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.08165
 - 代码/code：None
 
+**Meta Navigator: Search for a Good Adaptation Policy for Few-shot Learning**
+
+- 论文/paper：https://arxiv.org/abs/2109.05749
+- 代码/code：None
+
 **Relational Embedding for Few-Shot Classification**
 
 - 论文/paper：https://arxiv.org/abs/2108.09666v1
@@ -1635,7 +1651,18 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
-<a name="Facial-Editing "></a>
+<a name="Face-Alignment"></a>
+
+## Face Alignment
+
+**ADNet: Leveraging Error-Bias Towards Normal Direction in Face Alignment**
+
+- 论文/paper：https://arxiv.org/abs/2109.05721
+- 代码/code：None
+
+[返回目录/back](#Contents)
+
+<a name="Facial-Editing"></a>
 
 ## Facial Editing 
 
@@ -1724,9 +1751,14 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2102.04378
 - 代码/code：https://github.com/heshuting555/TransReID
 
-Video-based Person Re-identification with Spatial and Temporal Memory Networks
+**Video-based Person Re-identification with Spatial and Temporal Memory Networks**
 
 - 论文/paper：https://arxiv.org/abs/2108.09039
+- 代码/code：None
+
+**Weakly Supervised Person Search with Region Siamese Networks**
+
+- 论文/paper：https://arxiv.org/abs/2109.06109
 - 代码/code：None
 
 [返回目录/back](#Contents)
@@ -1738,6 +1770,11 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 **MOTSynth: How Can Synthetic Data Help Pedestrian Detection and Tracking?**
 
 - 论文/paper：https://arxiv.org/abs/2108.09518v1
+- 代码/code：None
+
+**Spatial and Semantic Consistency Regularizations for Pedestrian Attribute Recognition**
+
+- 论文/paper：https://arxiv.org/abs/2109.05686
 - 代码/code：None
 
 [返回目录/back](#Contents)
@@ -3298,6 +3335,36 @@ Video-based Person Re-identification with Spatial and Temporal Memory Networks
 **Estimating Leaf Water Content using Remotely Sensed Hyperspectral Data**
 
 - 论文/paper：https://arxiv.org/abs/2109.02250
+- 代码/code：None
+
+**What Matters for Ad-hoc Video Search? A Large-scale Evaluation on TRECVID**
+
+- 论文/paper：https://arxiv.org/abs/2109.01774
+- 代码/code：None
+
+**Shape-Biased Domain Generalization via Shock Graph Embeddings**
+
+- 论文/paper：https://arxiv.org/abs/2109.05671
+- 代码/code：None
+
+**Explain Me the Painting: Multi-Topic Knowledgeable Art Description Generation**
+
+- 论文/paper：https://arxiv.org/abs/2109.05743
+- 代码/code：None
+
+**Learning Indoor Inverse Rendering with 3D Spatially-Varying Lighting**（Oral）
+
+- 论文/paper：https://arxiv.org/abs/2109.06061
+- 代码/code：None
+
+**Multiresolution Deep Implicit Functions for 3D Shape Representation**
+
+- 论文/paper：https://arxiv.org/abs/2109.05591
+- 代码/code：None
+
+**Image Shape Manipulation from a Single Augmented Training Sample** （Oral）
+
+- 论文/paper：https://arxiv.org/abs/2109.06151
 - 代码/code：None
 
  [返回目录/back](#Contents)
