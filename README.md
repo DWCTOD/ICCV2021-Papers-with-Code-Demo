@@ -29,7 +29,7 @@
 
 ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加微信：**nvshenj125**，请备注：**ICCV+姓名+学校/公司名称**！一定要根据格式申请，可以拉你进群。
 
- <a name="Contents"></a>
+ image<a name="Contents"></a>
 
 ## :hammer: **目录 |Table of Contents（点击直接跳转）**
 
@@ -40,7 +40,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Image Classification](#Image-Classification)
 - [Vision Transformer](#VisualTransformer)
 - [目标检测/Object Detection](#ObjectDetection)
-- [Salient Object Detection](Salient-Object-Detection)
+- [显著性检测/Salient Object Detection](#Salient-Object-Detection)
 - [3D目标检测 / 3D Object Detection](#3D-Object-Detection)
 - [目标跟踪 / Object Tracking](#ObjectTracking)
 - [Image Semantic Segmentation](#ImageSemanticSegmentation)
@@ -98,6 +98,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [图像匹配/Image Matching](#Image-Matching)
 - [图像质量/Image Quality](#Image-Quality )
 - [图像压缩/Image Compression](#Image-Compression)
+- [图像复原/Image Restoration](#Image-Restoration)
 - [图像修复/Image Inpainting](#Image-Inpainting)
 - [视频修复/Video Inpainting](#VideoInpainting)
 - [视频插帧/Video Frame Interpolation](#VideoFrameInterpolation)
@@ -310,6 +311,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## Vision Transformer
 
+**An End-to-End Transformer Model for 3D Object Detection**
+
+- 论文/paper：https://arxiv.org/abs/2109.08141
+- 代码/code：None
+
 **AutoFormer: Searching Transformers for Visual Recognition**
 
 - 论文/paper：https://arxiv.org/abs/2107.00651
@@ -324,6 +330,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.06152
 - 代码/code：https://git.io/ConditionalDETR
+
+**Eformer: Edge Enhancement based Transformer for Medical Image Denoising**
+
+- 论文/paper：https://arxiv.org/abs/2109.08044
+- 代码/code：None
 
 **Fast Convergence of DETR with Spatially Modulated Co-Attention**
 
@@ -387,6 +398,16 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2107.13108
 - 代码/code： https://github.com/IceTTTb/PlaneTR3D
+
+**PnP-DETR: Towards Efficient Visual Analysis with Transformers**
+
+- 论文/paper：https://arxiv.org/abs/2109.07036
+- 代码/code：https://github.com/twangnh/pnp-detr
+
+**Pose Transformers (POTR): Human Motion Prediction with Non-Autoregressive Transformers**
+
+- 论文/paper：https://arxiv.org/abs/2109.07531
+- 代码/code：None
 
 **PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers**  (Oral)
 
@@ -602,6 +623,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.03551
 - 代码/code：None
 
+**RGB-D Saliency Detection via Cascaded Mutual Information Minimization**
+
+- 论文/paper：https://arxiv.org/abs/2109.07246
+- 代码/code：
+
 **Specificity-preserving RGB-D Saliency Detection**
 
 - 论文/paper：https://arxiv.org/abs/2108.08162
@@ -612,6 +638,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="3D-Object-Detection"></a>
 
 # 3D目标检测 / 3D Object Detection
+
+**An End-to-End Transformer Model for 3D Object Detection**
+
+- 论文/paper：https://arxiv.org/abs/2109.08141
+- 代码/code：None
 
 **Fog Simulation on Real LiDAR Point Clouds for 3D Object Detection in Adverse Weather**
 
@@ -991,6 +1022,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## Medical Image Analysis
 
+**Eformer: Edge Enhancement based Transformer for Medical Image Denoising**
+
+- 论文/paper：https://arxiv.org/abs/2109.08044
+- 代码/code：None
+
 **Preservational Learning Improves Self-supervised Medical Image Models by Reconstructing Diverse Contexts**
 
 - 论文/paper：https://arxiv.org/abs/2109.04379
@@ -1056,6 +1092,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.08841
 - 代码/code：None
+
+**Image Synthesis via Semantic Composition**
+
+- 论文/paper：https://arxiv.org/abs/2109.07053 | [主页/Homepage](#https://shepnerd.github.io/scg/)
+- 代码/code：https://github.com/dvlab-research/SCGAN
 
 **InSeGAN: A Generative Approach to Segmenting Identical Instances in Depth Images**
 
@@ -2144,6 +2185,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.08286
 - 代码/code：None
 
+**Eformer: Edge Enhancement based Transformer for Medical Image Denoising**
+
+- 论文/paper：https://arxiv.org/abs/2109.08044
+- 代码/code：None
+
 **ILVR: Conditioning Method for Denoising Diffusion Probabilistic Models **Oral
 
 - 论文/paper：https://arxiv.org/abs/2108.02938
@@ -2209,10 +2255,26 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## Image Compression
 
+**Dense Deep Unfolding Network with 3D-CNN Prior for Snapshot Compressive Imaging**
+
+- 论文/paper：https://arxiv.org/abs/2109.06548
+- 代码/code：https://github.com/jianzhangcs/SCI3D
+
 **Variable-Rate Deep Image Compression through Spatially-Adaptive Feature Transform**
 
 - 论文/paper：https://arxiv.org/abs/2108.09551v1
 - 代码/code：https://github.com/micmic123/QmapCompression
+
+[返回目录/back](#Contents)
+
+<a name="Image-Restoration"></a>
+
+## Image Restoration
+
+**Dynamic Attentive Graph Learning for Image Restoration**
+
+- 论文/paper：https://arxiv.org/abs/2109.06620
+- 代码/code：https://github.com/jianzhangcs/DAGL
 
 [返回目录/back](#Contents)
 
@@ -2503,6 +2565,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **ReDAL: Region-based and Diversity-aware Active Learning for Point Cloud Semantic Segmentation**
 
 - 论文/paper：https://arxiv.org/abs/2107.11769
+- 代码/code：None
+
+**Sampling Network Guided Cross-Entropy Method for Unsupervised Point Cloud Registration**
+
+- 论文/paper：https://arxiv.org/abs/2109.06619
 - 代码/code：None
 
 **SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution with Skip-Transformer**
@@ -3365,6 +3432,31 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Image Shape Manipulation from a Single Augmented Training Sample** （Oral）
 
 - 论文/paper：https://arxiv.org/abs/2109.06151
+- 代码/code：None
+
+**ZFlow: Gated Appearance Flow-based Virtual Try-on with 3D Priors**
+
+- 论文/paper：https://arxiv.org/abs/2109.07001
+- 代码/code：None
+
+**Contact-Aware Retargeting of Skinned Motion**
+
+- 论文/paper：https://arxiv.org/abs/2109.07431
+- 代码/code：None
+
+**DisUnknown: Distilling Unknown Factors for Disentanglement Learning**
+
+- 论文/paper：https://arxiv.org/abs/2109.08090
+- 代码/code：https://github.com/stormraiser/disunknown
+
+**FSER: Deep Convolutional Neural Networks for Speech Emotion Recognition**
+
+- 论文/paper：https://arxiv.org/abs/2109.07916
+- 代码/code：None
+
+**A Pathology Deep Learning System Capable of Triage of Melanoma Specimens Utilizing Dermatopathologist Consensus as Ground Truth**
+
+- 论文/paper：https://arxiv.org/abs/2109.07554
 - 代码/code：None
 
  [返回目录/back](#Contents)
