@@ -78,6 +78,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Face Reconstruction](#FaceReconstruction)
 - [Facial Expression Recognition](#Facial-Expression-Recognition)
 - [行人重识别/Re-Identification](#Re-Identification)
+- [Vehicle Re-identification](#VehicleRe-identification)
 - [Pedestrian Detection](#Pedestrian-Detection)
 - [人群计数 / Crowd Counting](#Crowd-Counting)
 - [Motion Forecasting](#MotionForecasting)
@@ -576,6 +577,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.00580
 - 代码/code：None
+
+**Human Detection and Segmentation via Multi-view Consensus**
+
+- 论文/paper：None
+- 代码/code：https://github.com/isinsukatircioglu/mvc
 
 **MDETR : Modulated Detection for End-to-End Multi-Modal Understanding**
 
@@ -1800,6 +1806,17 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Weakly Supervised Person Search with Region Siamese Networks**
 
 - 论文/paper：https://arxiv.org/abs/2109.06109
+- 代码/code：None
+
+[返回目录/back](#Contents)
+
+<a name="Vehicle Re-identification"></a>
+
+## Vehicle Re-identification
+
+**Heterogeneous Relational Complement for Vehicle Re-identification**
+
+- 论文/paper：https://arxiv.org/abs/2109.07894
 - 代码/code：None
 
 [返回目录/back](#Contents)
