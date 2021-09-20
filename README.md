@@ -3476,6 +3476,12 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2109.07554
 - 代码/code：None
 
+**PIRenderer: Controllable Portrait Image Generation via Semantic Neural Rendering**
+
+- 论文/paper：https://arxiv.org/abs/2109.08379
+
+- 代码/code：https://github.com/RenYurui/PIRender
+
  [返回目录/back](#Contents)
 
 
