@@ -3546,6 +3546,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2109.08901
 - 代码/code：None
 
+**JEM++: Improved Techniques for Training JEM**
+
+- 论文/paper：https://arxiv.org/abs/2109.09032
+- 代码/code：https://github.com/sndnyang/JEMPP
+
  [返回目录/back](#Contents)
 
 
