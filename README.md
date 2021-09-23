@@ -71,7 +71,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Pose Estimation](#PoseEstimation)
 - [6D Object Pose Estimation](#6D-Object-Pose-Estimation)
 - [Human Reconstruction](#Human-Reconstruction)
-- [3D Scene Understanding](3D-Scene-Understanding)
+- [3D Scene Understanding](#3D-Scene-Understanding)
 - [人脸识别/Face Recognition](#Face-Recognition)
 - [人脸对齐/Face Alignment](#Face-Alignment)
 - [人脸编辑/Facial Editing](#Facial-Editing)
@@ -331,6 +331,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.06152
 - 代码/code：https://git.io/ConditionalDETR
+
+**Dyadformer: A Multi-modal Transformer for Long-Range Modeling of Dyadic Interactions**
+
+- 论文/paper：https://arxiv.org/abs/2109.09487
+- 代码/code：None
 
 **Eformer: Edge Enhancement based Transformer for Medical Image Denoising**
 
@@ -766,6 +771,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.06337
 - 代码/code：https://github.com/royee182/DPL
+
+**EdgeFlow: Achieving Practical Interactive Segmentation with Edge-Guided Flow**
+
+- 论文/paper：https://arxiv.org/abs/2109.09406
+- 代码/code：https://github.com/PaddlePaddle/PaddleSeg
 
 **Exploiting Spatial-Temporal Semantic Consistency for Video Scene Parsing**
 
@@ -1310,6 +1320,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2109.05749
 - 代码/code：None
 
+**On the Importance of Distractors for Few-Shot Classification**
+
+- 论文/paper：https://arxiv.org/abs/2109.09883
+- 代码/code：None
+
 **Relational Embedding for Few-Shot Classification**
 
 - 论文/paper：https://arxiv.org/abs/2108.09666v1
@@ -1607,6 +1622,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2103.16507 | [主页/Homepage](https://hongwenzhang.github.io/pymaf/)
 - 代码/code： https://github.com/HongwenZhang/PyMAF
 
+**Unsupervised 3D Pose Estimation for Hierarchical Dance Video Recognition**
+
+- 论文/paper：https://arxiv.org/abs/2109.09166
+- 代码/code：None
+
 [返回目录/back](#Contents)
 
 <a name="6D-Object-Pose-Estimation"></a>
@@ -1621,6 +1641,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **SO-Pose: Exploiting Self-Occlusion for Direct 6D Pose Estimation**
 
 - 论文/paper：https://arxiv.org/abs/2108.08367
+- 代码/code：None
+
+**StereOBJ-1M: Large-scale Stereo Image Dataset for 6D Object Pose Estimation**
+
+- 论文/paper：https://arxiv.org/abs/2109.10115
 - 代码/code：None
 
 [返回目录/back](#Contents)
@@ -1644,6 +1669,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.10399 |[主页/Homepage](https://sanweiliti.github.io/LEMO/LEMO.html)
 - 代码/code：https://github.com/sanweiliti/LEMO
 
+**Physics-based Human Motion Estimation and Synthesis from Videos**
+
+- 论文/paper：https://arxiv.org/abs/2109.09913
+- 代码/code：None
+
 **Probabilistic Modeling for Human Mesh Recovery**
 
 - 论文/paper：https://arxiv.org/abs/2108.11944
@@ -1659,6 +1689,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.10743 |[主页/Homepage](https://chengzhag.github.io/publication/dpc/)
 - 代码/code：None
+
+**Estimating and Exploiting the Aleatoric Uncertainty in Surface Normal Estimation**  [oral]
+
+- 论文/paper：https://arxiv.org/abs/2109.09881
+- 代码/code：https://github.com/baegwangbin/surface_normal_uncertainty
 
 [返回目录/back](#Contents)
 
@@ -1877,6 +1912,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.01316 | [主页/Homepage](https://jiachenli94.github.io/publications/RAIN/)
 - 代码/code：None
 
+**Skeleton-Graph: Long-Term 3D Motion Prediction From 2D Observations Using Deep Spatio-Temporal Graph CNNs**
+
+- 论文/paper：https://arxiv.org/abs/2109.10257
+- 代码/code：https://github.com/abduallahmohamed/Skeleton-Graph
+
 [返回目录/back](#Contents)
 
 <a name="Pedestrian-Trajectory-Prediction"></a>
@@ -1980,6 +2020,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.03824
 - 代码/code：https://github.com/QT-Zhu/AA-RMVSNet
+
+**Augmenting Depth Estimation with Geospatial Context**
+
+- 论文/paper：https://arxiv.org/abs/2109.09879
+- 代码/code：None
 
 **Fine-grained Semantics-aware Representation Enhancement for Self-supervised Monocular Depth Estimation**   (oral)
 
@@ -2254,6 +2299,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.08179
 - 代码/code：None
+
+**Viewpoint Invariant Dense Matching for Visual Geolocalization**
+
+- 论文/paper：https://arxiv.org/abs/2109.09827
+- 代码/code：https://github.com/gmberton/geo_warp
 
 [返回目录/back](#Contents)
 
@@ -3479,8 +3529,22 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **PIRenderer: Controllable Portrait Image Generation via Semantic Neural Rendering**
 
 - 论文/paper：https://arxiv.org/abs/2109.08379
-
 - 代码/code：https://github.com/RenYurui/PIRender
+
+**The First Vision For Vitals (V4V) Challenge for Non-Contact Video-Based Physiological Estimation**
+
+- 论文/paper：https://arxiv.org/abs/2109.10471 | [Dataset and Challenge](https://vision4vitals.github.io/)
+- 代码/code：None
+
+**FaceEraser: Removing Facial Parts for Augmented Reality**
+
+- 论文/paper：https://arxiv.org/abs/2109.10760
+- 代码/code：None
+
+**S3VAADA: Submodular Subset Selection for Virtual Adversarial Active Domain Adaptation**
+
+- 论文/paper：https://arxiv.org/abs/2109.08901
+- 代码/code：None
 
  [返回目录/back](#Contents)
 
