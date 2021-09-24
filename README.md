@@ -198,6 +198,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.11941 | [主页/Homepage](https://jingkang50.github.io/projects/scood)
 - 代码/code：https://github.com/jingkang50/ICCV21_SCOOD
 
+**StereOBJ-1M: Large-scale Stereo Image Dataset for 6D Object Pose Estimation**
+
+- 论文/paper：https://arxiv.org/abs/2109.10115
+- 代码/code：None
+
 **STRIVE: Scene Text Replacement In Videos**
 
 - 论文/paper：https://arxiv.org/abs/2109.02762 | [主页/Homepage](https://striveiccv2021.github.io/STRIVE-ICCV2021/)
@@ -1013,8 +1018,8 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - demo：https://www.bilibili.com/video/BV1Eg41157q3
 
-- 论文/paper：None | [主页/homepage](https://joonyoung-cv.github.io/)
-- 代码/code：None
+- 论文/paper：https://arxiv.org/abs/2109.11404 | [主页/homepage](https://joonyoung-cv.github.io/)
+- 代码/code：Hierarchical Memory Matching Network for Video Object Segmentation
 
 **Joint Inductive and Transductive Learning for Video Object Segmentation**
 
@@ -1041,6 +1046,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Eformer: Edge Enhancement based Transformer for Medical Image Denoising**
 
 - 论文/paper：https://arxiv.org/abs/2109.08044
+- 代码/code：None
+
+**Improving Tuberculosis (TB) Prediction using Synthetically Generated Computed Tomography (CT) Images**
+
+- 论文/paper：https://arxiv.org/abs/2109.11480
 - 代码/code：None
 
 **Preservational Learning Improves Self-supervised Medical Image Models by Reconstructing Diverse Contexts**
@@ -3550,6 +3560,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2109.09032
 - 代码/code：https://github.com/sndnyang/JEMPP
+
+**Rational Polynomial Camera Model Warping for Deep Learning Based Satellite Multi-View Stereo Matching**
+
+- 论文/paper：https://arxiv.org/abs/2109.11121
+- 代码/code：https://github.com/WHU-GPCV/SatMVS
 
  [返回目录/back](#Contents)
 
