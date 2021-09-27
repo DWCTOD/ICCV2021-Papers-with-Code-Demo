@@ -1194,6 +1194,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.08826
 - 代码/code：None
 
+**Unaligned Image-to-Image Translation by Learning to Reweight**
+
+- 论文/paper：https://arxiv.org/abs/2109.11736
+- 代码/code：None
+
 **Unconditional Scene Graph Generation**
 
 - 论文/paper：https://arxiv.org/abs/2108.05884
@@ -3565,6 +3570,16 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2109.11121
 - 代码/code：https://github.com/WHU-GPCV/SatMVS
+
+**Long Short View Feature Decomposition via Contrastive Video Representation Learning**
+
+- 论文/paper：https://arxiv.org/abs/2109.11593
+- 代码/code：None
+
+**Visual Scene Graphs for Audio Source Separation**
+
+- 论文/paper：https://arxiv.org/abs/2109.11955
+- 代码/code：None
 
  [返回目录/back](#Contents)
 
