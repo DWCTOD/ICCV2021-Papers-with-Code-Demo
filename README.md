@@ -2041,6 +2041,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2109.09879
 - 代码/code：None
 
+**Excavating the Potential Capacity of Self-Supervised Monocular Depth Estimation**
+
+- 论文/paper：https://arxiv.org/abs/2109.12484
+- 代码/code：None
+
 **Fine-grained Semantics-aware Representation Enhancement for Self-supervised Monocular Depth Estimation**   (oral)
 
 - 论文/paper：https://arxiv.org/abs/2108.08829
@@ -2538,6 +2543,12 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
  [返回目录/back](#Contents)
 
 ## Knowledge Distillation
+
+**Deep Structured Instance Graph for Distilling Object Detectors**
+
+- 论文/paper：https://arxiv.org/abs/2109.12862
+
+- 代码/code：https://github.com/dvlab-research/Dsig
 
 **Distilling Holistic Knowledge with Graph Neural Networks**
 
@@ -3579,6 +3590,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Visual Scene Graphs for Audio Source Separation**
 
 - 论文/paper：https://arxiv.org/abs/2109.11955
+- 代码/code：None
+
+**Meta-Aggregator: Learning to Aggregate for 1-bit Graph Neural Networks**
+
+- 论文/paper：https://arxiv.org/abs/2109.12872
 - 代码/code：None
 
  [返回目录/back](#Contents)
