@@ -618,6 +618,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.10809
 - 代码/code：None
 
+**Towards Rotation Invariance in Object Detection**
+
+- 论文/paper：https://arxiv.org/abs/2109.13488
+- 代码/code：None
+
 **TOOD: Task-aligned One-stage Object Detection** (Oral)
 
 - 论文/paper：https://arxiv.org/abs/2108.07755
@@ -1461,6 +1466,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Trash to Treasure: Harvesting OOD Data with Cross-Modal Matching for Open-Set Semi-Supervised Learning**
 
 - 论文/paper：https://arxiv.org/abs/2108.05617
+- 代码/code：None
+
+**Warp-Refine Propagation: Semi-Supervised Auto-labeling via Cycle-consistency**
+
+- 论文/paper：https://arxiv.org/abs/2109.13432
 - 代码/code：None
 
 [返回目录/back](#Contents)
@@ -3595,6 +3605,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Meta-Aggregator: Learning to Aggregate for 1-bit Graph Neural Networks**
 
 - 论文/paper：https://arxiv.org/abs/2109.12872
+- 代码/code：None
+
+**Modelling Neighbor Relation in Joint Space-Time Graph for Video Correspondence Learning**
+
+- 论文/paper：https://arxiv.org/abs/2109.13499
 - 代码/code：None
 
  [返回目录/back](#Contents)
