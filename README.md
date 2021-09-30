@@ -2373,6 +2373,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2109.06620
 - 代码/code：https://github.com/jianzhangcs/DAGL
 
+**Towards Flexible Blind JPEG Artifacts Removal**
+
+- 论文/paper：https://arxiv.org/abs/2109.14573
+- 代码/code：https://github.com/jiaxi-jiang/FBCNN
+
 [返回目录/back](#Contents)
 
 <a name="Image-Inpainting"></a>
@@ -3610,6 +3615,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Modelling Neighbor Relation in Joint Space-Time Graph for Video Correspondence Learning**
 
 - 论文/paper：https://arxiv.org/abs/2109.13499
+- 代码/code：None
+
+**Meta Learning on a Sequence of Imbalanced Domains with Difficulty Awareness**
+
+- 论文/paper：https://arxiv.org/abs/2109.14120
 - 代码/code：None
 
  [返回目录/back](#Contents)
