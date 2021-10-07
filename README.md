@@ -301,6 +301,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## Image Classification
 
+**Influence-Balanced Loss for Imbalanced Visual Classification**
+
+- 论文/paper：https://arxiv.org/abs/2110.02444
+- 代码/code：None
+
 **Low-Shot Validation: Active Importance Sampling for Estimating Classifier Performance on Rare Categories**
 
 - 论文/paper：https://arxiv.org/abs/2109.05720
@@ -603,6 +608,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2109.05986
 - 代码/code：None
 
+**Moving Object Detection for Event-based vision using Graph Spectral Clustering**
+
+- 论文/paper：https://arxiv.org/abs/2109.14979
+- 代码/code：None
+
 **Oriented R-CNN for Object Detection**
 
 - 论文/paper：https://arxiv.org/abs/2108.05699
@@ -616,6 +626,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Reconcile Prediction Consistency for Balanced Object Detection**
 
 - 论文/paper：https://arxiv.org/abs/2108.10809
+- 代码/code：None
+
+**Seeking Similarities over Differences: Similarity-based Domain Alignment for Adaptive Object Detection**
+
+- 论文/paper：https://arxiv.org/abs/2110.01428
 - 代码/code：None
 
 **Towards Rotation Invariance in Object Detection**
@@ -644,15 +659,25 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.03551
 - 代码/code：None
 
+**Light Field Saliency Detection with Dual Local Graph Learning andReciprocative Guidance**
+
+- 论文/paper：https://arxiv.org/abs/2110.00698
+- 代码/code：None
+
 **RGB-D Saliency Detection via Cascaded Mutual Information Minimization**
 
 - 论文/paper：https://arxiv.org/abs/2109.07246
-- 代码/code：
+- 代码/code：https://github.com/JingZhang617/cascaded_rgbd_sod
 
 **Specificity-preserving RGB-D Saliency Detection**
 
 - 论文/paper：https://arxiv.org/abs/2108.08162
 - 代码/code：https://github.com/taozh2017/SPNet
+
+**Summarize and Search: Learning Consensus-aware Dynamic Convolution for Co-Saliency Detection**
+
+- 论文/paper：https://arxiv.org/abs/2109.07246
+- 代码/code：https://github.com/nnizhang/CADC
 
 [返回目录/back](#Contents)
 
@@ -673,6 +698,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **LIGA-Stereo: Learning LiDAR Geometry Aware Representations for Stereo-based 3D Detector**
 
 - 论文/paper：https://arxiv.org/abs/2108.08258
+- 代码/code：None
+
+**MonoCInIS: Camera Independent Monocular 3D Object Detection using Instance Segmentation**
+
+- 论文/paper：https://arxiv.org/abs/2110.00464
 - 代码/code：None
 
 **Improving 3D Object Detection with Channel-wise Transformer**
@@ -998,10 +1028,20 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2105.01928
 - 代码/code： https://github.com/hustvl/QueryInst
 
+**Instance Segmentation Challenge Track Technical Report, VIPriors Workshop at ICCV 2021: Task-Specific Copy-Paste Data Augmentation Method for Instance Segmentation**
+
+- 论文/paper：https://arxiv.org/abs/2110.00470
+- 代码/code：https://github.com/jahongir7174/VIP2021
+
 **Rank & Sort Loss for Object Detection and Instance Segmentation** (Oral)
 
 - 论文/paper：https://arxiv.org/abs/2107.11669
 - 代码/code：https://github.com/kemaloksuz/RankSortLoss
+
+**Scaling up instance annotation via label propagation**
+
+- 论文/paper：https://arxiv.org/abs/2110.02277
+- 代码/code：http://scaling-anno.csail.mit.edu/
 
 [返回目录/back](#Contents)
 
@@ -1544,6 +1584,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.11743
 - 代码/code：None
 
+**Unsupervised Few-Shot Action Recognition via Action-Appearance Aligned Meta-Adaptation** (Oral)
+
+- 论文/paper：https://arxiv.org/abs/2109.15317
+- 代码/code：None
+
 **Video Pose Distillation for Few-Shot, Fine-Grained Sports Action Recognition**
 
 - 论文/paper：https://arxiv.org/abs/2109.01305
@@ -1632,6 +1677,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.06428
 - 代码/code：None
 
+**Hierarchical Kinematic Probability Distributions for 3D Human Shape and Pose Estimation from Images in the Wild**
+
+- 论文/paper：https://arxiv.org/abs/2110.00990
+- 代码/code：https://github.com/akashsengupta1997/HierarchicalProbabilistic3DHuman
+
 **Learning Skeletal Graph Neural Networks for Hard 3D Pose Estimation**
 
 - 论文/paper：https://arxiv.org/abs/2108.07181
@@ -1646,6 +1696,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2103.16507 | [主页/Homepage](https://hongwenzhang.github.io/pymaf/)
 - 代码/code： https://github.com/HongwenZhang/PyMAF
+
+**Shape-aware Multi-Person Pose Estimation from Multi-View Images**
+
+- 论文/paper：https://arxiv.org/abs/2110.02330  | [主页/Homepage](https://ait.ethz.ch/projects/2021/multi-human-pose/)
+- 代码/code：None
 
 **Unsupervised 3D Pose Estimation for Hierarchical Dance Video Recognition**
 
@@ -1811,6 +1866,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="Re-Identification"></a>
 
 ## 行人重识别/Re-Identification
+
+**A Technical Report for ICCV 2021 VIPriors Re-identification Challenge**
+
+- 论文/paper：https://arxiv.org/abs/2109.15164
+- 代码/code：None
 
 **ASMR: Learning Attribute-Based Person Search with Adaptive Semantic Margin Regularizer**
 
@@ -1985,7 +2045,14 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## deepfake
 
+**OpenForensics: Large-Scale Challenging Dataset For Multi-Face Forgery Detection And Segmentation In-The-Wild**
+
 - 论文/paper：https://arxiv.org/abs/2107.14480 | [Dataset](https://sites.google.com/view/ltnghia/research/openforensics)
+- 代码/code：None
+
+**Fake It Till You Make It: Face analysis in the wild using synthetic data alone**
+
+- 论文/paper：https://arxiv.org/abs/2109.15102
 - 代码/code：None
 
 [返回目录/back](#Contents)
@@ -2659,6 +2726,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2107.14790
 - 代码/code：None
+
+**PCAM: Product of Cross-Attention Matrices for Rigid Registration of Point Clouds**
+
+- 论文/paper：https://arxiv.org/abs/2110.01269
+- 代码/code：https://github.com/valeoai/PCAM
 
 **PICCOLO: Point Cloud-Centric Omnidirectional Localization**
 
@@ -3621,6 +3693,76 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2109.14120
 - 代码/code：None
+
+**Sensor-Guided Optical Flow**
+
+- 论文/paper：https://arxiv.org/abs/2109.15321
+- 代码/code：None
+
+**CrossCLR: Cross-modal Contrastive Learning For Multi-modal Video Representations**
+
+- 论文/paper：https://arxiv.org/abs/2109.14910
+- 代码/code：None
+
+**Video Autoencoder: self-supervised disentanglement of static 3D structure and motion**
+
+- 论文/paper：https://arxiv.org/abs/2110.02951
+- 代码/code：None
+
+**Topologically Consistent Multi-View Face Inference Using Volumetric Sampling**
+
+- 论文/paper：https://arxiv.org/abs/2110.02948
+- 代码/code：https://tianyeli.github.io/tofu
+
+**Extensions of Karger's Algorithm: Why They Fail in Theory and How They Are Useful in Practice** （Oral）
+
+- 论文/paper：https://arxiv.org/abs/2110.02750
+- 代码/code：None
+
+**HighlightMe: Detecting Highlights from Human-Centric Videos**
+
+- 论文/paper：https://arxiv.org/abs/2110.01774
+- 代码/code：None
+
+**How You Move Your Head Tells What You Do: Self-supervised Video Representation Learning with Egocentric Cameras and IMU Sensors**
+
+- 论文/paper：https://arxiv.org/abs/2110.01680
+- 代码/code：None
+
+**Structured Bird's-Eye-View Traffic Scene Understanding from Onboard Images**
+
+- 论文/paper：https://arxiv.org/abs/2110.01997
+- 代码/code：https://github.com/ybarancan/STSU
+
+**Waypoint Models for Instruction-guided Navigation in Continuous Environments**
+
+- 论文/paper：https://arxiv.org/abs/2110.02207
+- 代码/code：None
+
+**Procedure Planning in Instructional Videosvia Contextual Modeling and Model-based Policy Learning** （Oral）
+
+- 论文/paper：https://arxiv.org/abs/2110.01770
+- 代码/code：None
+
+**De-rendering Stylized Texts**
+
+- 论文/paper：https://arxiv.org/abs/2110.01890
+- 代码/code：https://github.com/CyberAgentAILab/derendering-text
+
+**Spatio-Temporal Video Representation Learning for AI Based Video Playback Style Prediction**
+
+- 论文/paper：https://arxiv.org/abs/2110.01015
+- 代码/code：None
+
+**Keypoint Communities**
+
+- 论文/paper：https://arxiv.org/abs/2110.00988
+- 代码/code：None
+
+**Calibrating Concepts and Operations: Towards Symbolic Reasoning on Real Images**
+
+- 论文/paper：https://arxiv.org/abs/2110.00519
+- 代码/code：https://github.com/Lizw14/CaliCO
 
  [返回目录/back](#Contents)
 
