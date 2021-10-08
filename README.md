@@ -64,7 +64,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Weakly Supervised](#Weakly-Supervised)
 - [Active Learning](#Active-Learning)
 - [Action Detection](#Action-Detection)
-- [ 动作识别/Action Recognition](#HumanActions)
+- [动作识别/Action Recognition](#HumanActions)
 - [时序行为检测 / Temporal Action Localization](#TemporalActionLocalization)
 - [手语识别/Sign Language Recognition](#SignLanguageRecognition)
 - [Hand Pose Estimation](#Hand-Pose-Estimation)
@@ -1082,6 +1082,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.00622
 - 代码/code：None
 
+**Uncertainty-aware GAN with Adaptive Loss for Robust MRI Image Enhancement**
+
+- 论文/paper：https://arxiv.org/abs/2110.03343
+- 代码/code：None
+
 [返回目录/back](#Contents)
 
 <a name="Medical-Image-Analysis"></a>
@@ -1557,6 +1562,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## Action Recognition
 
+ **A Baseline Framework for Part-level Action Parsing and Action Recognition**
+
+- 论文/paper：https://arxiv.org/abs/2110.03368
+- 代码/code：None
+
 **Channel-wise Topology Refinement Graph Convolution for Skeleton-Based Action Recognition**
 
 - 论文/paper：https://arxiv.org/abs/2107.12213
@@ -1742,6 +1752,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **imGHUM: Implicit Generative Models of 3D Human Shape and Articulated Pose**
 
 - 论文/paper：https://arxiv.org/abs/2108.10842
+- 代码/code：None
+
+**Learning to Regress Bodies from Images using Differentiable Semantic Rendering**
+
+- 论文/paper：https://arxiv.org/abs/2110.03480 | [主页/Homepage](https://dsr.is.tue.mpg.de/)
 - 代码/code：None
 
 **Learning Motion Priors for 4D Human Body Capture in 3D Scenes** (Oral)
@@ -2530,6 +2545,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/pdf/2012.06060.pdf
 - 代码/code：https://github.com/fredzzhang/spatially-conditioned-graphs
+
+**Virtual Multi-Modality Self-Supervised Foreground Matting for Human-Object Interaction**
+
+- 论文/paper：https://arxiv.org/abs/2110.03278
+- 代码/code：None
 
  [返回目录/back](#Contents)
 
@@ -3763,6 +3783,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2110.00519
 - 代码/code：https://github.com/Lizw14/CaliCO
+
+**A Hierarchical Variational Neural Uncertainty Model for Stochastic Video Prediction**  (Oral)
+
+- 论文/paper：https://arxiv.org/abs/2110.03446
+- 代码/code：None
 
  [返回目录/back](#Contents)
 
