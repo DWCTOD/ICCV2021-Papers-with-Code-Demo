@@ -1134,6 +1134,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.08815
 - 代码/code：https://github.com/PierfrancescoArdino/C2M
 
+**Collaging Class-specific GANs for Semantic Image Synthesis**
+
+- 论文/paper：https://arxiv.org/abs/2110.04281
+- 代码/code：None
+
 **Disentangled Lifespan Face Synthesis**
 
 - 论文/paper：https://arxiv.org/abs/2108.02874 | [主页/Homepage](https://senhe.github.io/projects/iccv_2021_lifespan_face/)
@@ -1233,6 +1238,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.08121
 - 代码/code：https://github.com/MCG-NJU/TRACE
+
+**Toward a Visual Concept Vocabulary for GAN Latent Space**
+
+- 论文/paper：https://arxiv.org/abs/2110.04292
+- 代码/code：None
 
 **Toward Spatially Unbiased Generative Models**
 
@@ -1379,6 +1389,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.08165
 - 代码/code：None
+
+**Meta-Learning with Task-Adaptive Loss Function for Few-Shot Learning**
+
+- 论文/paper：https://arxiv.org/abs/2110.03909
+- 代码/code：https://github.com/baiksung/MeTAL
 
 **Meta Navigator: Search for a Good Adaptation Policy for Few-shot Learning**
 
@@ -3788,6 +3803,16 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2110.03446
 - 代码/code：None
+
+**2nd Place Solution to Google Landmark Retrieval 2021**
+
+- 论文/paper：https://arxiv.org/abs/2110.04294
+- 代码/code：https://github.com/WesleyZhang1991/Google_Landmark_Retrieval_2021_2nd_Place_Solution
+
+**Neural Strokes: Stylized Line Drawing of 3D Shapes**
+
+- 论文/paper：https://arxiv.org/abs/2110.03900
+- 代码/code：https://arxiv.org/abs/2110.03900
 
  [返回目录/back](#Contents)
 
