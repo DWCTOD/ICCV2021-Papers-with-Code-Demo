@@ -163,6 +163,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## Dataset
 
+**Beyond Road Extraction: A Dataset for Map Update using Aerial Images**
+
+- 论文/paper：https://arxiv.org/abs/2110.04690
+- 代码/code： None
+
 :heavy_check_mark:**FineAction: A Fined Video Dataset for Temporal Action Localization**
 
 - 论文/paper：https://arxiv.org/abs/2105.11107 | [主页/Homepage](https://deeperaction.github.io/fineaction/)
@@ -607,6 +612,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2109.05986
 - 代码/code：None
+
+**Morphable Detector for Object Detection on Demand**
+
+- 论文/paper：https://arxiv.org/abs/2110.04917
+- 代码/code：https://github.com/Zhaoxiangyun/Morphable-Detector
 
 **Moving Object Detection for Event-based vision using Graph Spectral Clustering**
 
@@ -1254,6 +1264,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.08826
 - 代码/code：None
 
+**Bridging the Gap between Label- and Reference-based Synthesis in Multi-attribute Image-to-Image Translation**
+
+- 论文/paper：https://arxiv.org/abs/2110.05055
+- 代码/code：None
+
 **Unaligned Image-to-Image Translation by Learning to Reweight**
 
 - 论文/paper：https://arxiv.org/abs/2109.11736
@@ -1680,6 +1695,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.02092
 - 代码/code： None
 
+**The Center of Attention: Center-Keypoint Grouping via Attention for Multi-Person Pose Estimation**
+
+- 论文/paper：https://arxiv.org/abs/2110.05132
+- 代码/code：https://github.com/dvl-tum/center-group
+
 **TransPose: Keypoint Localization via Transformer**
 
 - 论文/paper：https://arxiv.org/abs/2012.14214
@@ -1868,6 +1888,12 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="FaceReconstruction"></a>
 
 # Face Reconstruction
+
+**Self-Supervised 3D Face Reconstruction via Conditional Estimation**
+
+- 论文/paper：https://arxiv.org/abs/2110.04800
+
+- 代码/code：None
 
 **Towards High Fidelity Monocular Face Reconstruction with Rich Reflectance using Self-supervised Learning and Ray Tracing**
 
@@ -2389,6 +2415,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.12841
 - 代码/code：None
 
+**Rethinking Noise Synthesis and Modeling in Raw Denoising**
+
+- 文/paper：https://arxiv.org/abs/2110.04756
+- 代码/code：None
+
 [返回目录/back](#Contents)
 
 <a name="ImageDesnowing"></a>
@@ -2770,6 +2801,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **PICCOLO: Point Cloud-Centric Omnidirectional Localization**
 
 - 论文/paper：https://arxiv.org/abs/2108.06545
+- 代码/code：None
+
+**Point Cloud Augmentation with Weighted Local Transformations**
+
+- 论文/paper：https://arxiv.org/abs/2110.05379
 - 代码/code：None
 
 **PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers**  (Oral)
@@ -3812,7 +3848,37 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Neural Strokes: Stylized Line Drawing of 3D Shapes**
 
 - 论文/paper：https://arxiv.org/abs/2110.03900
-- 代码/code：https://arxiv.org/abs/2110.03900
+- 代码/code：https://github.com/DifanLiu/NeuralStrokes
+
+**SignBERT: Pre-Training of Hand-Model-Aware Representation for Sign Language Recognition**
+
+- 论文/paper：https://arxiv.org/abs/2110.05382
+- 代码/code：None
+
+**Learning Realistic Human Reposing using Cyclic Self-Supervision with 3D Shape, Pose, and Appearance Consistency**
+
+- 论文/paper：https://arxiv.org/abs/2110.05458
+- 代码/code：None
+
+**Pano-AVQA: Grounded Audio-Visual Question Answering on 360∘ Videos**
+
+- 论文/paper：https://arxiv.org/abs/2110.05122
+- 代码/code：None
+
+**Omnidata: A Scalable Pipeline for Making Multi-Task Mid-Level Vision Datasets from 3D Scans**
+
+- 论文/paper：https://arxiv.org/abs/2110.04994
+- 代码/code：None
+
+**BuildingNet: Learning to Label 3D Buildings**  (oral)
+
+- 论文/paper：https://arxiv.org/abs/2110.04955
+- 代码/code：None
+
+**SOMA: Solving Optical Marker-Based MoCap Automatically**
+
+- 论文/paper：https://arxiv.org/abs/2110.04431
+- 代码/code：None
 
  [返回目录/back](#Contents)
 
