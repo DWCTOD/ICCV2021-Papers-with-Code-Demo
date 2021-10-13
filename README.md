@@ -1564,6 +1564,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2108.06524
 - 代码/code：https://github.com/LeonHLJ/FAC-Net
 
+**Online Refinement of Low-level Feature Based Activation Map for Weakly Supervised Object Localization**
+
+- 论文/paper：https://arxiv.org/abs/2110.05741
+- 代码/code：None
+
 [返回目录/back](#Contents)
 
 <a name="Active-Learning"></a>
@@ -2383,6 +2388,16 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="Deblurring"></a>
 
 ## Image Deblurring
+
+**Defocus Map Estimation and Deblurring from a Single Dual-Pixel Image**  (Oral)
+
+- 论文/paper：https://arxiv.org/abs/2110.05655
+- 代码/code：None
+
+**SDWNet: A Straight Dilated Network with Wavelet Transformation for Image Deblurring**
+
+- 论文/paper：https://arxiv.org/abs/2110.05803
+- 代码/code：https://github.com/FlyEgle/SDWNet
 
 **Single Image Defocus Deblurring Using Kernel-Sharing Parallel Atrous Convolutions**
 
@@ -3878,6 +3893,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **SOMA: Solving Optical Marker-Based MoCap Automatically**
 
 - 论文/paper：https://arxiv.org/abs/2110.04431
+- 代码/code：None
+
+**Topic Scene Graph Generation by Attention Distillation from Caption**
+
+- 论文/paper：https://arxiv.org/abs/2110.05731
 - 代码/code：None
 
  [返回目录/back](#Contents)
