@@ -2630,6 +2630,12 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## Contrastive-Learning
 
+**Attentive and Contrastive Learning for Joint Depth and Motion Field Estimation**
+
+- 论文/paper：https://arxiv.org/abs/2110.06853
+
+- 代码/code：None
+
 **Improving Contrastive Learning by Visualizing Feature Transformation**
 
 - 论文/paper：https://arxiv.org/abs/2108.02982
@@ -2702,6 +2708,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2108.02720
 - 代码/code：https://github.com/ZiweiWangTHU/GMPQ
+
+**Towards Mixed-Precision Quantization of Neural Networks via Constrained Optimization**
+
+- 论文/paper：https://arxiv.org/abs/2110.06554
+- 代码/code：None
 
  [返回目录/back](#Contents)
 
@@ -3898,6 +3909,16 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Topic Scene Graph Generation by Attention Distillation from Caption**
 
 - 论文/paper：https://arxiv.org/abs/2110.05731
+- 代码/code：None
+
+**Winning the ICCV'2021 VALUE Challenge: Task-aware Ensemble and Transfer Learning with Visual Concepts**
+
+- 论文/paper：https://arxiv.org/abs/2110.06476
+- 代码/code：None
+
+**Understanding of Emotion Perception from Art**
+
+- 论文/paper：https://arxiv.org/abs/2110.06486
 - 代码/code：None
 
  [返回目录/back](#Contents)
