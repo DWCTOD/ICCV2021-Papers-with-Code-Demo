@@ -3921,6 +3921,16 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2110.06486
 - 代码/code：None
 
+**Nuisance-Label Supervision: Robustness Improvement by Free Labels**
+
+- 论文/paper：https://arxiv.org/abs/2110.07118
+- 代码/code：None
+
+**Simple Baseline for Single Human Motion Forecasting**
+
+- 论文/paper：https://arxiv.org/abs/2110.07495
+- 代码/code：None
+
  [返回目录/back](#Contents)
 
 
