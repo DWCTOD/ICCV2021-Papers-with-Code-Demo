@@ -1597,6 +1597,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## Action Recognition
 
+**"Knights": First Place Submission for VIPriors21 Action Recognition Challenge at ICCV 2021**
+
+- 论文/paper：https://arxiv.org/abs/2110.07758
+- 代码/code：None https://vipriors.github.io/challenges/#action-recognition
+
  **A Baseline Framework for Part-level Action Parsing and Action Recognition**
 
 - 论文/paper：https://arxiv.org/abs/2110.03368
@@ -2792,6 +2797,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **DRINet: A Dual-Representation Iterative Learning Network for Point Cloud Segmentation**
 
 - 论文/paper：https://arxiv.org/abs/2108.04023
+- 代码/code：None
+
+**Guided Point Contrastive Learning for Semi-supervised Point Cloud Semantic Segmentation**
+
+- 论文/paper：https://arxiv.org/abs/2110.08188
 - 代码/code：None
 
 **Learning Inner-Group Relations on Point Clouds**
