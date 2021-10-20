@@ -2684,7 +2684,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 **Sub-bit Neural Networks: Learning to Compress and Accelerate Binary Neural Networks**
 
-- 论文/paper：None
+- 论文/paper：https://arxiv.org/abs/2110.09195
 
 - 代码/code：https://github.com/yikaiw/SNN
 
@@ -2792,6 +2792,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **CPFN: Cascaded Primitive Fitting Networks for High-Resolution Point Clouds**
 
 - 论文/paper：https://arxiv.org/abs/2109.00113
+- 代码/code：None
+
+**Deep Models with Fusion Strategies for MVP Point Cloud Registration**
+
+- 论文/paper：https://arxiv.org/abs/2110.09129
 - 代码/code：None
 
 **DRINet: A Dual-Representation Iterative Learning Network for Point Cloud Segmentation**
@@ -3013,6 +3018,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2105.00636
 - 代码/code：https://arxiv.org/abs/2105.00636
+
+**MAAD: A Model and Dataset for "Attended Awareness" in Driving**
+
+- 论文/paper：https://arxiv.org/abs/2110.08610
+- 代码/code：https://github.com/ToyotaResearchInstitute/att-aware/
 
 **MultiSiam: Self-supervised Multi-instance Siamese Representation Learning for Autonomous Driving**
 
@@ -3939,6 +3949,11 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Simple Baseline for Single Human Motion Forecasting**
 
 - 论文/paper：https://arxiv.org/abs/2110.07495
+- 代码/code：None
+
+**PixelPyramids: Exact Inference Models from Lossless Image Pyramids**
+
+- 论文/paper：https://arxiv.org/abs/2110.08787
 - 代码/code：None
 
  [返回目录/back](#Contents)
