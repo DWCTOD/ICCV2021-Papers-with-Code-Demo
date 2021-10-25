@@ -2,8 +2,12 @@
 
  :star_and_crescent:**论文下载：**
 
-**密码：aicv**
-
+> ICCV2021 论文下载汇总：
+>
+> 链接: https://pan.baidu.com/s/1vmOQzLG1QaBCgQD1ijtYuw 
+>
+> 提取码: bp9j （解压密码，联系微信 nvshenj125 获取）
+>
 > CVPR 2021整理：https://github.com/DWCTOD/CVPR2021-Papers-with-Code-Demo
 >
 > **论文下载：https://pan.baidu.com/share/init?surl=gjfUQlPf73MCk4vM8VbzoA**
