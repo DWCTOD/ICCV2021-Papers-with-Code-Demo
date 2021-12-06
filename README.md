@@ -2,7 +2,7 @@
 
  :star_and_crescent:**论文下载：**
 
-<img src="https://mmbiz.qpic.cn/mmbiz_png/7jnsg27ZEVHj0rl7A0AdGKcLfS6F9l6OWkUMx2f9ibBaISiclzWiaOzzPXrF7lmmibAMg6EicMqDNTybXe2TzlLJ7xw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1">
+<img src="https://img-blog.csdnimg.cn/img_convert/4f99a1602de4f30969302621a0f32e84.gif" width=200>
 
 > ICCV2021 论文下载汇总：
 >
