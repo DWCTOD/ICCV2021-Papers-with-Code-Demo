@@ -1676,6 +1676,7 @@ ICCV 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2110.05382
 - 代码/code：None
+
 **Visual Alignment Constraint for Continuous Sign Language Recognition**
 
 - 论文/paper：https://arxiv.org/abs/2104.02330
